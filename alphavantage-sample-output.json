@@ -1,0 +1,2525 @@
+{
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Form 4 Oxford Industries Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-oxford-industries-inc-for-2-july-93CH-4719123",
+            "time_published": "20260703T044103",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article reports on a Form 4 filing for Oxford Industries Inc. on July 2nd. It provides the stock symbol OXM and notes a -3.03% change, attributing the information to Investing.com and Reuters. The main content indicates the filing date without further details of its contents.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEA601YK_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.923683"
+                }
+            ],
+            "overall_sentiment_score": -0.265832,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "OXM",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.310806",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.614499",
+                    "ticker_sentiment_score": "-0.604246",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.643335",
+                    "ticker_sentiment_score": "-0.625706",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.609541",
+                    "ticker_sentiment_score": "0.612801",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Vishay Intertechnology and Power Integrations Stocks Trade Down, What You Need To Know",
+            "url": "https://uk.finance.yahoo.com/news/vishay-intertechnology-power-integrations-stocks-025224502.html",
+            "time_published": "20260703T031013",
+            "authors": [
+                "Jabin Bastian"
+            ],
+            "summary": "Vishay Intertechnology and Power Integrations stocks fell following a broader semiconductor sector pullback driven by fears of cooling AI-driven chip demand. A Citi analyst's warning about AI infrastructure spending and reports of Meta selling AI computing power contributed to negative sentiment and fears of overcapacity. Vishay Intertechnology's drop was also influenced by a recent discounted stock offering.",
+            "banner_image": null,
+            "source": "Yahoo Finance UK",
+            "category_within_source": "General",
+            "source_domain": "Yahoo Finance UK",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.936414"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.810037"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.637713"
+                }
+            ],
+            "overall_sentiment_score": -0.466295,
+            "overall_sentiment_label": "Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "POWI",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.638358",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.744003",
+                    "ticker_sentiment_score": "-0.446670",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.648790",
+                    "ticker_sentiment_score": "-0.348925",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Hilltop Holdings Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-hilltop-holdings-inc-for-2-july-93CH-4719302",
+            "time_published": "20260703T014016",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article announces a Form 4 filing for Hilltop Holdings Inc. dated July 2nd. It mentions the company's stock symbol HTH and includes general market data and related news not specific to the Form 4 filing itself.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB660A4_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.916111"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.707312"
+                }
+            ],
+            "overall_sentiment_score": 0.039802,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HTH",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.046726",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.612247",
+                    "ticker_sentiment_score": "0.006622",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.602655",
+                    "ticker_sentiment_score": "0.017039",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.646118",
+                    "ticker_sentiment_score": "0.022266",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Outfront Media Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-outfront-media-inc-for-2-july-93CH-4719463",
+            "time_published": "20260703T010927",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "Investing.com has published a Form 4 filing for Outfront Media Inc. relevant to July 2nd. Form 4 filings are used to disclose transactions by company insiders, providing transparency into their stock ownership changes. The article itself is very short and mainly serves as an announcement for the filing, with the bulk of the page dedicated to market data and other news.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB5S0BB_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.907119"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.737146"
+                }
+            ],
+            "overall_sentiment_score": -0.141054,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "OUT",
+                    "relevance_score": "0.927479",
+                    "ticker_sentiment_score": "0.006920",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.607666",
+                    "ticker_sentiment_score": "-0.343645",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.620109",
+                    "ticker_sentiment_score": "0.324740",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.636861",
+                    "ticker_sentiment_score": "-0.417652",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "VOO ETF Picks Up on Weaker Labor Market Data Amid Tech Stock Drag",
+            "url": "https://www.tipranks.com/news/voo-etf-surges-on-weaker-labor-market-data-amid-tech-stock-drag",
+            "time_published": "20260703T004153",
+            "authors": [
+                "Joy Iyke"
+            ],
+            "summary": "The Vanguard S&P 500 ETF (VOO) saw a slight rebound after a weaker-than-expected U.S. labor market report eased concerns about a Fed interest rate hike, despite initial premarket losses. However, the ETF remains under pressure due to the Federal Reserve's commitment to a 2% inflation target and recent profit-taking in the tech sector, which significantly impacts VOO due to its market-cap-weighted structure and large holdings in major tech companies. Despite these headwinds, Wall Street analysts maintain a Strong Buy rating for VOO, with an implied upside of over 22%.",
+            "banner_image": "https://blog.tipranks.com/wp-content/uploads/2026/07/shutterstock_2661420559-750x406.jpg",
+            "source": "TipRanks",
+            "category_within_source": "General",
+            "source_domain": "TipRanks",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.918330"
+                },
+                {
+                    "topic": "economy_monetary",
+                    "relevance_score": "0.821634"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.701166"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.623752"
+                }
+            ],
+            "overall_sentiment_score": -0.153841,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "VOO",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.103764",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MU",
+                    "relevance_score": "0.709649",
+                    "ticker_sentiment_score": "-0.226979",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.605276",
+                    "ticker_sentiment_score": "-0.226921",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.600139",
+                    "ticker_sentiment_score": "-0.217335",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.629378",
+                    "ticker_sentiment_score": "-0.225672",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Omada Health Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-omada-health-inc-for-2-july-93CH-4719431",
+            "time_published": "20260703T003936",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "Investing.com published a Form 4 for Omada Health Inc. on July 2nd. The article provides the title of the SEC filing and includes general market data and news headlines. It does not offer detailed information about the Form 4 itself but focuses on market performance and other financial news.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB65083_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.921115"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.609240"
+                }
+            ],
+            "overall_sentiment_score": -0.133916,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "OMDA",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.198186",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.670208",
+                    "ticker_sentiment_score": "-0.322775",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.612801",
+                    "ticker_sentiment_score": "0.333475",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.618853",
+                    "ticker_sentiment_score": "-0.334867",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Seres Therapeutics Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-seres-therapeutics-inc-for-2-july-93CH-4719289",
+            "time_published": "20260702T224050",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article from Investing.com reports on a Form 4 filing for Seres Therapeutics Inc (MCRB) for July 2nd. The brief post includes various market data for indices, commodities, and bonds, alongside trending and most popular articles on Investing.com. It indicates that the company's stock symbol MCRB was down 2.52% at the time of publication.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEAB20I9_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.908390"
+                },
+                {
+                    "topic": "life_sciences",
+                    "relevance_score": "0.700857"
+                }
+            ],
+            "overall_sentiment_score": -0.168516,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MCRB",
+                    "relevance_score": "0.907822",
+                    "ticker_sentiment_score": "-0.075684",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.631540",
+                    "ticker_sentiment_score": "0.305882",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.646311",
+                    "ticker_sentiment_score": "-0.437592",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.606072",
+                    "ticker_sentiment_score": "-0.410777",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 144 Sight Sciences For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-144-sight-sciences-for-2-july-93CH-4719350",
+            "time_published": "20260702T223918",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article announces the filing of Form 144 for Sight Sciences (SGHT) on July 2. Form 144 filings indicate an insider's intent to sell restricted stock. The brief piece reiterates the headline multiple times and includes a market data table.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB65083_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.903185"
+                }
+            ],
+            "overall_sentiment_score": 0.034339,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SGHT",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.018725",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.642845",
+                    "ticker_sentiment_score": "0.023080",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.639648",
+                    "ticker_sentiment_score": "0.045554",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.628034",
+                    "ticker_sentiment_score": "0.021339",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "The Hartford iPhone Insurance Plan - HIG bets on Apple cover",
+            "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/the-hartford-iphone-insurance-plan-hig-bets-on-apple-cover/69677376",
+            "time_published": "20260702T223352",
+            "authors": [
+                "Daniel Foster"
+            ],
+            "summary": "The Hartford offers an iPhone insurance plan for U.S. customers, providing extended coverage beyond standard warranties for accidental damage and mechanical breakdowns. This plan, sold through partners, includes clear deductibles and streamlined claims handling, positioning The Hartford (HIG) to profit from device protection as part of its broader personal lines portfolio.",
+            "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2471716_1100_0.webp",
+            "source": "Ad-hoc-news.de",
+            "category_within_source": "General",
+            "source_domain": "Ad-hoc-news.de",
+            "topics": [
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.807830"
+                }
+            ],
+            "overall_sentiment_score": 0.234021,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HIG",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.273705",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.905892",
+                    "ticker_sentiment_score": "0.226528",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Illumina Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-illumina-inc-for-2-july-93CH-4719308",
+            "time_published": "20260702T221418",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article reports on a Form 4 filing for Illumina Inc. dated July 2nd. It notes a 2.60% increase in ILMN stock and provides an overview of various financial market data including indices, commodities, bonds, and trending stocks. The content is presented by Investing.com, a financial markets website.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEB230DM_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "1.000000"
+                },
+                {
+                    "topic": "life_sciences",
+                    "relevance_score": "0.700577"
+                }
+            ],
+            "overall_sentiment_score": -0.117116,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ILMN",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.204197",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.625495",
+                    "ticker_sentiment_score": "-0.411409",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.607413",
+                    "ticker_sentiment_score": "0.419185",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.610919",
+                    "ticker_sentiment_score": "-0.507828",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Patriot National Bancorp Inc For: 2 July",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-patriot-national-bancorp-inc-for-2-july-93CH-4719296",
+            "time_published": "20260702T220956",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article announces the filing of Form 4 for Patriot National Bancorp Inc. on July 2nd. It is a brief news item published by Investing.com, typical of regulatory filings updates in the stock market. The content primarily serves as an alert for investors interested in insider transactions of Patriot National Bancorp Inc.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEB59082_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.915796"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.733398"
+                }
+            ],
+            "overall_sentiment_score": -0.078268,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PNBK",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.018339",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.627745",
+                    "ticker_sentiment_score": "0.326139",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.641232",
+                    "ticker_sentiment_score": "-0.343894",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.602251",
+                    "ticker_sentiment_score": "-0.310894",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 PEDEVCO Corp For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-pedevco-corp-for-2-july-93CH-4719242",
+            "time_published": "20260702T220916",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article announces the filing of Form 4 for PEDEVCO Corp on July 2nd. Form 4 is a document that must be filed with the U.S. Securities and Exchange Commission (SEC) by company insiders to report changes in their beneficial ownership of the company's securities. The article provides only this notice and does not elaborate on the details of the filing.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEA601YK_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "1.000000"
+                }
+            ],
+            "overall_sentiment_score": -0.099585,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PED",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.003281",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.581568",
+                    "ticker_sentiment_score": "0.263854",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.585137",
+                    "ticker_sentiment_score": "-0.309115",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.586411",
+                    "ticker_sentiment_score": "-0.341386",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 144 Regeneron Pharmaceuticals For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-144-regeneron-pharmaceuticals-for-2-july-93CH-4719270",
+            "time_published": "20260702T220639",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article announces a Form 144 filing for Regeneron Pharmaceuticals (REGN) on July 2nd. It's a very brief post and doesn't provide further details about the filing, focusing instead on market data and other news. The article also includes various market indices, commodity prices, and stock performances.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB5S0BT_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.932998"
+                },
+                {
+                    "topic": "life_sciences",
+                    "relevance_score": "0.749166"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.639104"
+                }
+            ],
+            "overall_sentiment_score": 0.02071,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "REGN",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.030684",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.594378",
+                    "ticker_sentiment_score": "0.381763",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.564278",
+                    "ticker_sentiment_score": "-0.378996",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "KLA Corporation and Teradyne Stocks Trade Down, What You Need To Know",
+            "url": "https://ca.finance.yahoo.com/news/kla-corporation-teradyne-stocks-trade-024424661.html",
+            "time_published": "20260702T214400",
+            "authors": [
+                "Radek Strnad"
+            ],
+            "summary": "KLA Corporation (KLAC) and Teradyne (TER) stocks traded down following a semiconductor sector pullback driven by fears of cooling AI-driven chip demand and potential overcapacity. A Citi analyst questioned the sustainability of high AI infrastructure spending without clear returns, and reports of Meta selling access to its AI computing power amplified concerns about a potential oversupply in the market. Despite recent analyst upgrades and strong performance from a major customer, Teradyne's stock experienced significant volatility.",
+            "banner_image": null,
+            "source": "Yahoo! Finance Canada",
+            "category_within_source": "General",
+            "source_domain": "Yahoo! Finance Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.906340"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.813107"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.724107"
+                }
+            ],
+            "overall_sentiment_score": -0.075348,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KLAC",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.426343",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "TER",
+                    "relevance_score": "0.962587",
+                    "ticker_sentiment_score": "-0.229553",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.730033",
+                    "ticker_sentiment_score": "0.316905",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.620425",
+                    "ticker_sentiment_score": "-0.205871",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "MU",
+                    "relevance_score": "0.592579",
+                    "ticker_sentiment_score": "0.259157",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Kodiak Sciences Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-kodiak-sciences-inc-for-2-july-93CH-4719257",
+            "time_published": "20260702T214100",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "Investing.com reported on a Form 4 filing for Kodiak Sciences Inc. for July 2nd. The article provides the company name and filing date, alongside various market data and other news headlines, suggesting a brief update on financial regulatory disclosures related to Kodiak Sciences.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB6208D_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.944215"
+                },
+                {
+                    "topic": "life_sciences",
+                    "relevance_score": "0.700679"
+                }
+            ],
+            "overall_sentiment_score": -0.10949,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KOD",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.217017",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.733205",
+                    "ticker_sentiment_score": "0.529003",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.748273",
+                    "ticker_sentiment_score": "-0.596164",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.740190",
+                    "ticker_sentiment_score": "-0.510524",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 13D/A BRIGHT MINDS BIOSCIENCES INC. For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-13da-bright-minds-biosciences-inc-for-2-july-93CH-4719210",
+            "time_published": "20260702T214017",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article announces that BRIGHT MINDS BIOSCIENCES INC. filed a Form 13D/A on July 2nd. The content of the filing itself is not provided, but the article focuses on this specific regulatory event. It is a brief news item indicating a recent corporate action.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB660A4_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.903673"
+                },
+                {
+                    "topic": "life_sciences",
+                    "relevance_score": "0.838033"
+                }
+            ],
+            "overall_sentiment_score": -0.115144,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DRUG",
+                    "relevance_score": "0.336736",
+                    "ticker_sentiment_score": "0.020229",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.813317",
+                    "ticker_sentiment_score": "-0.395595",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.748395",
+                    "ticker_sentiment_score": "-0.408454",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.746539",
+                    "ticker_sentiment_score": "0.386070",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Match Group Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-match-group-inc-for-2-july-93CH-4719159",
+            "time_published": "20260702T213816",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article from Investing.com announces a Form 4 filing for Match Group Inc. on July 2nd. It does not provide further details about the content of the filing but lists various market data and other news headlines.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEE2S13S_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.935869"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.743045"
+                }
+            ],
+            "overall_sentiment_score": -0.262609,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MTCH",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.010372",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.639019",
+                    "ticker_sentiment_score": "0.536177",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.615351",
+                    "ticker_sentiment_score": "-0.725295",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.614293",
+                    "ticker_sentiment_score": "-0.731236",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Archer Daniels Midland For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-archer-daniels-midland-for-2-july-93CH-4719202",
+            "time_published": "20260702T213158",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article from Investing.com announces the filing of Form 4 for Archer Daniels Midland on July 2nd. The content primarily consists of market data, popular news headlines, and various financial tools, with the core announcement being the Form 4 filing for ADM.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB6208D_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.912566"
+                }
+            ],
+            "overall_sentiment_score": -0.106241,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ADM",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.030242",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.616996",
+                    "ticker_sentiment_score": "-0.334186",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.636335",
+                    "ticker_sentiment_score": "0.327951",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.602860",
+                    "ticker_sentiment_score": "-0.335214",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Black Stone Minerals For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-black-stone-minerals-for-2-july-93CH-4719090",
+            "time_published": "20260702T211048",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article reports on a Form 4 filing for Black Stone Minerals on July 2nd. It is a brief announcement with no further details provided in the body of the text, followed by extensive financial market data and popular news links.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEA601YK_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.929536"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.620730"
+                }
+            ],
+            "overall_sentiment_score": -0.171951,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BSM",
+                    "relevance_score": "0.935820",
+                    "ticker_sentiment_score": "0.006641",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.600855",
+                    "ticker_sentiment_score": "-0.491808",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.604727",
+                    "ticker_sentiment_score": "0.401055",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.619738",
+                    "ticker_sentiment_score": "-0.487287",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Bank of Hawaii Corp For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-bank-of-hawaii-corp-for-2-july-93CH-4719084",
+            "time_published": "20260702T211035",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article from Investing.com announces a Form 4 filing for Bank of Hawaii Corp made on July 2nd. It provides key financial data for BOH (-0.30%) and includes a general market overview with various indices, commodities, and stock performances. The content is primarily a data report rather than a detailed analysis.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.846352"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.710575"
+                }
+            ],
+            "overall_sentiment_score": -0.110116,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BOH-P-A",
+                    "relevance_score": "0.302305",
+                    "ticker_sentiment_score": "0.034831",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.733618",
+                    "ticker_sentiment_score": "0.314575",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.711679",
+                    "ticker_sentiment_score": "-0.310035",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.619505",
+                    "ticker_sentiment_score": "-0.348967",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 144 Palomar Holdings For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-144-palomar-holdings-for-2-july-93CH-4719045",
+            "time_published": "20260702T211003",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article provides details on the Form 144 filing for Palomar Holdings (PLMR) on July 2. The filing is presented with a positive stock performance for PLMR, showing a 4.72% increase. The article also includes various market data for indices, commodities, and other stocks.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEA601YK_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.935274"
+                }
+            ],
+            "overall_sentiment_score": -0.115107,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLMR",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.027868",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.631327",
+                    "ticker_sentiment_score": "0.375879",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.614845",
+                    "ticker_sentiment_score": "-0.383625",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.646142",
+                    "ticker_sentiment_score": "-0.394392",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form DEF 14A Research Solutions Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-def-14a-research-solutions-inc-for-2-july-93CH-4719060",
+            "time_published": "20260702T210950",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article announces the filing of Form DEF 14A by Research Solutions Inc. on July 2. The content primarily consists of market data and news headlines from Investing.com, underscoring the routine financial filing.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEA601YK_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.844115"
+                }
+            ],
+            "overall_sentiment_score": 0.096211,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RSSS",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.011373",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.817406",
+                    "ticker_sentiment_score": "0.291807",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.745680",
+                    "ticker_sentiment_score": "0.448170",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.626081",
+                    "ticker_sentiment_score": "-0.320580",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Extra Space Storage Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-extra-space-storage-inc-for-2-july-93CH-4719077",
+            "time_published": "20260702T210735",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article is a brief financial publication from Investing.com, announcing the Form 4 filing for Extra Space Storage Inc. (EXR) on July 2. Form 4 is a U.S. Securities and Exchange Commission filing indicating changes in beneficial ownership of securities, often related to insider trading. The article also provides current stock market data, including various indices, commodities, and bond prices.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB65083_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.931452"
+                },
+                {
+                    "topic": "real_estate",
+                    "relevance_score": "0.602005"
+                }
+            ],
+            "overall_sentiment_score": -0.226166,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EXR",
+                    "relevance_score": "0.300762",
+                    "ticker_sentiment_score": "0.045130",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.602135",
+                    "ticker_sentiment_score": "-0.802954",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.627997",
+                    "ticker_sentiment_score": "0.832248",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.640725",
+                    "ticker_sentiment_score": "-0.810926",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Ambarella Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-ambarella-inc-for-2-july-93CH-4719127",
+            "time_published": "20260702T210715",
+            "authors": [],
+            "summary": "This article from Investing.com announces the Form 4 filing for Ambarella Inc. on July 2. It also notes that Ambarella Inc. (AMBA) stock is down 11.30%. The article is a brief news update and includes various market data and other news headlines.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB66095_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.921313"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.729167"
+                }
+            ],
+            "overall_sentiment_score": -0.219155,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMBA",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.396495",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.624976",
+                    "ticker_sentiment_score": "0.549817",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.608887",
+                    "ticker_sentiment_score": "-0.531635",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.641354",
+                    "ticker_sentiment_score": "-0.549345",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Molina Healthcare Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-molina-healthcare-inc-for-2-july-93CH-4719083",
+            "time_published": "20260702T205713",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "Investing.com published a report titled \"Form 4 Molina Healthcare Inc For: 2 July,\" noting that Molina Healthcare's stock (MOH) experienced a -1.25% change. The article primarily functions as a placeholder for a financial filing and includes various market data and other news headlines.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEB0M0CA_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.934516"
+                }
+            ],
+            "overall_sentiment_score": 0.293481,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MOH",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.035281",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.623375",
+                    "ticker_sentiment_score": "0.515981",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Quest Resource Holding Corp For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-quest-resource-holding-corp-for-2-july-93CH-4719016",
+            "time_published": "20260702T204025",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article announces the filing of Form 4 for Quest Resource Holding Corp on July 2nd, as reported by Investing.com. It indicates insider trading activity for the company (QRHC) on that date. The content provides the headline of this filing and includes general market data and other news.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB66095_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.943665"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.702269"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.600834"
+                }
+            ],
+            "overall_sentiment_score": 0.021717,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "QRHC",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.039388",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.623091",
+                    "ticker_sentiment_score": "0.397954",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.640560",
+                    "ticker_sentiment_score": "-0.356158",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Sionna Therapeutics Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-sionna-therapeutics-inc-for-2-july-93CH-4719089",
+            "time_published": "20260702T203941",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article by Investing.com is a regulatory filing update, specifically a Form 4 for Sionna Therapeutics Inc, filed on July 2nd. It provides a brief mention of the company's stock performance (SION +5.64%) and is embedded within a broader financial news platform. The content primarily lists market data and popular articles, with the core subject being the Form 4 announcement.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB5S0BT_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.914765"
+                },
+                {
+                    "topic": "life_sciences",
+                    "relevance_score": "0.617062"
+                }
+            ],
+            "overall_sentiment_score": -0.161725,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SION",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.036174",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.613174",
+                    "ticker_sentiment_score": "0.340592",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.606602",
+                    "ticker_sentiment_score": "-0.420853",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.624365",
+                    "ticker_sentiment_score": "-0.438674",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Ares Management Corp Class A For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-ares-management-corp-class-a-for-2-july-93CH-4718921",
+            "time_published": "20260702T203903",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article reports on a Form 4 filing for Ares Management Corp Class A (ARES) on July 2nd. The filing indicates insider transactions, though the specific details are not provided beyond the announcement of the filing itself. The article highlights Ares Management Corp Class A stock performance with a +2.88% change.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.817148"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.722538"
+                }
+            ],
+            "overall_sentiment_score": -0.089723,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ARES",
+                    "relevance_score": "0.941721",
+                    "ticker_sentiment_score": "0.003751",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.647292",
+                    "ticker_sentiment_score": "-0.186771",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.627514",
+                    "ticker_sentiment_score": "0.222606",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.649180",
+                    "ticker_sentiment_score": "-0.387748",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Leidos Holdings Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-leidos-holdings-inc-for-2-july-93CH-4719005",
+            "time_published": "20260702T202651",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article announces the filing of a Form 4 for Leidos Holdings Inc. on July 2nd. It does not provide further details but is accompanied by standard market data, trending stocks, and various financial performance indicators from Investing.com.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEAB20I9_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.929366"
+                }
+            ],
+            "overall_sentiment_score": -0.128933,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LDOS",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.196271",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.646909",
+                    "ticker_sentiment_score": "0.357150",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.631474",
+                    "ticker_sentiment_score": "-0.530691",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.615731",
+                    "ticker_sentiment_score": "-0.438530",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Sempra Energy For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-sempra-energy-for-2-july-93CH-4718932",
+            "time_published": "20260702T201630",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article from Investing.com is a regulatory filing update, specifically a Form 4 for Sempra Energy, dated July 2nd. It provides basic stock market context and links to various financial data but contains no further details about the Form 4 itself. The content primarily consists of navigational elements and market data tables.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB6208D_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.924725"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.732873"
+                }
+            ],
+            "overall_sentiment_score": -0.171359,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SRE",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.226811",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.635001",
+                    "ticker_sentiment_score": "0.592405",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.560302",
+                    "ticker_sentiment_score": "-0.705672",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.579457",
+                    "ticker_sentiment_score": "-0.627972",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Global Indemnity PLC For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-global-indemnity-plc-for-2-july-93CH-4719002",
+            "time_published": "20260702T201315",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article provides details about a Form 4 filing for Global Indemnity PLC (GBLI) related to July 2nd. It does not offer specific content from the filing but lists the company name and links to related market data. The article also includes various market indices and commodity prices as of the publication date.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.925493"
+                }
+            ],
+            "overall_sentiment_score": -0.291493,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GBLI",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.124372",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.626344",
+                    "ticker_sentiment_score": "-0.659603",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.602387",
+                    "ticker_sentiment_score": "0.282934",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.602728",
+                    "ticker_sentiment_score": "-0.733967",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Boston Scientific Corp For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-boston-scientific-corp-for-2-july-93CH-4718913",
+            "time_published": "20260702T201142",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article announces a Form 4 filing for Boston Scientific Corp dated July 2nd, as reported by Investing.com. It is a brief announcement without further details within the body of the text, presenting a placeholder for the actual Form 4 content. The article is predominantly filled with navigation links and market data rather than substantive news.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEB0M0CA_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.912265"
+                },
+                {
+                    "topic": "life_sciences",
+                    "relevance_score": "0.712654"
+                }
+            ],
+            "overall_sentiment_score": 0.516039,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BSX",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.733330",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.641069",
+                    "ticker_sentiment_score": "0.108599",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.608990",
+                    "ticker_sentiment_score": "0.730946",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Metlife stock hits all-time high at 89.65 USD",
+            "url": "https://www.investing.com/news/company-news/metlife-stock-hits-alltime-high-at-8965-usd-93CH-4774001",
+            "time_published": "20260702T200953",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "MetLife Inc. (MET) stock has reached an all-time high of $89.68 USD, reflecting a significant upward trend and a 12.11% year-to-date return for the $57.6 billion insurance company. Despite trading near its 52-week high, analysis suggests the stock remains undervalued relative to its Fair Value. The company recently introduced new deferred payment solutions and annuity features, appointed a new head of Real Estate Equity Strategies, and saw shareholders elect eleven directors, along with increased options trading volume.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEA7D094_L.jpg",
+            "source": "Investing.com",
+            "category_within_source": "General",
+            "source_domain": "Investing.com",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.930993"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.723554"
+                }
+            ],
+            "overall_sentiment_score": 0.221616,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MET",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.627328",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.617255",
+                    "ticker_sentiment_score": "-0.340699",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.627265",
+                    "ticker_sentiment_score": "0.301937",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "KLA Corporation and Teradyne Stocks Trade Down, What You Need To Know",
+            "url": "https://www.theglobeandmail.com/investing/markets/stocks/TER/pressreleases/3105538/kla-corporation-and-teradyne-stocks-trade-down-what-you-need-to-know/",
+            "time_published": "20260702T200845",
+            "authors": [
+                "StockStory"
+            ],
+            "summary": "Shares of KLA Corporation (NASDAQ:KLAC) and Teradyne (NASDAQ:TER) dropped significantly after the semiconductor sector pulled back due to fears that AI-driven chip demand may be cooling. Concerns arose from a Citi analyst's warning about large cloud platforms' spending on AI infrastructure and Meta's plan to sell access to its AI computing power, suggesting potential overcapacity. Despite this, Teradyne had gained 76% year-to-date, with analysts recently raising price targets due to strong AI demand and Micron's record quarter benefiting test equipment orders.",
+            "banner_image": "https://news-assets.stockstory.org/cover-images/_1400x700_crop_center-center_none/kla-corporation-cover-image-HNaTCcT_2021-10-18-065831_nzyp.jpeg",
+            "source": "The Globe and Mail",
+            "category_within_source": "General",
+            "source_domain": "The Globe and Mail",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.914816"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.835656"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.736280"
+                }
+            ],
+            "overall_sentiment_score": -0.073967,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TER",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.338676",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "KLAC",
+                    "relevance_score": "0.943187",
+                    "ticker_sentiment_score": "0.290598",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MU",
+                    "relevance_score": "0.739620",
+                    "ticker_sentiment_score": "0.236490",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.622306",
+                    "ticker_sentiment_score": "-0.128031",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.610248",
+                    "ticker_sentiment_score": "-0.213087",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "KLA Corporation and Teradyne Stocks Trade Down, What You Need To Know",
+            "url": "https://www.tradingview.com/news/stockstory:778ba8e2b094b:0-kla-corporation-and-teradyne-stocks-trade-down-what-you-need-to-know/",
+            "time_published": "20260702T194557",
+            "authors": [],
+            "summary": "KLA Corporation and Teradyne stocks experienced significant declines due to a broader semiconductor sector pullback. This downturn was driven by concerns over cooling AI-driven chip demand, amplified by a Citi analyst's warning and Meta's plan to sell AI computing power, signaling potential industry overcapacity. Despite recent positive analyst sentiment for Teradyne due to AI infrastructure buildout and strong performance from a major customer, profit-taking and fears of future order shrinkage impacted both companies.",
+            "banner_image": "https://s3.tradingview.com/news/image/stockstory:778ba8e2b094b-58b905d1bd6635d571d16173f15dff26-resized.webp",
+            "source": "TradingView",
+            "category_within_source": "General",
+            "source_domain": "TradingView",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.902481"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.827331"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.636741"
+                },
+                {
+                    "topic": "manufacturing",
+                    "relevance_score": "0.630819"
+                }
+            ],
+            "overall_sentiment_score": -0.159929,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KLAC",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.401106",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "TER",
+                    "relevance_score": "0.971405",
+                    "ticker_sentiment_score": "-0.301333",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "MU",
+                    "relevance_score": "0.747175",
+                    "ticker_sentiment_score": "0.302045",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.605097",
+                    "ticker_sentiment_score": "-0.243752",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.593317",
+                    "ticker_sentiment_score": "-0.107767",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "FormFactor and Allegro MicroSystems Shares Plummet, What You Need To Know",
+            "url": "https://www.tradingview.com/news/stockstory:982551950094b:0-formfactor-and-allegro-microsystems-shares-plummet-what-you-need-to-know/",
+            "time_published": "20260702T194405",
+            "authors": [],
+            "summary": "Shares of FormFactor (FORM) and Allegro MicroSystems (ALGM) plummeted following a semiconductor sector pullback driven by fears of cooling AI-driven chip demand, sparked by a Citi analyst's warning and Meta's plan to sell AI computing power. The Philadelphia Semiconductor Index plunged over 7%, impacting numerous chipmakers due to concerns about potential overcapacity and profit-taking after a \"parabolic run.\" FormFactor fell 17.5%, and Allegro MicroSystems dropped 15.6%.",
+            "banner_image": "https://s3.tradingview.com/news/image/stockstory:982551950094b-b4671b5a4814f510f7656d75754126ad-resized.webp",
+            "source": "TradingView",
+            "category_within_source": "General",
+            "source_domain": "TradingView",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.919892"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.842525"
+                }
+            ],
+            "overall_sentiment_score": -0.401467,
+            "overall_sentiment_label": "Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FORM",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.614400",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.714136",
+                    "ticker_sentiment_score": "-0.243129",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "MU",
+                    "relevance_score": "0.713180",
+                    "ticker_sentiment_score": "-0.407021",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.608104",
+                    "ticker_sentiment_score": "-0.335994",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "EyePoint CMO Ramiro Ribeiro sells $73,166 in company stock By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/eyepoint-cmo-ramiro-ribeiro-sells-73166-in-company-stock-93CH-4718901",
+            "time_published": "20260702T194231",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "EyePoint's Chief Medical Officer, Ramiro Ribeiro, sold $73,166 worth of company stock after exercising options. These transactions, occurring on June 30, 2026, leave Ribeiro with no direct shares but 153,564 stock options. Despite the sale, the stock currently trades below the sale price, and the company is noted by InvestingPro as being overvalued and burning through cash.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB65083_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "life_sciences",
+                    "relevance_score": "1.000000"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.939418"
+                }
+            ],
+            "overall_sentiment_score": -0.102239,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EYPT",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.057757",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.614200",
+                    "ticker_sentiment_score": "-0.437126",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.640528",
+                    "ticker_sentiment_score": "-0.401674",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.606758",
+                    "ticker_sentiment_score": "0.415170",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Applied Materials, Semtech, and Nova Stocks Trade Down, What You Need To Know",
+            "url": "https://www.barchart.com/story/news/3105515/applied-materials-semtech-and-nova-stocks-trade-down-what-you-need-to-know",
+            "time_published": "20260702T194049",
+            "authors": [
+                "StockStory"
+            ],
+            "summary": "Shares of Applied Materials (AMAT), Semtech (SMTC), and Nova (NVMI) experienced significant drops, down 9.5%, 9.9%, and 9.2% respectively, due to fears of cooling AI-driven chip demand. A Citi analyst's warning about the sustainability of high AI infrastructure spending by cloud platforms and reports of Meta potentially selling access to its AI computing power amplified concerns about market overcapacity. This market correction follows a period of rapid growth in the semiconductor sector, driven by an assumed insatiable demand for GPUs and memory.",
+            "banner_image": "https://barchart-news-media-prod.aws.barchart.com/SYNDSRC/ee858f5effe6e2ce1324a04ad9b9e6a2/applied-materials-cover-image-pmoghbbo_2021-10-20-200033_jpwo.jpeg",
+            "source": "Barchart.com",
+            "category_within_source": "General",
+            "source_domain": "Barchart.com",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.900707"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.847714"
+                }
+            ],
+            "overall_sentiment_score": -0.339518,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SMTC",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.455303",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AMAT",
+                    "relevance_score": "0.819098",
+                    "ticker_sentiment_score": "-0.420193",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.622290",
+                    "ticker_sentiment_score": "-0.209362",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.632223",
+                    "ticker_sentiment_score": "-0.315405",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Everest Re Group stock hits 52-week high at 368.32 USD",
+            "url": "https://ca.investing.com/news/stock-market-news/everest-re-group-stock-hits-52week-high-at-36832-usd-93CH-4718861",
+            "time_published": "20260702T192655",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "Everest Re Group (EG) stock has hit a new 52-week high at $368.32, with a market capitalization of $14.6 billion and a P/E ratio of 7.5. InvestingPro analysis suggests the stock is undervalued, and it has delivered a 10.4% total return over the past year. Recent analyst updates and a dividend announcement also highlight the company's strategic adjustments and positive outlook.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB660A4_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.929952"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.846016"
+                }
+            ],
+            "overall_sentiment_score": 0.039239,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EG",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.634757",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.609344",
+                    "ticker_sentiment_score": "-0.525089",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.642465",
+                    "ticker_sentiment_score": "0.504212",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.647968",
+                    "ticker_sentiment_score": "-0.523431",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Lululemon Studio Membership - Lululemon Athletica leans into hybrid fitness content",
+            "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/lululemon-studio-membership-lululemon-athletica-leans-into-hybrid/69676243",
+            "time_published": "20260702T192212",
+            "authors": [
+                "Daniel Foster"
+            ],
+            "summary": "Lululemon Athletica has launched its Studio Membership, providing app-based fitness classes like strength, cardio, and yoga for under $15 a month in the US. This move signifies Lululemon's strategic shift in its connected fitness approach, moving away from proprietary hardware like the discontinued Studio Mirror to focus on digital services. The membership aims to integrate with customers' existing workout habits, leveraging the brand's apparel ecosystem and offering studio-quality content to compete with services like Apple Fitness+ and the Peloton App.",
+            "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2404981_1100_0.webp",
+            "source": "AD HOC NEWS",
+            "category_within_source": "General",
+            "source_domain": "AD HOC NEWS",
+            "topics": [
+                {
+                    "topic": "retail_wholesale",
+                    "relevance_score": "0.839056"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.741220"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.643297"
+                }
+            ],
+            "overall_sentiment_score": 0.221392,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LULU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.409340",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.611302",
+                    "ticker_sentiment_score": "0.138334",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NKE",
+                    "relevance_score": "0.603969",
+                    "ticker_sentiment_score": "0.107774",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Qualcomm Inc Stock (QCOM) Moved Down by 5.10% on Jul 2: What Signal Does It Send?",
+            "url": "https://www.tradingkey.com/news/market-movers/262007912-market-movers-qcom-20260702",
+            "time_published": "20260702T191509",
+            "authors": [
+                "TradingKey"
+            ],
+            "summary": "Qualcomm (QCOM) stock dropped 5.10% on July 2nd, primarily due to Elon Musk denying rumors of a SpaceX partnership involving Qualcomm's Snapdragon processors for an AI-powered device. The decline also reflects ongoing challenges in the smartphone market, persistent memory chip shortages, and analyst skepticism regarding Qualcomm's ability to compete in the AI and data center silicon space. Broader macroeconomic anxieties in the semiconductor sector and technical selling pressure further contributed to the stock's downward movement.",
+            "banner_image": null,
+            "source": "TradingKey",
+            "category_within_source": "General",
+            "source_domain": "TradingKey",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.900063"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.821976"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.734982"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.606066"
+                }
+            ],
+            "overall_sentiment_score": -0.461564,
+            "overall_sentiment_label": "Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.604040",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "MU",
+                    "relevance_score": "0.626682",
+                    "ticker_sentiment_score": "-0.617232",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.628102",
+                    "ticker_sentiment_score": "-0.320026",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.640443",
+                    "ticker_sentiment_score": "-0.231911",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Creative Realities Inc For: 2 July",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-creative-realities-inc-for-2-july-93CH-4718815",
+            "time_published": "20260702T191107",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article from Investing.com is a standard Form 4 filing for Creative Realities Inc., dated July 2nd. It provides key financial data and market performance metrics for CREX and other related indices. The content also features popular news headlines and market movers.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB66095_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.932027"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.604750"
+                }
+            ],
+            "overall_sentiment_score": -0.131309,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CREX",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.010086",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.618482",
+                    "ticker_sentiment_score": "0.185457",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.612988",
+                    "ticker_sentiment_score": "-0.366396",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.602459",
+                    "ticker_sentiment_score": "-0.354976",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "EXCLUSIVE: Market Expert Jay Woods Says Micron Stock is New Market ‘Tell,’ Following Footsteps of Nvidia, Apple, Microsoft",
+            "url": "https://www.benzinga.com/markets/tech/26/07/60256473/exclusive-market-expert-jay-woods-says-micron-stock-is-new-market-tell-following-footsteps-of-nvidia-apple-microsoft",
+            "time_published": "20260702T183936",
+            "authors": [
+                "Chris Katje"
+            ],
+            "summary": "Market expert Jay Woods believes Micron Technology (NASDAQ: MU) has replaced Nvidia as the key \"tell\" for the broader market due to its extreme growth and investor reaction to earnings. Woods predicts a potential 10% drawdown in the S&P 500 before a rally post-election, estimating the index could close 2026 between 7,200 and 7,700. He suggests Micron stock is likely to consolidate before its next leg higher, making it a critical stock to watch.",
+            "banner_image": "https://cdn.benzinga.com/cdn-cgi/image/width=1300,format=auto,quality=85/files/images/story/2025/07/24/article-header-background-image.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "Benzinga",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.821269"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "1.000000"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.804062"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.728488"
+                }
+            ],
+            "overall_sentiment_score": -0.067583,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.206715",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.805723",
+                    "ticker_sentiment_score": "-0.200688",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.622403",
+                    "ticker_sentiment_score": "0.149569",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.621119",
+                    "ticker_sentiment_score": "0.104113",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Ingredion Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-ingredion-inc-for-2-july-93CH-4718806",
+            "time_published": "20260702T181405",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article from Investing.com reports on a Form 4 filing for Ingredion Inc. for July 2nd. The filing is a routine SEC document used to report changes in beneficial ownership of a company's securities by insiders. The article offers no further details about the specific content of the Form 4.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB65083_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.923034"
+                }
+            ],
+            "overall_sentiment_score": 0.006708,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "INGR",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.037656",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.601015",
+                    "ticker_sentiment_score": "0.306764",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.612674",
+                    "ticker_sentiment_score": "-0.328829",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Kartoon Studios Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-kartoon-studios-inc-for-2-july-93CH-4718755",
+            "time_published": "20260702T181116",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article announces the filing of Form 4 for Kartoon Studios Inc. on July 2nd. It does not provide further details about the specific contents of the Form 4 filing but indicates it is a financial market update from Investing.com. The information is presented alongside various financial market data and related articles.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEB59082_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.941591"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.719843"
+                }
+            ],
+            "overall_sentiment_score": 0.013274,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TOON",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.039548",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.745045",
+                    "ticker_sentiment_score": "0.028317",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.626802",
+                    "ticker_sentiment_score": "0.021491",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.633384",
+                    "ticker_sentiment_score": "0.000870",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.640073",
+                    "ticker_sentiment_score": "0.007766",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Shuttle Pharmaceuticals Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-shuttle-pharmaceuticals-inc-for-2-july-93CH-4718760",
+            "time_published": "20260702T174714",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "The article reports on a Form 4 filing for Shuttle Pharmaceuticals Inc. (SHPH) dated July 2, 2026. It mentions a 5.59% increase in SHPH's stock price and includes various market data and news headlines from Investing.com, but provides no further details regarding the content of the Form 4. The main body of the article appears to be boilerplate content from Investing.com.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB5S0BT_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.911271"
+                },
+                {
+                    "topic": "life_sciences",
+                    "relevance_score": "0.711542"
+                }
+            ],
+            "overall_sentiment_score": -0.103241,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SHPH",
+                    "relevance_score": "0.309295",
+                    "ticker_sentiment_score": "0.037952",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.641552",
+                    "ticker_sentiment_score": "-0.314813",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.628627",
+                    "ticker_sentiment_score": "0.318129",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.631112",
+                    "ticker_sentiment_score": "-0.426340",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 13D/A JEWETT CAMERON TRADING CO LTD For: 2 July",
+            "url": "https://ca.investing.com/news/stock-market-news/form-13da-jewett-cameron-trading-co-ltd-for-2-july-93CH-4718750",
+            "time_published": "20260702T173958",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article announces the filing of Form 13D/A for JEWETT CAMERON TRADING CO LTD on July 2nd. It provides key financial data including market indices, commodity prices, and bond yields. The piece also references various market news and trending stocks.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB660A4_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.901011"
+                }
+            ],
+            "overall_sentiment_score": -0.090432,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "JCTC",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.031847",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.610139",
+                    "ticker_sentiment_score": "-0.314785",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.609677",
+                    "ticker_sentiment_score": "0.267856",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.633486",
+                    "ticker_sentiment_score": "-0.249845",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Teradyne Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-teradyne-inc-for-2-july-93CH-4718732",
+            "time_published": "20260702T172758",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article reports on a Form 4 filing for Teradyne Inc. on July 2nd. Form 4 filings are legally required documents that must be submitted to the SEC whenever there is a material change in the holdings of company insiders. The content of the filing specifies the changes in ownership of company stock by its officers, directors, and any beneficial owners of more than 10% of the company's stock.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEB59082_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.924779"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.814430"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.702571"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.630921"
+                },
+                {
+                    "topic": "economy_monetary",
+                    "relevance_score": "0.609153"
+                }
+            ],
+            "overall_sentiment_score": -0.199985,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TER",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.385279",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.617769",
+                    "ticker_sentiment_score": "-0.368915",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.647673",
+                    "ticker_sentiment_score": "0.391112",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.612927",
+                    "ticker_sentiment_score": "-0.393573",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Rocky Brands Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-rocky-brands-inc-for-2-july-93CH-4718651",
+            "time_published": "20260702T164044",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article reports on a Form 4 filing for Rocky Brands Inc as of July 2, 2026. It notes that the company's stock symbol is RCKY and indicates a -3.78% change. The content also includes various market data, popular news headlines, and advertising for Investing.com's services.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEB0508S_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.840802"
+                },
+                {
+                    "topic": "retail_wholesale",
+                    "relevance_score": "0.632688"
+                }
+            ],
+            "overall_sentiment_score": -0.194172,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RCKY",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.214892",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.659153",
+                    "ticker_sentiment_score": "-0.673335",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.616379",
+                    "ticker_sentiment_score": "0.310306",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Form 4 Aveanna Healthcare Holdings Inc For: 2 July By Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/form-4-aveanna-healthcare-holdings-inc-for-2-july-93CH-4718657",
+            "time_published": "20260702T163941",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "This article announces the filing of a Form 4 for Aveanna Healthcare Holdings Inc. on July 2nd. It provides general market data and related news but does not contain specific details about the Form 4 filing itself. The article also lists trending stocks and investment strategies.",
+            "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_L.jpg",
+            "source": "Investing.com Canada",
+            "category_within_source": "General",
+            "source_domain": "Investing.com Canada",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "1.000000"
+                }
+            ],
+            "overall_sentiment_score": -0.165975,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AVAH",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.035020",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.615108",
+                    "ticker_sentiment_score": "-0.618373",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.606636",
+                    "ticker_sentiment_score": "0.636513",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.616112",
+                    "ticker_sentiment_score": "-0.601720",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        }
+    ]
+}

@@ -11,10 +11,10 @@ TICKERS = [
     "TCS.NS",
     "HDFCBANK.NS",
     "INFY.NS",
-    # 3 big European stocks
-    "SAP.DE",
-    "ASML.AS",
-    "NESN.SW",
+    # 3 big Japanese stocks
+    "7203.T",   # Toyota
+    "9984.T",   # SoftBank Group
+    "6758.T",   # Sony
 ]
 START = "2024-01-01"
 END = "2026-07-01"
