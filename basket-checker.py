@@ -2,16 +2,19 @@ import yfinance as yf
 import pandas as pd
 
 TICKERS = [
-    "AAPL",
-    "MSFT",
-    "TSM", 
+    # 3 randomly picked from the S&P 500 top 10 by market cap
+    "JPM",
     "TSLA",
-    "005930.KS",
-    "SHEL.L",
-    "SAP.DE",
+    "AVGO",
+    # 4 big Indian stocks
     "RELIANCE.NS",
-    "9984.T",
-    "BHP.AX",
+    "TCS.NS",
+    "HDFCBANK.NS",
+    "INFY.NS",
+    # 3 big European stocks
+    "SAP.DE",
+    "ASML.AS",
+    "NESN.SW",
 ]
 START = "2024-01-01"
 END = "2026-07-01"
@@ -40,4 +43,4 @@ print(weekly_returns.loc[best_week].drop("basket_avg_return").sort_values(ascend
 print("\nPer-ticker returns in the max-negative week:")
 print(weekly_returns.loc[worst_week].drop("basket_avg_return").sort_values())
 
-weekly_returns.to_csv("/mnt/user-data/outputs/weekly_returns.csv")
+weekly_returns.to_csv("basket_weekly_returns.csv")
