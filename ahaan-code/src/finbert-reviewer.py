@@ -138,6 +138,10 @@ articles_df["finbert_positive"] = positive_scores
 articles_df["finbert_negative"] = negative_scores
 articles_df["finbert_neutral"] = neutral_scores
 articles_df["sentiment_score"] = sentiment_scores
+articles_df["symbol_crowding_score"] = symbol_crowding_scores
+articles_df["title_mention_score"] = title_mention_scores
+articles_df["content_density_score"] = normalized_content_density_scores
+articles_df["recency_score"] = recency_scores
 articles_df["relevance_score"] = relevance_scores
 
 total_weighted_sentiment = 0.0

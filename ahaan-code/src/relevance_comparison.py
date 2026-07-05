@@ -1,5 +1,5 @@
-# Compare our hand-built relevance heuristic (see finbert-reviewer.py) against
-# Arya's cosine-similarity approach, which embeds each article with
+# Compare the composite metric (see finbert-reviewer.py) against
+# cosine-similarity approach, which embeds each article with
 # all-MiniLM-L6-v2 and scores it against a query describing "relevant" news.
 # Both scores run on the same AAPL article set to see where the methods agree/disagree.
 
@@ -33,18 +33,18 @@ article_embeddings = sentence_embedder.encode(
 cosine_similarity_scores = util.cos_sim(cosine_query_embedding, article_embeddings)[0].tolist()
 articles_df["cosine_sim_score"] = cosine_similarity_scores
 
-heuristic_relevance_scores = articles_df["relevance_score"]
+composite_metric_scores = articles_df["relevance_score"]
 cosine_relevance_scores = articles_df["cosine_sim_score"]
 
-pearson_correlation, pearson_p_value = pearsonr(heuristic_relevance_scores, cosine_relevance_scores)
-spearman_correlation, spearman_p_value = spearmanr(heuristic_relevance_scores, cosine_relevance_scores)
+pearson_correlation, pearson_p_value = pearsonr(composite_metric_scores, cosine_relevance_scores)
+spearman_correlation, spearman_p_value = spearmanr(composite_metric_scores, cosine_relevance_scores)
 
 print(f"\nPearson correlation (linear agreement):  r={pearson_correlation:.3f}, p={pearson_p_value:.4f}")
 print(f"Spearman correlation (rank agreement):    rho={spearman_correlation:.3f}, p={spearman_p_value:.4f}")
 
-heuristic_top_n_indices = set(articles_df.nlargest(TOP_N, "relevance_score").index)
+composite_metric_top_n_indices = set(articles_df.nlargest(TOP_N, "relevance_score").index)
 cosine_top_n_indices = set(articles_df.nlargest(TOP_N, "cosine_sim_score").index)
-overlapping_top_n_indices = heuristic_top_n_indices & cosine_top_n_indices
+overlapping_top_n_indices = composite_metric_top_n_indices & cosine_top_n_indices
 
 print(f"\nTop-{TOP_N} overlap: {len(overlapping_top_n_indices)}/{TOP_N} articles picked by both methods")
 
@@ -52,10 +52,10 @@ articles_df["score_gap"] = (
     articles_df["relevance_score"].rank(pct=True) - articles_df["cosine_sim_score"].rank(pct=True)
 )
 
-print("\nArticles our heuristic rates far MORE relevant than cosine similarity does:")
+print("\nArticles the composite metric rates far MORE relevant than cosine similarity does:")
 print(articles_df.nlargest(5, "score_gap")[["title", "relevance_score", "cosine_sim_score"]].to_string(index=False))
 
-print("\nArticles cosine similarity rates far MORE relevant than our heuristic does:")
+print("\nArticles cosine similarity rates far MORE relevant than the composite metric does:")
 print(articles_df.nsmallest(5, "score_gap")[["title", "relevance_score", "cosine_sim_score"]].to_string(index=False))
 
 # top 10 articles where the two methods disagree the most, regardless of direction
@@ -71,7 +71,7 @@ print(top_10_disagreements.to_string(index=False))
 fig, axes = plt.subplots(1, 2, figsize=(12, 5))
 
 axes[0].hist(articles_df["relevance_score"], bins=20, color="steelblue", edgecolor="black")
-axes[0].set_title("Our heuristic relevance_score")
+axes[0].set_title("Composite metric relevance_score")
 axes[0].set_xlabel("relevance_score")
 axes[0].set_ylabel("number of articles")
 
@@ -95,9 +95,9 @@ ax.scatter(
     s=80,
     label="top 10 disagreements",
 )
-ax.set_xlabel("our heuristic relevance_score")
+ax.set_xlabel("composite metric relevance_score")
 ax.set_ylabel("cosine_sim_score")
-ax.set_title("Heuristic vs. cosine similarity relevance scores")
+ax.set_title("Composite metric vs. cosine similarity relevance scores")
 ax.legend()
 plt.tight_layout()
 scatter_plot_path = "ahaan-code/results/relevance_comparison_scatter.png"
