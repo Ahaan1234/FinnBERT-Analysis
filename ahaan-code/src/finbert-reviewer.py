@@ -117,19 +117,21 @@ lowest_content_density = min(content_density_raw_scores)
 highest_content_density = max(content_density_raw_scores)
 content_density_spread = highest_content_density - lowest_content_density
 
+### ARYA THIS IS WHERE I CALCULATE CONTENT DENSITY, REPLACE WITH THE COSINE-SIMILARITY
 normalized_content_density_scores = []
 for raw_density in content_density_raw_scores:
     if content_density_spread < 1e-9:
         normalized_content_density_scores.append(0.0)
     else:
         normalized_content_density_scores.append((raw_density - lowest_content_density) / content_density_spread)
+### ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ LOOK ABOVE ^^^^^^^^^^^^^^^^^^^^^^^^
 
 relevance_scores = []
 for i in range(len(articles_df)):
     relevance_scores.append(
         RELEVANCE_WEIGHTS["symbol_crowding"] * symbol_crowding_scores[i]
         + RELEVANCE_WEIGHTS["title_mention"] * title_mention_scores[i]
-        + RELEVANCE_WEIGHTS["content_density"] * normalized_content_density_scores[i]
+        + RELEVANCE_WEIGHTS["content_density"] * normalized_content_density_scores[i] # <---- replace this with your cosine-similarity array with all the scores for each article
         + RELEVANCE_WEIGHTS["recency"] * recency_scores[i]
     )
 

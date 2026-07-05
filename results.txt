@@ -1,0 +1,33 @@
+Pearson correlation (linear agreement):  r=0.197, p=0.0490
+Spearman correlation (rank agreement):    rho=0.186, p=0.0633
+
+Top-20 overlap: 6/20 articles picked by both methods
+
+Articles the composite metric rates far MORE relevant than cosine similarity does:
+                                                                                                                                                   title  relevance_score  cosine_sim_score
+                                                                                             World Bank Chief Says Zimbabwe Needs G-20 to Exit Debt Trap         0.514294          0.055187
+                                                                                              The VPNs allowing youngsters to bypass online safety rules         0.505780         -0.047522
+Anker Expands Nano Series With Three New Portable Power Solutions, Offering Ultra-Slim, High-Speed, and Multi-Port Charging Designed for Modern Mobility         0.517379          0.086969
+                                                                                      Apple Isn’t Leaving China. Its Footprint Is Getting Harder to See.         0.915586          0.203257
+                                  Nearly 60% Of Last Year's Graduates Still Haven't Landed Their First Job. 1 In 4 Gen Z Workers Regret Going To College         0.329135          0.080679
+
+Articles cosine similarity rates far MORE relevant than the composite metric does:
+                                                                                               title  relevance_score  cosine_sim_score
+Earnings live: Spotify, Novo, UnitedHealth stocks slide after results with Boeing, Starbucks on deck         0.133236          0.508796
+Earnings live: Starbucks posts another US sales decline, Novo stock plunges, Big Tech giants on deck         0.126162          0.499791
+                                        The Stock Market Is Taking a Tougher Line on Earnings Misses         0.123822          0.489827
+                       Earnings live: Whirlpool, Tilray stocks tumble, with Spotify earnings on deck         0.136602          0.506784
+                 Earnings live: Spotify, Novo, UnitedHealth stocks slide after results; Boeing beats         0.135156          0.503689
+
+Top 10 articles with the biggest disagreement between methods:
+                                                                                                                                                   title  relevance_score  cosine_sim_score  score_gap
+                                                                                             World Bank Chief Says Zimbabwe Needs G-20 to Exit Debt Trap         0.514294          0.055187       0.82
+                                                                                              The VPNs allowing youngsters to bypass online safety rules         0.505780         -0.047522       0.82
+Anker Expands Nano Series With Three New Portable Power Solutions, Offering Ultra-Slim, High-Speed, and Multi-Port Charging Designed for Modern Mobility         0.517379          0.086969       0.79
+                                                    Earnings live: Spotify, Novo, UnitedHealth stocks slide after results with Boeing, Starbucks on deck         0.133236          0.508796      -0.76
+                                                                                      Apple Isn’t Leaving China. Its Footprint Is Getting Harder to See.         0.915586          0.203257       0.76
+                                                    Earnings live: Starbucks posts another US sales decline, Novo stock plunges, Big Tech giants on deck         0.126162          0.499791      -0.75
+                                                                                            The Stock Market Is Taking a Tougher Line on Earnings Misses         0.123822          0.489827      -0.75
+                                                                           Earnings live: Whirlpool, Tilray stocks tumble, with Spotify earnings on deck         0.136602          0.506784      -0.72
+                                                                     Earnings live: Spotify, Novo, UnitedHealth stocks slide after results; Boeing beats         0.135156          0.503689      -0.72
+                                  Nearly 60% Of Last Year's Graduates Still Haven't Landed Their First Job. 1 In 4 Gen Z Workers Regret Going To College         0.329135          0.080679       0.70
