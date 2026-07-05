@@ -32,7 +32,7 @@ sentiment_model = AutoModelForSequenceClassification.from_pretrained(finbert_mod
 sentiment_model.eval()
 sentiment_labels = ["positive", "negative", "neutral"]
 
-news_data_path = "ahaan-code/AAPL_US_data.csv"
+news_data_path = "ahaan-code/results/AAPL_US_data.csv"
 articles_df = pd.read_csv(news_data_path)
 
 mention_regex = re.compile(rf"\b({re.escape(TICKER)}|{re.escape(COMPANY_NAME)})\b", re.IGNORECASE)
@@ -147,7 +147,7 @@ for sentiment_value, relevance_value in zip(sentiment_scores, relevance_scores):
     total_relevance_weight += relevance_value
 relevance_weighted_overall_sentiment = total_weighted_sentiment / total_relevance_weight
 
-output_path = "ahaan-code/AAPL_US_data_finbert.csv"
+output_path = "ahaan-code/results/AAPL_US_data_finbert.csv"
 articles_df.to_csv(output_path, index=False)
 
 print(articles_df[["date", "title", "finbert_sentiment", "sentiment_score", "relevance_score"]])

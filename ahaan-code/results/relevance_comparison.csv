@@ -1,0 +1,101 @@
+date,title,relevance_score,cosine_sim_score,score_gap
+2025-07-28T23:37:20+00:00,"Stock market today: Dow, S&amp;P 500, Nasdaq futures trade flat ahead of week poised to shake markets",0.2076470588235294,0.33025261759757996,0.0
+2025-07-28T23:37:20+00:00,"Stock market today: Dow, S&amp;P 500, Nasdaq futures climb ahead of week poised to shake markets",0.2174509803921568,0.3528920114040375,-0.019999999999999907
+2025-07-28T23:37:20+00:00,"Stock market today: Dow, S&amp;P 500, Nasdaq futures climb as huge week of market-watched events rolls on",0.1819715258433921,0.2893771529197693,-0.019999999999999962
+2025-07-28T23:37:20+00:00,"Stock market today: S&amp;P 500, Nasdaq rise as earnings flood in and focus turns to the Fed",0.1405853709801723,0.34688377380371094,-0.36000000000000004
+2025-07-28T23:37:20+00:00,"Stock market today: S&amp;P 500, Nasdaq rise as earnings flood in, jobs data on deck",0.1461167924175344,0.3483145833015442,-0.33000000000000007
+2025-07-28T23:37:20+00:00,"Stock market today: Dow, S&amp;P 500, Nasdaq futures rise as earnings flood in, jobs data on deck",0.1382606084867894,0.31579846143722534,-0.28
+2025-07-28T23:01:06+00:00,Nearly 60% Of Last Year's Graduates Still Haven't Landed Their First Job. 1 In 4 Gen Z Workers Regret Going To College,0.3291347147105889,0.08067937195301056,0.7
+2025-07-28T23:01:00+00:00,Google launches AI Mode in the UK amid ‘major shift’ in online search,0.1837058242771423,0.14880061149597168,0.29
+2025-07-28T22:54:00+00:00,"MSFT, META, AAPL, AMZN: One Chart Stands Above the Others",0.3638285308837071,0.6077698469161987,-0.19999999999999996
+2025-07-28T22:47:00+00:00,August: Time to Unplug from Markets?,0.2222533531849564,0.2440912127494812,0.26999999999999996
+2025-07-28T22:00:00+00:00,"Retail ETFs Pop on EU Deal; MAGS, QQQ Rise Ahead of Earnings",0.1658521568661531,0.2253517508506775,0.07
+2025-07-28T21:33:34+00:00,"Earnings live: Whirlpool, Tilray stocks tumble, with Spotify earnings on deck",0.1366018906484876,0.5067836046218872,-0.72
+2025-07-28T21:33:34+00:00,"Earnings live: Spotify, Novo, UnitedHealth stocks slide after results with Boeing, Starbucks on deck",0.1332361683092138,0.5087960958480835,-0.76
+2025-07-28T21:33:34+00:00,"Earnings live: Spotify, Novo, UnitedHealth stocks slide after results; Boeing beats",0.1351561052505058,0.5036888718605042,-0.72
+2025-07-28T21:33:34+00:00,"Earnings live: Starbucks posts another US sales decline, Novo stock plunges, Big Tech giants on deck",0.1261615351772725,0.4997905492782593,-0.75
+2025-07-28T21:21:00+00:00,Boeing Needs to Show Earnings Progress to Keep Stock Momentum,0.1790668900136485,0.46102702617645264,-0.39
+2025-07-28T20:48:04+00:00,"Waste Management tops Q2 estimates, raises outlook on sustainability and healthcare units",0.1703141103281745,0.4523952007293701,-0.4
+2025-07-28T20:48:00+00:00,Where Morgan Stanley is looking for value after powerful rebound in U.S. stocks,0.1713502090323501,0.25629082322120667,0.0
+2025-07-28T20:45:00+00:00,The Stock Market Is Taking a Tougher Line on Earnings Misses,0.1238219506887406,0.48982682824134827,-0.75
+2025-07-28T20:39:49+00:00,Analysts consider new Apple stock target price ahead of earnings,0.676625161819834,0.4536171853542328,0.16000000000000003
+2025-07-28T20:18:44+00:00,"Microsoft, Meta, Apple, Amazon: How to play Big Tech earnings",0.3535769512509735,0.48449206352233887,-0.05999999999999994
+2025-07-28T20:15:15+00:00,Apple (AAPL) Bull Says iPhone Will Be a ‘Great’ AI Catalyst – ‘We Feel Stock is Very Attractive’,0.9144637987428348,0.5087324380874634,0.08999999999999997
+2025-07-28T20:09:31+00:00,"US Equity Markets Mixed on US-EU Trade Deal; Fed Rate Decision, Flood of Earnings Loom",0.1235811193324962,0.32187098264694214,-0.42
+2025-07-28T20:05:00+00:00,"Stock market today: S&amp;P 500, Nasdaq eke out records as markets kick off huge week for US economy",0.1389661125402682,0.30347728729248047,-0.25
+2025-07-28T19:55:07+00:00,Wall Street on Edge: Big Tech's $11 Trillion Earnings Could Ignite--or Derail--the Market Rally,0.2294199315394606,0.4401252865791321,-0.14
+2025-07-28T19:54:27+00:00,How to avoid capital gains taxes with highly appreciated stocks,0.524862800764164,0.23350298404693604,0.58
+2025-07-28T19:51:53+00:00,Tech Earnings Create $11 Trillion Hurdle for S&amp;P 500,0.3629616573229073,0.4323115944862366,0.06000000000000005
+2025-07-28T19:48:00+00:00,"Apple Inc. Investors: Please contact the Portnoy Law Firm to recover your losses. August 19, 2025 Deadline to file Lead Plaintiff Motion.",0.8911515334525435,0.36797672510147095,0.36
+2025-07-28T19:40:51+00:00,Transitions in the Semiconductor Space,0.3821369825226159,0.38612115383148193,0.17000000000000004
+2025-07-28T19:38:36+00:00,"Investors Got Bruised, Then They Got Up. What Will They Get Next?",0.2149221488284201,0.39986109733581543,-0.10999999999999999
+2025-07-28T19:37:53+00:00,Trump Weighs Taiwan Gamble That Could Shake Markets,0.2048055775605609,0.0654255747795105,0.45999999999999996
+2025-07-28T19:37:32+00:00,Microsoft adds Copilot Mode to deliver AI for Edge web browser,0.2252345115124339,0.07016744464635849,0.5499999999999999
+2025-07-28T19:24:40+00:00,Meta Hires ChatGPT Co?Founder for AI Push,0.3033514460323097,0.2458728849887848,0.38999999999999996
+2025-07-28T19:07:42+00:00,"AI makes it easier for enterprise, government clients to switch software providers: report",0.2098755872451324,0.16814783215522766,0.38
+2025-07-28T17:49:00+00:00,Google Will Soon Be Told How to End Its Monopoly. What That Means for Apple.,0.6337760164991298,0.36973339319229126,0.28
+2025-07-28T17:48:58+00:00,Can Apple's Slim iPhone And Cheaper Macs Reverse The 2025 Stock Slump?,0.4506993595881914,0.5723499059677124,-0.1499999999999999
+2025-07-28T17:35:00+00:00,Magsafe Accessories Market Size to Grow USD 16140 Million by 2031 at a CAGR of 4.7% | Valuates Reports,0.5855091375231822,0.2638857066631317,0.5
+2025-07-28T17:31:26+00:00,Alphabet's Legal Woes May Create Buying Opportunity: Analyst,0.1688057951535348,0.3414997160434723,-0.22000000000000003
+2025-07-28T17:31:09+00:00,This Startup's AI Personas Now Train Staff At L'Oréal—And The Founder Says She Got The Idea From The Sims,0.1559179233368946,0.2003782093524933,0.08000000000000002
+2025-07-28T17:15:00+00:00,Repsol Navigates Global Headwinds With Resilient H1 Earnings,0.1545480171545841,0.25610843300819397,-0.08999999999999997
+2025-07-28T16:53:27+00:00,"Stock market today: Dow, S&amp;P 500, Nasdaq mixed as Trump-EU trade deal kicks off huge week",0.131278962159597,0.248012974858284,-0.22000000000000003
+2025-07-28T16:53:27+00:00,"Stock market today: Dow, S&amp;P 500, Nasdaq waver as Trump-EU trade deal kicks off huge week",0.1310832713633514,0.2280539721250534,-0.15000000000000002
+2025-07-28T16:38:47+00:00,What Analysts Think of Apple Stock Ahead of Earnings,0.6493454212968032,0.6589133143424988,-0.09999999999999998
+2025-07-28T16:25:00+00:00,ARM to Post Q1 Earnings: Should the Stock be in Your Portfolio?,0.3068296056668511,0.5578681826591492,-0.21999999999999997
+2025-07-28T16:22:23+00:00,"US smartphone market sees sluggish growth as India-made phones surge, Canalys says",0.5700125526345237,0.1852550208568573,0.6799999999999999
+2025-07-28T16:22:23+00:00,"US smartphone market sees sluggish growth as India-made phones surge, Canalys says",0.2666962261039113,0.23977580666542053,0.35000000000000003
+2025-07-28T16:19:20+00:00,"As AI Mania Roars Back, Is Meta Stock a Buy Before July 30?",0.2028153288201844,0.4285006821155548,-0.20999999999999996
+2025-07-28T16:10:46+00:00,Apple &amp; Amazon have a 'black cloud' lingering ahead of earnings,0.2715009282830105,0.5126603841781616,-0.21999999999999997
+2025-07-28T16:01:06+00:00,Meet Bee: The $49 AI Wearable Amazon Just Bought That Hears Everything You Say,0.2107253585273204,0.2784067392349243,0.13000000000000006
+2025-07-28T15:38:00+00:00,KLAC Set to Report Q4 Earnings: How Should You Play the Stock?,0.2509592940887901,0.4783136546611786,-0.18000000000000005
+2025-07-28T15:20:00+00:00,Heavy-Duty Earnings Week Commences,0.173332579453607,0.4144081473350525,-0.31000000000000005
+2025-07-28T15:18:22+00:00,Nvidia Just Beat Apple in This Crazy Metric — Should You Buy the Stock?,0.3706580789515066,0.3943159580230713,0.15000000000000002
+2025-07-28T15:15:56+00:00,Microsoft has to hit its earnings out of the park: Opening Bid top takeaway,0.147243554469713,0.17651967704296112,0.06999999999999998
+2025-07-28T15:04:56+00:00,World Bank Chief Says Zimbabwe Needs G-20 to Exit Debt Trap,0.5142944768498218,0.05518736690282822,0.82
+2025-07-28T15:04:00+00:00,"Buy, Sell or Hold Apple Stock? Key Tips Ahead of Q3 Earnings",0.6614957007473148,0.6575014591217041,-0.07999999999999996
+2025-07-28T15:00:00+00:00,Validea's Top Information Technology Stocks Based On Warren Buffett - 7/28/2025,0.3026124164474837,0.4614710211753845,-0.09000000000000008
+2025-07-28T14:58:19+00:00,The VPNs allowing youngsters to bypass online safety rules,0.5057796546156377,-0.047522448003292084,0.82
+2025-07-28T14:56:15+00:00,"Apple Faces Margin Pressure Due to Tariffs' Impact, BofA Says",0.9842353302526206,0.6027194261550903,0.030000000000000027
+2025-07-28T14:39:20+00:00,How Microsoft can justify soaring CapEx in its earnings results,0.2100944762125215,0.4044346809387207,-0.14
+2025-07-28T14:37:00+00:00,"Big Week for Jobs, Earnings and the Fed",0.1700499006085113,0.3722746968269348,-0.27999999999999997
+2025-07-28T14:33:42+00:00,Sofi Q2 2025 Earnings Preview,0.2680511679815691,0.5169097781181335,-0.24
+2025-07-28T14:30:45+00:00,"Use Quid Miners Cloud Mining Platform: Mine BTC, XRP and DOGE and earn up to $17,777 per day",0.1529953401753644,0.21110013127326965,0.01999999999999999
+2025-07-28T14:30:16+00:00,BC-Most Active Stocks,0.1180697176572146,0.36272525787353516,-0.5399999999999999
+2025-07-28T14:25:00+00:00,"Tesla, Samsung Sign $16.5 Billion Deal to Make AI Chips",0.1162731250496896,0.17078691720962524,-0.12
+2025-07-28T14:16:00+00:00,Pomerantz Law Firm Announces the Filing of a Class Action Against Apple Inc.and Certain Officers – AAPL ,0.8630426001760474,0.3335792124271393,0.42999999999999994
+2025-07-28T14:15:56+00:00,PayPal rolls out 'Pay with Crypto' to merchants,0.1971565169903262,0.0879925936460495,0.39
+2025-07-28T14:08:40+00:00,EU trade deal: What to expect in markets &amp; earnings this week,0.1932141590208816,0.3495248556137085,-0.12999999999999995
+2025-07-28T14:02:24+00:00,Dollar Extends July Rally After US-EU Trade Deal: Markets Wrap,0.1630759394391928,0.22941625118255615,0.02999999999999997
+2025-07-28T14:00:00+00:00,Big Tech Earnings Coming Up: Spotlight on Mag 7 ETFs,0.2198364812905304,0.43873119354248047,-0.16000000000000003
+2025-07-28T13:47:49+00:00,Stock Market Today: Dow Dips On Trump Trade News; Nvidia Hits New High (Live Coverage),0.1170799105908332,0.18441390991210938,-0.13999999999999999
+2025-07-28T13:47:00+00:00,Citi’s new Strata Elite credit card has a $595 annual fee. Here’s how its perks stack up against the competition.,0.1407832894672185,0.14633643627166748,0.08000000000000002
+2025-07-28T13:46:10+00:00,Bill Gates Took A Customer Support Shift At His Daughter's AI Startup — And Showed What Real Leadership Looks Like,0.1822242820152738,0.09773586690425873,0.31999999999999995
+2025-07-28T13:33:19+00:00,"Stock market today: Dow, S&amp;P 500, Nasdaq nudge higher as Trump-EU trade deal kicks off huge week",0.1294626553770265,0.270715594291687,-0.30000000000000004
+2025-07-28T13:31:00+00:00,"S&amp;P 500 now more likely to reach 7,200 next year, according to Morgan Stanley’s Wilson",0.1558712161082733,0.22622093558311462,0.020000000000000018
+2025-07-28T13:30:00+00:00,Three Things You Need To Know This Week,0.7259097026562648,0.32707101106643677,0.43000000000000005
+2025-07-28T13:17:00+00:00,TTM Set to Report Q2 Earnings: How Should You Play the Stock?,0.2650748745451065,0.4796161651611328,-0.17000000000000004
+2025-07-28T13:07:00+00:00,Apple Isn’t Leaving China. Its Footprint Is Getting Harder to See.,0.9155857193283184,0.2032565474510193,0.76
+2025-07-28T13:05:18+00:00,"US-EU trade deal, Big Tech earnings, Fed meeting: 3 Things",0.2864446140855672,0.32142770290374756,0.22999999999999993
+2025-07-28T13:00:00+00:00,Avalon GloboCare Enters into Distribution Agreement with Saga Health for KetoAir Targeting First Responders,0.2445776071844635,0.11755532771348953,0.51
+2025-07-28T13:00:00+00:00,"Anker Expands Nano Series With Three New Portable Power Solutions, Offering Ultra-Slim, High-Speed, and Multi-Port Charging Designed for Modern Mobility",0.5173787174910047,0.08696868270635605,0.79
+2025-07-28T12:36:00+00:00,AAPL LAWSUIT: Apple Inc. Sued for Fraud over AI Promises to Investors – Contact BFA Law by August 19 Court Deadline (NASDAQ: AAPL),0.9266455932301908,0.39521723985671997,0.33999999999999997
+2025-07-28T12:23:12+00:00,PayPal Q2 2025 Earnings Preview: Checkout Share Faces Cost-Cut Test,0.2669701541006217,0.325731486082077,0.17000000000000004
+2025-07-28T12:12:00+00:00,"Microsoft, Meta Platforms, Apple, Amazon, Alphabet and Nvidia are part of Zacks Earnings Preview",0.2644442738238541,0.5324656963348389,-0.30000000000000004
+2025-07-28T12:00:00+00:00,SHAREHOLDER ALERT Bernstein Liebhard LLP Announces A Securities Fraud Class Action Lawsuit Has Been Filed Against Apple Inc. (NASDAQ: AAPL),0.7687554682906581,0.4332926869392395,0.21999999999999997
+2025-07-28T11:43:03+00:00,"Earnings live: Microsoft, Apple, Amazon highlight parade of Q2 results this week",0.1754578424666133,0.5313783288002014,-0.54
+2025-07-28T11:42:00+00:00,"Tech, Media &amp; Telecom Roundup: Market Talk",0.1162526918183005,0.24638260900974274,-0.31
+2025-07-28T11:36:07+00:00,Ireland's 'economic miracle' at risk from tariffs,0.1379076803465712,0.09397286176681519,0.08
+2025-07-28T11:30:00+00:00,S&amp;P 500 Rally Faces $11 Trillion Gauntlet of Big Tech Earnings,0.1872752744474772,0.42947229743003845,-0.26999999999999996
+2025-07-28T11:27:45+00:00,"Trade Outlook Lifts Wall Street Pre-Bell; Asia Choppy, Europe Up",0.1236782483841042,0.31374475359916687,-0.37
+2025-07-28T11:26:19+00:00,"Stocks Rise Pre-Bell as US, EU Strike Trade Deal; Investors Await Key Tech Earnings, Economic Data, Fed Policy Decision",0.1124887506474739,0.3402099013328552,-0.52
+2025-07-28T11:20:55+00:00,BofA sees a tough earnings setup for Apple this week,0.4928954737633695,0.5579085350036621,-0.13
+2025-07-28T11:02:00+00:00,"EDEN announces new Instant Quote application, helping HVAC techs generate more replacement leads from service calls",0.324003604920709,0.1710824966430664,0.58
+2025-07-28T11:00:02+00:00,Option Volatility And Earnings Report For July 28 – Aug 1,0.1610558072279656,0.45876792073249817,-0.48000000000000004
+2025-07-28T11:00:02+00:00,Option Volatility And Earnings Report For July 28 – Aug 1,0.1450396002727023,0.5002564787864685,-0.63
+2025-07-28T11:00:00+00:00,Warren Buffett Has 40% of Berkshire Hathaway's $293 Billion Portfolio Invested in 5 Artificial Intelligence (AI) Stocks,0.3146143650724566,0.32161378860473633,0.26
+2025-07-28T10:35:00+00:00,Trump’s EU Trade Deal Is a Big Win. Stock Markets Still Face These Risks.,0.1447624606638601,0.1371101289987564,0.09999999999999999
+2025-07-28T10:20:06+00:00,Should SPDR Portfolio S&amp;P 500 Value ETF (SPYV) Be on Your Investing Radar?,0.2071108323223482,0.23457691073417664,0.21000000000000002
+2025-07-28T10:20:05+00:00,Should John Hancock Multifactor Large Cap ETF (JHML) Be on Your Investing Radar?,0.201193689750033,0.20234999060630798,0.26
+2025-07-28T10:20:05+00:00,Should iShares Russell Top 200 ETF (IWL) Be on Your Investing Radar?,0.1944904838065955,0.2584967613220215,0.08000000000000002
+2025-07-28T10:15:59+00:00,Wall Street futures boosted by US-EU trade deal ahead of action-packed week,0.169834701723665,0.2658461332321167,-0.06

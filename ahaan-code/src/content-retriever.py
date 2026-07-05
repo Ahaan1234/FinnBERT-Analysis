@@ -22,7 +22,7 @@ r.raise_for_status()
 articles = r.json()
 
 df = pd.json_normalize(articles)
-df.to_csv(f'ahaan-code/{ticker.replace(".","_")}_data.csv', index=False)
+df.to_csv(f'ahaan-code/results/{ticker.replace(".","_")}_data.csv', index=False)
 
 count = 1
 for article in articles:
