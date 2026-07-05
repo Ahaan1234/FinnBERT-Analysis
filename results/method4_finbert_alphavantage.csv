@@ -1,0 +1,21 @@
+method,week_key,week_label,week_start,week_end,ticker,company,num_articles,sentiment_score,positive_prob,negative_prob,neutral_prob,predicted_label,av_mean_sentiment
+4_finbert_alphavantage,positive,Max-Positive (week ending 2024-08-16),2024-08-12,2024-08-16,JPM,JPMorgan Chase,30,0.2809,0.5088,0.2279,0.2634,positive,0.1615
+4_finbert_alphavantage,positive,Max-Positive (week ending 2024-08-16),2024-08-12,2024-08-16,TSLA,Tesla,6,-0.1084,0.322,0.4304,0.2476,negative,-0.1486
+4_finbert_alphavantage,positive,Max-Positive (week ending 2024-08-16),2024-08-12,2024-08-16,AVGO,Broadcom,3,0.2321,0.2452,0.0131,0.7417,neutral,0.3486
+4_finbert_alphavantage,positive,Max-Positive (week ending 2024-08-16),2024-08-12,2024-08-16,RELIANCE.NS,Reliance Industries,0,,,,,,
+4_finbert_alphavantage,positive,Max-Positive (week ending 2024-08-16),2024-08-12,2024-08-16,TCS.NS,Tata Consultancy Services,0,,,,,,
+4_finbert_alphavantage,positive,Max-Positive (week ending 2024-08-16),2024-08-12,2024-08-16,HDFCBANK.NS,HDFC Bank,0,,,,,,
+4_finbert_alphavantage,positive,Max-Positive (week ending 2024-08-16),2024-08-12,2024-08-16,INFY.NS,Infosys,0,,,,,,
+4_finbert_alphavantage,positive,Max-Positive (week ending 2024-08-16),2024-08-12,2024-08-16,7203.T,Toyota Motor,0,,,,,,
+4_finbert_alphavantage,positive,Max-Positive (week ending 2024-08-16),2024-08-12,2024-08-16,9984.T,SoftBank Group,0,,,,,,
+4_finbert_alphavantage,positive,Max-Positive (week ending 2024-08-16),2024-08-12,2024-08-16,6758.T,Sony Group,0,,,,,,
+4_finbert_alphavantage,negative,Max-Negative (week ending 2025-04-04),2025-03-31,2025-04-04,JPM,JPMorgan Chase,42,0.2878,0.4338,0.1461,0.4201,positive,0.1465
+4_finbert_alphavantage,negative,Max-Negative (week ending 2025-04-04),2025-03-31,2025-04-04,TSLA,Tesla,21,0.1198,0.2992,0.1795,0.5213,neutral,-0.0315
+4_finbert_alphavantage,negative,Max-Negative (week ending 2025-04-04),2025-03-31,2025-04-04,AVGO,Broadcom,15,0.2351,0.3191,0.084,0.597,neutral,0.1547
+4_finbert_alphavantage,negative,Max-Negative (week ending 2025-04-04),2025-03-31,2025-04-04,RELIANCE.NS,Reliance Industries,0,,,,,,
+4_finbert_alphavantage,negative,Max-Negative (week ending 2025-04-04),2025-03-31,2025-04-04,TCS.NS,Tata Consultancy Services,0,,,,,,
+4_finbert_alphavantage,negative,Max-Negative (week ending 2025-04-04),2025-03-31,2025-04-04,HDFCBANK.NS,HDFC Bank,0,,,,,,
+4_finbert_alphavantage,negative,Max-Negative (week ending 2025-04-04),2025-03-31,2025-04-04,INFY.NS,Infosys,1,0.9107,0.9243,0.0135,0.0622,positive,0.4173
+4_finbert_alphavantage,negative,Max-Negative (week ending 2025-04-04),2025-03-31,2025-04-04,7203.T,Toyota Motor,0,,,,,,
+4_finbert_alphavantage,negative,Max-Negative (week ending 2025-04-04),2025-03-31,2025-04-04,9984.T,SoftBank Group,0,,,,,,
+4_finbert_alphavantage,negative,Max-Negative (week ending 2025-04-04),2025-03-31,2025-04-04,6758.T,Sony Group,0,,,,,,

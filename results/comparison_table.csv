@@ -1,0 +1,21 @@
+week,week_label,ticker,company,m3_score,m3_label,m4_n_articles,m4_score,m4_label,m4_av_score,m5_raw_count,m5_after_cos,m5_n_articles,m5_score,m5_label,m4_vs_m3,m5_vs_m3,m5_vs_m4
+positive,Max-Positive (week ending 2024-08-16),JPM,JPMorgan Chase,-0.015,neutral,30,0.2809,positive,0.1615,30,4,4,0.3932,positive,0.2959,0.4082,0.1123
+positive,Max-Positive (week ending 2024-08-16),TSLA,Tesla,-0.001,neutral,6,-0.1084,negative,-0.1486,31,8,8,-0.2393,neutral,-0.1074,-0.2383,-0.1309
+positive,Max-Positive (week ending 2024-08-16),AVGO,Broadcom,0.003,neutral,3,0.2321,neutral,0.3486,3,1,1,0.0688,neutral,0.2291,0.0658,-0.1633
+positive,Max-Positive (week ending 2024-08-16),RELIANCE.NS,Reliance Industries,0.0,neutral,0,,,,0,0,0,,,,,
+positive,Max-Positive (week ending 2024-08-16),TCS.NS,Tata Consultancy Services,0.002,neutral,0,,,,0,0,0,,,,,
+positive,Max-Positive (week ending 2024-08-16),HDFCBANK.NS,HDFC Bank,-0.0017,neutral,0,,,,0,0,0,,,,,
+positive,Max-Positive (week ending 2024-08-16),INFY.NS,Infosys,-0.0066,neutral,0,,,,0,0,0,,,,,
+positive,Max-Positive (week ending 2024-08-16),7203.T,Toyota Motor,-0.0025,neutral,0,,,,0,0,0,,,,,
+positive,Max-Positive (week ending 2024-08-16),9984.T,SoftBank Group,0.0008,neutral,0,,,,5,0,0,,,,,
+positive,Max-Positive (week ending 2024-08-16),6758.T,Sony Group,-0.0099,neutral,0,,,,0,0,0,,,,,
+negative,Max-Negative (week ending 2025-04-04),JPM,JPMorgan Chase,-0.015,neutral,42,0.2878,positive,0.1465,0,0,0,,,0.3028,,
+negative,Max-Negative (week ending 2025-04-04),TSLA,Tesla,-0.001,neutral,21,0.1198,neutral,-0.0315,0,0,0,,,0.1208,,
+negative,Max-Negative (week ending 2025-04-04),AVGO,Broadcom,0.003,neutral,15,0.2351,neutral,0.1547,0,0,0,,,0.2321,,
+negative,Max-Negative (week ending 2025-04-04),RELIANCE.NS,Reliance Industries,0.0,neutral,0,,,,0,0,0,,,,,
+negative,Max-Negative (week ending 2025-04-04),TCS.NS,Tata Consultancy Services,0.002,neutral,0,,,,0,0,0,,,,,
+negative,Max-Negative (week ending 2025-04-04),HDFCBANK.NS,HDFC Bank,-0.0017,neutral,0,,,,0,0,0,,,,,
+negative,Max-Negative (week ending 2025-04-04),INFY.NS,Infosys,-0.0066,neutral,1,0.9107,positive,0.4173,0,0,0,,,0.9173,,
+negative,Max-Negative (week ending 2025-04-04),7203.T,Toyota Motor,-0.0025,neutral,0,,,,0,0,0,,,,,
+negative,Max-Negative (week ending 2025-04-04),9984.T,SoftBank Group,0.0008,neutral,0,,,,0,0,0,,,,,
+negative,Max-Negative (week ending 2025-04-04),6758.T,Sony Group,-0.0099,neutral,0,,,,0,0,0,,,,,

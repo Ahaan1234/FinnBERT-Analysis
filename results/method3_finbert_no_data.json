@@ -1,0 +1,462 @@
+[
+  {
+    "method": "3_finbert_no_data",
+    "ticker": "JPM",
+    "company": "JPMorgan Chase",
+    "week": "both (no data dependency)",
+    "sentiment_score": -0.015,
+    "positive_prob": 0.023,
+    "negative_prob": 0.038,
+    "neutral_prob": 0.9391,
+    "predicted_label": "neutral",
+    "num_sentences": 4,
+    "sentence_details": [
+      {
+        "sentence": "The stock JPM belongs to JPMorgan Chase.",
+        "positive_prob": 0.0182,
+        "negative_prob": 0.0407,
+        "neutral_prob": 0.9411,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.0226
+      },
+      {
+        "sentence": "JPMorgan Chase is a publicly listed company traded under the ticker JPM.",
+        "positive_prob": 0.0226,
+        "negative_prob": 0.0253,
+        "neutral_prob": 0.9521,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.0026
+      },
+      {
+        "sentence": "News sentiment analysis for JPMorgan Chase (JPM).",
+        "positive_prob": 0.0284,
+        "negative_prob": 0.0351,
+        "neutral_prob": 0.9366,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.0067
+      },
+      {
+        "sentence": "Financial outlook for JPM, JPMorgan Chase.",
+        "positive_prob": 0.0227,
+        "negative_prob": 0.0509,
+        "neutral_prob": 0.9264,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.0282
+      }
+    ]
+  },
+  {
+    "method": "3_finbert_no_data",
+    "ticker": "TSLA",
+    "company": "Tesla",
+    "week": "both (no data dependency)",
+    "sentiment_score": -0.001,
+    "positive_prob": 0.026,
+    "negative_prob": 0.027,
+    "neutral_prob": 0.947,
+    "predicted_label": "neutral",
+    "num_sentences": 4,
+    "sentence_details": [
+      {
+        "sentence": "The stock TSLA belongs to Tesla.",
+        "positive_prob": 0.0203,
+        "negative_prob": 0.0291,
+        "neutral_prob": 0.9505,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.0088
+      },
+      {
+        "sentence": "Tesla is a publicly listed company traded under the ticker TSLA.",
+        "positive_prob": 0.0262,
+        "negative_prob": 0.0208,
+        "neutral_prob": 0.953,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0053
+      },
+      {
+        "sentence": "News sentiment analysis for Tesla (TSLA).",
+        "positive_prob": 0.0321,
+        "negative_prob": 0.0245,
+        "neutral_prob": 0.9435,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0076
+      },
+      {
+        "sentence": "Financial outlook for TSLA, Tesla.",
+        "positive_prob": 0.0254,
+        "negative_prob": 0.0335,
+        "neutral_prob": 0.9412,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.0081
+      }
+    ]
+  },
+  {
+    "method": "3_finbert_no_data",
+    "ticker": "AVGO",
+    "company": "Broadcom",
+    "week": "both (no data dependency)",
+    "sentiment_score": 0.003,
+    "positive_prob": 0.0273,
+    "negative_prob": 0.0244,
+    "neutral_prob": 0.9483,
+    "predicted_label": "neutral",
+    "num_sentences": 4,
+    "sentence_details": [
+      {
+        "sentence": "The stock AVGO belongs to Broadcom.",
+        "positive_prob": 0.019,
+        "negative_prob": 0.0291,
+        "neutral_prob": 0.9519,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.0101
+      },
+      {
+        "sentence": "Broadcom is a publicly listed company traded under the ticker AVGO.",
+        "positive_prob": 0.0274,
+        "negative_prob": 0.02,
+        "neutral_prob": 0.9526,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0074
+      },
+      {
+        "sentence": "News sentiment analysis for Broadcom (AVGO).",
+        "positive_prob": 0.0329,
+        "negative_prob": 0.0243,
+        "neutral_prob": 0.9427,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0086
+      },
+      {
+        "sentence": "Financial outlook for AVGO, Broadcom.",
+        "positive_prob": 0.03,
+        "negative_prob": 0.024,
+        "neutral_prob": 0.946,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0061
+      }
+    ]
+  },
+  {
+    "method": "3_finbert_no_data",
+    "ticker": "RELIANCE.NS",
+    "company": "Reliance Industries",
+    "week": "both (no data dependency)",
+    "sentiment_score": 0.0,
+    "positive_prob": 0.0261,
+    "negative_prob": 0.0261,
+    "neutral_prob": 0.9477,
+    "predicted_label": "neutral",
+    "num_sentences": 4,
+    "sentence_details": [
+      {
+        "sentence": "The stock RELIANCE.NS belongs to Reliance Industries.",
+        "positive_prob": 0.0188,
+        "negative_prob": 0.0333,
+        "neutral_prob": 0.9479,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.0144
+      },
+      {
+        "sentence": "Reliance Industries is a publicly listed company traded under the ticker RELIANCE.NS.",
+        "positive_prob": 0.0254,
+        "negative_prob": 0.0207,
+        "neutral_prob": 0.9539,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0047
+      },
+      {
+        "sentence": "News sentiment analysis for Reliance Industries (RELIANCE.NS).",
+        "positive_prob": 0.0311,
+        "negative_prob": 0.0262,
+        "neutral_prob": 0.9427,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0049
+      },
+      {
+        "sentence": "Financial outlook for RELIANCE.NS, Reliance Industries.",
+        "positive_prob": 0.0293,
+        "negative_prob": 0.0242,
+        "neutral_prob": 0.9465,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0051
+      }
+    ]
+  },
+  {
+    "method": "3_finbert_no_data",
+    "ticker": "TCS.NS",
+    "company": "Tata Consultancy Services",
+    "week": "both (no data dependency)",
+    "sentiment_score": 0.002,
+    "positive_prob": 0.0274,
+    "negative_prob": 0.0254,
+    "neutral_prob": 0.9473,
+    "predicted_label": "neutral",
+    "num_sentences": 4,
+    "sentence_details": [
+      {
+        "sentence": "The stock TCS.NS belongs to Tata Consultancy Services.",
+        "positive_prob": 0.0183,
+        "negative_prob": 0.0316,
+        "neutral_prob": 0.95,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.0133
+      },
+      {
+        "sentence": "Tata Consultancy Services is a publicly listed company traded under the ticker TCS.NS.",
+        "positive_prob": 0.0273,
+        "negative_prob": 0.0204,
+        "neutral_prob": 0.9524,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0069
+      },
+      {
+        "sentence": "News sentiment analysis for Tata Consultancy Services (TCS.NS).",
+        "positive_prob": 0.0288,
+        "negative_prob": 0.0253,
+        "neutral_prob": 0.9459,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0034
+      },
+      {
+        "sentence": "Financial outlook for TCS.NS, Tata Consultancy Services.",
+        "positive_prob": 0.0351,
+        "negative_prob": 0.0241,
+        "neutral_prob": 0.9408,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.011
+      }
+    ]
+  },
+  {
+    "method": "3_finbert_no_data",
+    "ticker": "HDFCBANK.NS",
+    "company": "HDFC Bank",
+    "week": "both (no data dependency)",
+    "sentiment_score": -0.0017,
+    "positive_prob": 0.0254,
+    "negative_prob": 0.0271,
+    "neutral_prob": 0.9476,
+    "predicted_label": "neutral",
+    "num_sentences": 4,
+    "sentence_details": [
+      {
+        "sentence": "The stock HDFCBANK.NS belongs to HDFC Bank.",
+        "positive_prob": 0.0168,
+        "negative_prob": 0.0409,
+        "neutral_prob": 0.9423,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.0241
+      },
+      {
+        "sentence": "HDFC Bank is a publicly listed company traded under the ticker HDFCBANK.NS.",
+        "positive_prob": 0.0282,
+        "negative_prob": 0.0216,
+        "neutral_prob": 0.9503,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0066
+      },
+      {
+        "sentence": "News sentiment analysis for HDFC Bank (HDFCBANK.NS).",
+        "positive_prob": 0.0302,
+        "negative_prob": 0.0228,
+        "neutral_prob": 0.947,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0074
+      },
+      {
+        "sentence": "Financial outlook for HDFCBANK.NS, HDFC Bank.",
+        "positive_prob": 0.0262,
+        "negative_prob": 0.023,
+        "neutral_prob": 0.9508,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0032
+      }
+    ]
+  },
+  {
+    "method": "3_finbert_no_data",
+    "ticker": "INFY.NS",
+    "company": "Infosys",
+    "week": "both (no data dependency)",
+    "sentiment_score": -0.0066,
+    "positive_prob": 0.0232,
+    "negative_prob": 0.0298,
+    "neutral_prob": 0.947,
+    "predicted_label": "neutral",
+    "num_sentences": 4,
+    "sentence_details": [
+      {
+        "sentence": "The stock INFY.NS belongs to Infosys.",
+        "positive_prob": 0.0164,
+        "negative_prob": 0.0401,
+        "neutral_prob": 0.9435,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.0237
+      },
+      {
+        "sentence": "Infosys is a publicly listed company traded under the ticker INFY.NS.",
+        "positive_prob": 0.0257,
+        "negative_prob": 0.0208,
+        "neutral_prob": 0.9535,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0049
+      },
+      {
+        "sentence": "News sentiment analysis for Infosys (INFY.NS).",
+        "positive_prob": 0.0276,
+        "negative_prob": 0.023,
+        "neutral_prob": 0.9494,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0046
+      },
+      {
+        "sentence": "Financial outlook for INFY.NS, Infosys.",
+        "positive_prob": 0.0229,
+        "negative_prob": 0.0353,
+        "neutral_prob": 0.9417,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.0124
+      }
+    ]
+  },
+  {
+    "method": "3_finbert_no_data",
+    "ticker": "7203.T",
+    "company": "Toyota Motor",
+    "week": "both (no data dependency)",
+    "sentiment_score": -0.0025,
+    "positive_prob": 0.0253,
+    "negative_prob": 0.0278,
+    "neutral_prob": 0.9469,
+    "predicted_label": "neutral",
+    "num_sentences": 4,
+    "sentence_details": [
+      {
+        "sentence": "The stock 7203.T belongs to Toyota Motor.",
+        "positive_prob": 0.02,
+        "negative_prob": 0.0299,
+        "neutral_prob": 0.95,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.0099
+      },
+      {
+        "sentence": "Toyota Motor is a publicly listed company traded under the ticker 7203.T.",
+        "positive_prob": 0.0253,
+        "negative_prob": 0.0195,
+        "neutral_prob": 0.9552,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0059
+      },
+      {
+        "sentence": "News sentiment analysis for Toyota Motor (7203.T).",
+        "positive_prob": 0.0271,
+        "negative_prob": 0.0359,
+        "neutral_prob": 0.9369,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.0088
+      },
+      {
+        "sentence": "Financial outlook for 7203.T, Toyota Motor.",
+        "positive_prob": 0.0287,
+        "negative_prob": 0.0259,
+        "neutral_prob": 0.9454,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0027
+      }
+    ]
+  },
+  {
+    "method": "3_finbert_no_data",
+    "ticker": "9984.T",
+    "company": "SoftBank Group",
+    "week": "both (no data dependency)",
+    "sentiment_score": 0.0008,
+    "positive_prob": 0.0266,
+    "negative_prob": 0.0257,
+    "neutral_prob": 0.9477,
+    "predicted_label": "neutral",
+    "num_sentences": 4,
+    "sentence_details": [
+      {
+        "sentence": "The stock 9984.T belongs to SoftBank Group.",
+        "positive_prob": 0.0196,
+        "negative_prob": 0.0311,
+        "neutral_prob": 0.9494,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.0115
+      },
+      {
+        "sentence": "SoftBank Group is a publicly listed company traded under the ticker 9984.T.",
+        "positive_prob": 0.0295,
+        "negative_prob": 0.0182,
+        "neutral_prob": 0.9523,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0112
+      },
+      {
+        "sentence": "News sentiment analysis for SoftBank Group (9984.T).",
+        "positive_prob": 0.0285,
+        "negative_prob": 0.0264,
+        "neutral_prob": 0.9451,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0021
+      },
+      {
+        "sentence": "Financial outlook for 9984.T, SoftBank Group.",
+        "positive_prob": 0.0287,
+        "negative_prob": 0.0273,
+        "neutral_prob": 0.9441,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.0014
+      }
+    ]
+  },
+  {
+    "method": "3_finbert_no_data",
+    "ticker": "6758.T",
+    "company": "Sony Group",
+    "week": "both (no data dependency)",
+    "sentiment_score": -0.0099,
+    "positive_prob": 0.0233,
+    "negative_prob": 0.0333,
+    "neutral_prob": 0.9434,
+    "predicted_label": "neutral",
+    "num_sentences": 4,
+    "sentence_details": [
+      {
+        "sentence": "The stock 6758.T belongs to Sony Group.",
+        "positive_prob": 0.0186,
+        "negative_prob": 0.0358,
+        "neutral_prob": 0.9456,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.0172
+      },
+      {
+        "sentence": "Sony Group is a publicly listed company traded under the ticker 6758.T.",
+        "positive_prob": 0.0243,
+        "negative_prob": 0.0213,
+        "neutral_prob": 0.9543,
+        "predicted_label": "neutral",
+        "sentiment_score": 0.003
+      },
+      {
+        "sentence": "News sentiment analysis for Sony Group (6758.T).",
+        "positive_prob": 0.0257,
+        "negative_prob": 0.038,
+        "neutral_prob": 0.9363,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.0122
+      },
+      {
+        "sentence": "Financial outlook for 6758.T, Sony Group.",
+        "positive_prob": 0.0248,
+        "negative_prob": 0.0379,
+        "neutral_prob": 0.9373,
+        "predicted_label": "neutral",
+        "sentiment_score": -0.013
+      }
+    ]
+  }
+]
