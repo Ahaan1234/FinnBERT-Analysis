@@ -1,203 +1,309 @@
 """
 compare_results.py
-------------------
-Load results from Methods 3, 4, and 5, merge them into a single
-comparison table, and print a structured summary.
+==================
+Orchestrator and reporter for the FinSent Sentiment Benchmark.
 
-Also produces:
-  results/comparison_table.csv   — wide format: one row per ticker×week
-  results/comparison_summary.txt — human-readable summary
+Runs Configs 3, 4, 5 across both date windows for all 5 tickers.
+Configs 1 & 2 (EYQ Incubator) are deprioritised — placeholders shown as '—'.
 
-Run this AFTER all three method scripts have completed:
-  python method3_finbert_no_data.py
-  python method4_finbert_alphavantage.py
-  python method5_finbert_multisource.py
-  python compare_results.py
+Output: two printed tables (one per window) matching Sentiment_Analysis_v1.docx,
+        plus a side-by-side summary and a delta table (Config 5 − Config 4).
 
-Usage:
-  python compare_results.py
+Score encoding: float in [-1, +1]
+  +1.0 = maximally bullish    −1.0 = maximally bearish    0.0 = neutral
+
+Usage
+-----
+    python compare_results.py
+
+    # Skip API fetches and use only cached data (safe for re-runs):
+    python compare_results.py --cache-only
+
+    # Clear cache before run:
+    python compare_results.py --clear-cache
 """
 
 import os
-import json
-import csv
+import sys
+import time
 
-from config import TICKERS, VOLATILE_WEEKS, OUTPUT_DIR
+os.environ.setdefault("KMP_DUPLICATE_LIB_OK", "TRUE")   # Windows/Anaconda OpenMP fix
 
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-# ── Load results ───────────────────────────────────────────────────────────────
-def load_json(filename: str) -> list[dict]:
-    path = os.path.join(OUTPUT_DIR, filename)
-    if not os.path.exists(path):
-        print(f"  [WARN] {path} not found — run the corresponding method script first.")
-        return []
-    with open(path) as f:
-        return json.load(f)
+import config
+from method3_finbert_no_data   import run_config3
+from method4_finbert_articles  import run_config4
+from method5_finbert_filtered  import run_config5
 
 
-m3 = load_json("method3_finbert_no_data.json")
-m4 = load_json("method4_finbert_alphavantage.json")
-m5 = load_json("method5_finbert_multisource.json")
+# ---------------------------------------------------------------------------
+# CLI flags
+# ---------------------------------------------------------------------------
+
+CACHE_ONLY  = "--cache-only"  in sys.argv
+CLEAR_CACHE = "--clear-cache" in sys.argv
+
+if CLEAR_CACHE:
+    from cache_utils import clear_cache
+    clear_cache()
 
 
-# ── Build a lookup: (ticker, week_key) -> score ────────────────────────────────
-# Method 3 has no week dependency — same score for both weeks.
-m3_lookup: dict = {}
-for row in m3:
-    ticker = row["ticker"]
-    m3_lookup[ticker] = {
-        "score": row["sentiment_score"],
-        "label": row["predicted_label"],
-    }
+# ---------------------------------------------------------------------------
+# Formatting helpers
+# ---------------------------------------------------------------------------
 
-m4_lookup: dict = {}
-for row in m4:
-    key = (row["ticker"], row["week_key"])
-    m4_lookup[key] = {
-        "score":       row["sentiment_score"],
-        "label":       row["predicted_label"],
-        "n_articles":  row["num_articles"],
-        "av_score":    row["av_mean_sentiment"],
-    }
+COL_WIDTH   = 22   # width of each config column
+TICK_WIDTH  = 12   # width of ticker column
+DEPR_MARK   = "—"  # placeholder for deprioritised configs
 
-m5_lookup: dict = {}
-for row in m5:
-    key = (row["ticker"], row["week_key"])
-    m5_lookup[key] = {
-        "score":      row["sentiment_score"],
-        "label":      row["predicted_label"],
-        "n_articles": row["num_articles_scored"],
-        "raw_count":  row["raw_article_count"],
-        "after_cosine": row["after_cosine_filter"],
-    }
+def _fmt(val) -> str:
+    """Format a score value for table display."""
+    if val is None:
+        return "N/A".center(COL_WIDTH)
+    if isinstance(val, dict):
+        # Config 5 returns a rich dict; extract score
+        val = val.get("score")
+        if val is None:
+            return "N/A".center(COL_WIDTH)
+    return f"{val:+.4f}".center(COL_WIDTH)
 
 
-# ── Build comparison table ─────────────────────────────────────────────────────
-comparison_rows = []
-
-for week_key, week in VOLATILE_WEEKS.items():
-    for ticker, company in TICKERS.items():
-
-        m3_data = m3_lookup.get(ticker, {})
-        m4_data = m4_lookup.get((ticker, week_key), {})
-        m5_data = m5_lookup.get((ticker, week_key), {})
-
-        row = {
-            "week":          week_key,
-            "week_label":    week["label"],
-            "ticker":        ticker,
-            "company":       company,
-            # Method 3 — no-data baseline
-            "m3_score":      m3_data.get("score"),
-            "m3_label":      m3_data.get("label"),
-            # Method 4 — AV + FinBERT
-            "m4_n_articles": m4_data.get("n_articles"),
-            "m4_score":      m4_data.get("score"),
-            "m4_label":      m4_data.get("label"),
-            "m4_av_score":   m4_data.get("av_score"),   # AV's own keyword score
-            # Method 5 — multi-source + cosine + FinBERT
-            "m5_raw_count":  m5_data.get("raw_count"),
-            "m5_after_cos":  m5_data.get("after_cosine"),
-            "m5_n_articles": m5_data.get("n_articles"),
-            "m5_score":      m5_data.get("score"),
-            "m5_label":      m5_data.get("label"),
-            # Deltas vs baseline
-            "m4_vs_m3":     (
-                round(m4_data["score"] - m3_data["score"], 4)
-                if m4_data.get("score") is not None and m3_data.get("score") is not None
-                else None
-            ),
-            "m5_vs_m3":     (
-                round(m5_data["score"] - m3_data["score"], 4)
-                if m5_data.get("score") is not None and m3_data.get("score") is not None
-                else None
-            ),
-            "m5_vs_m4":     (
-                round(m5_data["score"] - m4_data["score"], 4)
-                if m5_data.get("score") is not None and m4_data.get("score") is not None
-                else None
-            ),
-        }
-        comparison_rows.append(row)
+def _sentiment_label(val) -> str:
+    """Convert scalar to human-readable label."""
+    if val is None:
+        return ""
+    if isinstance(val, dict):
+        val = val.get("score")
+    if val is None:
+        return ""
+    if val >= 0.35:
+        return "Bullish"
+    if val >= 0.10:
+        return "Somewhat Bullish"
+    if val > -0.10:
+        return "Neutral"
+    if val > -0.35:
+        return "Somewhat Bearish"
+    return "Bearish"
 
 
-# ── Save comparison CSV ────────────────────────────────────────────────────────
-csv_path = os.path.join(OUTPUT_DIR, "comparison_table.csv")
-csv_fields = [
-    "week", "week_label", "ticker", "company",
-    "m3_score", "m3_label",
-    "m4_n_articles", "m4_score", "m4_label", "m4_av_score",
-    "m5_raw_count", "m5_after_cos", "m5_n_articles", "m5_score", "m5_label",
-    "m4_vs_m3", "m5_vs_m3", "m5_vs_m4",
-]
-with open(csv_path, "w", newline="") as f:
-    writer = csv.DictWriter(f, fieldnames=csv_fields)
-    writer.writeheader()
-    writer.writerows(comparison_rows)
-print(f"Saved: {csv_path}")
+def _hline(col_count: int) -> str:
+    return "+" + ("-" * TICK_WIDTH) + ("+" + ("-" * COL_WIDTH)) * col_count + "+"
 
 
-# ── Print human-readable summary ───────────────────────────────────────────────
-def fmt_score(v) -> str:
-    if v is None:
-        return "  n/a  "
-    return f"{v:+.4f}"
+def _header_row(labels: list[str]) -> str:
+    row = "|" + "Ticker".center(TICK_WIDTH)
+    for lbl in labels:
+        row += "|" + lbl[:COL_WIDTH].center(COL_WIDTH)
+    row += "|"
+    return row
 
-def fmt_label(v) -> str:
-    if v is None:
-        return "  ---  "
-    return f"{v:>8}"
 
-summary_lines = []
-divider = "=" * 110
+def print_window_table(
+    window_label: str,
+    c3: dict, c4: dict, c5: dict,
+):
+    """Print a table for one window with all 5 configs (1 & 2 as placeholders)."""
 
-for week_key, week in VOLATILE_WEEKS.items():
-    summary_lines.append(divider)
-    summary_lines.append(f"  WEEK: {week['label']}")
-    summary_lines.append(divider)
-    header = (
-        f"  {'Ticker':<18} {'Company':<30} "
-        f"{'M3 (no data)':>14} "
-        f"{'M4 (AV+FB)':>12} {'AV_kw':>8} "
-        f"{'M5 (multi+cos)':>15} "
-        f"{'Δ M4-M3':>9} {'Δ M5-M3':>9} {'Δ M5-M4':>9}"
-    )
-    summary_lines.append(header)
-    summary_lines.append("-" * 110)
+    COL_LABELS = [
+        "C1 EYQ Only",
+        "C2 EYQ+News",
+        "C3 FinBERT",
+        "C4 News+FINBERT",
+        "C5 Filt+FinBERT",
+    ]
 
-    for row in comparison_rows:
-        if row["week"] != week_key:
-            continue
-        line = (
-            f"  {row['ticker']:<18} {row['company']:<30} "
-            f"{fmt_score(row['m3_score']):>14} "
-            f"{fmt_score(row['m4_score']):>12} {fmt_score(row['m4_av_score']):>8} "
-            f"{fmt_score(row['m5_score']):>15} "
-            f"{fmt_score(row['m4_vs_m3']):>9} {fmt_score(row['m5_vs_m3']):>9} "
-            f"{fmt_score(row['m5_vs_m4']):>9}"
-        )
-        summary_lines.append(line)
-    summary_lines.append("")
+    print(f"\n{'='*80}")
+    print(f"  Window: {window_label}")
+    print(f"{'='*80}")
+    print(_hline(5))
+    print(_header_row(COL_LABELS))
+    print(_hline(5))
 
-summary_lines.append(divider)
-summary_lines.append("  LEGEND")
-summary_lines.append("  M3 (no data)   : FinBERT primed with ticker/company name only. No news. Null-hypothesis baseline.")
-summary_lines.append("  M4 (AV+FB)     : FinBERT on Alpha Vantage news summaries (AV_kw = AV's own keyword score).")
-summary_lines.append("  M5 (multi+cos) : FinBERT on Alpha Vantage + GDELT, after cosine-similarity pre-filtering.")
-summary_lines.append("  Score range [-1, +1].  Δ = (method score) - (reference score).")
-summary_lines.append("  Interpretation:")
-summary_lines.append("    Δ M4-M3 > 0: news pulled sentiment more positive than no-data prior.")
-summary_lines.append("    Δ M5-M4 > 0: multi-source + filtering moved score vs single-source.")
-summary_lines.append("    During negative week, scores should be < 0; during positive week, > 0.")
-summary_lines.append(divider)
+    for ticker in config.TICKER_ORDER:
+        row = "|" + ticker.center(TICK_WIDTH)
+        row += "|" + DEPR_MARK.center(COL_WIDTH)   # C1
+        row += "|" + DEPR_MARK.center(COL_WIDTH)   # C2
+        row += "|" + _fmt(c3.get(ticker))           # C3
+        row += "|" + _fmt(c4.get(ticker))           # C4
 
-summary_text = "\n".join(summary_lines)
-print("\n" + summary_text)
+        c5_val = c5.get(ticker, {})
+        score  = c5_val.get("score") if isinstance(c5_val, dict) else c5_val
+        fb     = c5_val.get("fallback_used", False) if isinstance(c5_val, dict) else False
+        score_str = "N/A" if score is None else f"{score:+.4f}"
+        if fb:
+            score_str += "*"
+        row += "|" + score_str.center(COL_WIDTH)    # C5
+        row += "|"
+        print(row)
 
-# Save to file
-txt_path = os.path.join(OUTPUT_DIR, "comparison_summary.txt")
-with open(txt_path, "w") as f:
-    f.write(summary_text)
-print(f"\nSaved: {txt_path}")
-print("\nDone — comparison complete.")
+    print(_hline(5))
+    print(f"  * fallback: cosine filter removed all articles; unfiltered set used.")
+
+
+def print_sentiment_labels(
+    window_label: str,
+    c3: dict, c4: dict, c5: dict,
+):
+    """Print a companion label table (Bearish / Neutral / Bullish) for readability."""
+
+    COL_LABELS = ["C3 FinBERT", "C4 News+FinBERT", "C5 Filt+FinBERT"]
+    LABEL_WIDTH = 20
+
+    print(f"\n  Sentiment Labels — {window_label}")
+    sep = "+" + ("-" * TICK_WIDTH) + ("+" + ("-" * LABEL_WIDTH)) * 3 + "+"
+    print(sep)
+    hdr = "|" + "Ticker".center(TICK_WIDTH)
+    for lbl in COL_LABELS:
+        hdr += "|" + lbl[:LABEL_WIDTH].center(LABEL_WIDTH)
+    hdr += "|"
+    print(hdr)
+    print(sep)
+
+    for ticker in config.TICKER_ORDER:
+        c5_val = c5.get(ticker, {})
+        c5_score = c5_val.get("score") if isinstance(c5_val, dict) else c5_val
+        row = "|" + ticker.center(TICK_WIDTH)
+        row += "|" + _sentiment_label(c3.get(ticker)).center(LABEL_WIDTH)
+        row += "|" + _sentiment_label(c4.get(ticker)).center(LABEL_WIDTH)
+        row += "|" + _sentiment_label(c5_score).center(LABEL_WIDTH)
+        row += "|"
+        print(row)
+
+    print(sep)
+
+
+def print_delta_table(window_label: str, c4: dict, c5: dict):
+    """
+    Print Config5 − Config4 delta.
+    Positive delta = filtering made sentiment more positive (noise was negative).
+    Negative delta = filtering made sentiment more negative (noise was positive).
+    """
+    print(f"\n  Config 5 − Config 4 delta (effect of cosine pre-filtering) — {window_label}")
+    sep = "+" + ("-" * TICK_WIDTH) + "+" + ("-" * 14) + "+" + ("-" * 18) + "+"
+    print(sep)
+    print("|" + "Ticker".center(TICK_WIDTH) + "|" +
+          "Delta".center(14) + "|" + "Interpretation".center(18) + "|")
+    print(sep)
+
+    for ticker in config.TICKER_ORDER:
+        s4 = c4.get(ticker)
+        c5_val = c5.get(ticker, {})
+        s5 = c5_val.get("score") if isinstance(c5_val, dict) else c5_val
+
+        if s4 is None or s5 is None:
+            delta_str = "N/A"
+            interp    = "—"
+        else:
+            delta     = s5 - s4
+            delta_str = f"{delta:+.4f}"
+            if abs(delta) < 0.01:
+                interp = "No change"
+            elif delta > 0:
+                interp = "Filter ↑ bullish"
+            else:
+                interp = "Filter ↑ bearish"
+
+        print("|" + ticker.center(TICK_WIDTH) + "|" +
+              delta_str.center(14) + "|" + interp.center(18) + "|")
+
+    print(sep)
+
+
+def print_article_coverage(window_label: str, c5_results: dict):
+    """Print article counts and filter retention rates from Config 5."""
+    print(f"\n  Article coverage — {window_label}")
+    sep = "+" + ("-" * TICK_WIDTH) + "+" + ("-"*8) + "+" + ("-"*8) + "+" + ("-"*12) + "+" + ("-"*12) + "+" + ("-"*10) + "+"
+    print(sep)
+    print("|" + "Ticker".center(TICK_WIDTH) +
+          "|" + "Source".center(8) +
+          "|" + "Raw".center(8) +
+          "|" + "Kept".center(12) +
+          "|" + "Retention".center(12) +
+          "|" + "Mean Sim".center(10) + "|")
+    print(sep)
+
+    for ticker in config.TICKER_ORDER:
+        _sym, _region, source = config.TICKERS[ticker]
+        val        = c5_results.get(ticker, {})
+        n_raw      = val.get("n_raw",      0)
+        n_filtered = val.get("n_filtered", 0)
+        mean_sim   = val.get("mean_sim",   0.0)
+        retention  = f"{(n_filtered/n_raw*100):.0f}%" if n_raw > 0 else "—"
+
+        print("|" + ticker.center(TICK_WIDTH) +
+              "|" + source.upper().center(8) +
+              "|" + str(n_raw).center(8) +
+              "|" + str(n_filtered).center(12) +
+              "|" + retention.center(12) +
+              "|" + f"{mean_sim:.3f}".center(10) + "|")
+
+    print(sep)
+
+
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
+def main():
+    print("\n" + "="*80)
+    print("  FinSent Sentiment Benchmark — EY FSRM QTB")
+    print("  Configs 3, 4, 5  |  5 tickers  |  2 windows")
+    print("="*80)
+
+    all_results = {}  # {window_label: {3: dict, 4: dict, 5: dict}}
+
+    for window in config.DATE_WINDOWS:
+        lbl = window["label"]
+        print(f"\n{'─'*60}")
+        print(f"  Running window: {lbl}")
+        print(f"  [{window['start']}  →  {window['end']}]")
+        print(f"{'─'*60}")
+
+        t0 = time.time()
+
+        c3 = run_config3(window)
+        c4 = run_config4(window)
+        c5 = run_config5(window)
+
+        elapsed = time.time() - t0
+        print(f"\n  [timing] {lbl} completed in {elapsed:.1f}s")
+
+        all_results[lbl] = {3: c3, 4: c4, 5: c5}
+
+    # -----------------------------------------------------------------------
+    # Print tables for each window
+    # -----------------------------------------------------------------------
+    for window in config.DATE_WINDOWS:
+        lbl = window["label"]
+        r   = all_results[lbl]
+        print_window_table(lbl, r[3], r[4], r[5])
+        print_sentiment_labels(lbl, r[3], r[4], r[5])
+        print_delta_table(lbl, r[4], r[5])
+        print_article_coverage(lbl, r[5])
+
+    # -----------------------------------------------------------------------
+    # Side-by-side summary: C4 scores both windows
+    # -----------------------------------------------------------------------
+    print(f"\n{'='*80}")
+    print("  Side-by-side: Config 4 (News + FinBERT) scores across both windows")
+    print(f"{'='*80}")
+    w1, w2 = [w["label"] for w in config.DATE_WINDOWS]
+    COL_W  = 20
+    print("+" + "-"*TICK_WIDTH + "+" + "-"*COL_W + "+" + "-"*COL_W + "+")
+    print("|" + "Ticker".center(TICK_WIDTH) +
+          "|" + w1[:COL_W].center(COL_W) +
+          "|" + w2[:COL_W].center(COL_W) + "|")
+    print("+" + "-"*TICK_WIDTH + "+" + "-"*COL_W + "+" + "-"*COL_W + "+")
+    for ticker in config.TICKER_ORDER:
+        s1 = all_results[w1][4].get(ticker)
+        s2 = all_results[w2][4].get(ticker)
+        v1 = f"{s1:+.4f}" if s1 is not None else "N/A"
+        v2 = f"{s2:+.4f}" if s2 is not None else "N/A"
+        print("|" + ticker.center(TICK_WIDTH) + "|" + v1.center(COL_W) + "|" + v2.center(COL_W) + "|")
+    print("+" + "-"*TICK_WIDTH + "+" + "-"*COL_W + "+" + "-"*COL_W + "+")
+
+    print("\n[Done] Benchmark complete.\n")
+
+
+if __name__ == "__main__":
+    main()

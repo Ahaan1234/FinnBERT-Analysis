@@ -1,138 +1,132 @@
-import os 
-os.environ.setdefault("KMP_DUPLICATE_LIB_OK", "TRUE")
+"""
+method3_finbert_no_data.py
+==========================
+Config 3 — FinBERT Only (baseline, no article data).
 
-import json
-import csv 
-import warnings
-warnings.filterwarnings("ignore")
+Feeds FinBERT only the company name + ticker as a synthetic sentence.
+This is the zero-information baseline: any score here reflects only
+the semantic prior baked into FinBERT's training vocabulary.
+
+Expected output: near-zero scores for most tickers.
+That is correct and expected — documented as a known baseline behaviour.
+
+Returns
+-------
+dict  {ticker_display: float}   sentiment score in [-1, +1]
+      positive = bullish, negative = bearish
+"""
+
+import os
+os.environ.setdefault("KMP_DUPLICATE_LIB_OK", "TRUE")   # Windows/Anaconda OpenMP fix
+
+import torch
+from transformers import pipeline, AutoTokenizer, AutoModelForSequenceClassification
+
+import config
 
 
-import torch 
-from transformers import AutoTokenizer, AutoModelForSequenceClassification 
-import torch.nn.functional as F
+# ---------------------------------------------------------------------------
+# Load FinBERT once (module-level singleton)
+# ---------------------------------------------------------------------------
 
-from config import TICKERS, VOLATILE_WEEKS, FINBERT_MODEL, OUTPUT_DIR
-
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-
-
-print(f"Loading FinBERT from '{FINBERT_MODEL}' …")
-tokenizer = AutoTokenizer.from_pretrained(FINBERT_MODEL)
-model     = AutoModelForSequenceClassification.from_pretrained(FINBERT_MODEL)
-model.eval()
- 
-
-LABEL_MAP = {0: "positive", 1: "negative", 2: "neutral"}
- 
- 
-def finbert_score(text: str) -> dict:
-    """Return FinBERT probabilities and predicted label for a piece of text."""
-    inputs = tokenizer(
-        text,
-        return_tensors="pt",
+def _load_finbert():
+    tokenizer = AutoTokenizer.from_pretrained(config.FINBERT_MODEL)
+    model     = AutoModelForSequenceClassification.from_pretrained(config.FINBERT_MODEL)
+    device    = 0 if torch.cuda.is_available() else -1
+    clf = pipeline(
+        "text-classification",
+        model=model,
+        tokenizer=tokenizer,
+        device=device,
+        top_k=None,                  # return all three class scores
         truncation=True,
-        max_length=512,
-        padding=True,
+        max_length=config.FINBERT_MAX_LENGTH,
     )
-    with torch.no_grad():
-        logits = model(**inputs).logits
-    probs = F.softmax(logits, dim=-1).squeeze().tolist()
-    pred_idx = int(torch.argmax(logits, dim=-1).item())
-    # Compute a composite score: positive_prob - negative_prob  ∈ [-1, +1]
-    score = probs[0] - probs[1]
-    return {
-        "positive_prob": round(probs[0], 4),
-        "negative_prob": round(probs[1], 4),
-        "neutral_prob":  round(probs[2], 4),
-        "predicted_label": LABEL_MAP[pred_idx],
-        "sentiment_score": round(score, 4),   # composite score
-    }
- 
- 
-def build_prompt_sentences(ticker: str, company: str) -> list[str]:
+    return clf
+
+
+_finbert = None
+
+def get_finbert():
+    global _finbert
+    if _finbert is None:
+        print("[FinBERT] Loading model …")
+        _finbert = _load_finbert()
+        print("[FinBERT] Model ready.")
+    return _finbert
+
+
+# ---------------------------------------------------------------------------
+# Score a single text → float in [-1, +1]
+# ---------------------------------------------------------------------------
+
+LABEL_SIGN = {"positive": +1.0, "negative": -1.0, "neutral": 0.0}
+
+def _scores_to_scalar(label_score_list: list[dict]) -> float:
     """
-    Build minimal description sentences for a company.
-    These are the only 'inputs' FinBERT sees in method 3.
-    We use several phrasings and average the results.
+    Convert FinBERT's list of {label, score} dicts to a single scalar.
+    scalar = P(positive) - P(negative)   ∈ [-1, +1]
     """
-    return [
-        f"The stock {ticker} belongs to {company}.",
-        f"{company} is a publicly listed company traded under the ticker {ticker}.",
-        f"News sentiment analysis for {company} ({ticker}).",
-        f"Financial outlook for {ticker}, {company}.",
-    ]
- 
- 
-# ── Main analysis ──────────────────────────────────────────────────────────────
-all_results = []
- 
-print("\n=== METHOD 3: FinBERT — No data (company name / ticker only) ===\n")
- 
-for ticker, company in TICKERS.items():
-    sentences = build_prompt_sentences(ticker, company)
- 
-    # Score each sentence and average the composite scores
-    sentence_scores = []
-    agg_pos = agg_neg = agg_neu = 0.0
-    for sent in sentences:
-        s = finbert_score(sent)
-        sentence_scores.append({
-            "sentence": sent,
-            **s,
-        })
-        agg_pos += s["positive_prob"]
-        agg_neg += s["negative_prob"]
-        agg_neu += s["neutral_prob"]
- 
-    n = len(sentences)
-    avg_score  = round((agg_pos - agg_neg) / n, 4)
-    avg_pos    = round(agg_pos / n, 4)
-    avg_neg    = round(agg_neg / n, 4)
-    avg_neu    = round(agg_neu / n, 4)
- 
-    # Derive label from averaged probs
-    probs_avg  = [avg_pos, avg_neg, avg_neu]
-    pred_label = LABEL_MAP[int(probs_avg.index(max(probs_avg)))]
- 
-    row = {
-        "method":           "3_finbert_no_data",
-        "ticker":           ticker,
-        "company":          company,
-        # Method 3 has no week-specific data — score is the same for both weeks
-        "week":             "both (no data dependency)",
-        "sentiment_score":  avg_score,
-        "positive_prob":    avg_pos,
-        "negative_prob":    avg_neg,
-        "neutral_prob":     avg_neu,
-        "predicted_label":  pred_label,
-        "num_sentences":    n,
-        "sentence_details": sentence_scores,
-    }
-    all_results.append(row)
- 
-    print(f"  {ticker:18s} ({company})")
-    print(f"    label={pred_label:8s}  score={avg_score:+.4f}  "
-          f"[pos={avg_pos:.3f} neg={avg_neg:.3f} neu={avg_neu:.3f}]")
- 
-# ── Save CSV (flat, without sentence_details) ──────────────────────────────────
-csv_path = os.path.join(OUTPUT_DIR, "method3_finbert_no_data.csv")
-csv_fields = [
-    "method", "ticker", "company", "week",
-    "sentiment_score", "positive_prob", "negative_prob", "neutral_prob",
-    "predicted_label", "num_sentences",
-]
-with open(csv_path, "w", newline="") as f:
-    writer = csv.DictWriter(f, fieldnames=csv_fields)
-    writer.writeheader()
-    for row in all_results:
-        writer.writerow({k: row[k] for k in csv_fields})
- 
-# ── Save full JSON (includes sentence-level detail) ────────────────────────────
-json_path = os.path.join(OUTPUT_DIR, "method3_finbert_no_data.json")
-with open(json_path, "w") as f:
-    json.dump(all_results, f, indent=2)
- 
-print(f"\nSaved: {csv_path}")
-print(f"Saved: {json_path}")
-print("\nDone — Method 3 complete.") 
+    prob = {d["label"].lower(): d["score"] for d in label_score_list}
+    return prob.get("positive", 0.0) - prob.get("negative", 0.0)
+
+
+def score_text(text: str) -> float:
+    clf    = get_finbert()
+    result = clf(text[:config.FINBERT_MAX_LENGTH * 4])  # rough char limit
+    # pipeline with top_k=None returns [[{label, score}, …]]
+    if isinstance(result[0], list):
+        return _scores_to_scalar(result[0])
+    return _scores_to_scalar(result)
+
+
+# ---------------------------------------------------------------------------
+# Config 3 runner
+# ---------------------------------------------------------------------------
+
+# Human-readable company names for the synthetic prompt
+COMPANY_NAMES = {
+    "JPM":      "JPMorgan Chase (JPM)",
+    "AVGO":     "Broadcom (AVGO)",
+    "HDFCBANK": "HDFC Bank (HDFCBANK)",
+    "Toyota":   "Toyota Motor (7203.T)",
+    "Sony":     "Sony Group (6758.T)",
+}
+
+def run_config3(window: dict) -> dict[str, float]:
+    """
+    For each ticker feed a minimal synthetic sentence to FinBERT.
+    No news articles used.
+
+    Parameters
+    ----------
+    window : dict with keys 'label', 'start', 'end'
+
+    Returns
+    -------
+    dict  {ticker_display: score}
+    """
+    print(f"\n[Config 3] Window: {window['label']}")
+    results = {}
+
+    for ticker_display in config.TICKER_ORDER:
+        company = COMPANY_NAMES.get(ticker_display, ticker_display)
+        # Minimal prompt — just the name. No date or market context.
+        prompt = f"Financial sentiment for {company} stock."
+        score  = score_text(prompt)
+        results[ticker_display] = round(score, 4)
+        print(f"  {ticker_display:<12} score={score:+.4f}")
+
+    return results
+
+
+# ---------------------------------------------------------------------------
+# Standalone entry point
+# ---------------------------------------------------------------------------
+
+if __name__ == "__main__":
+    for window in config.DATE_WINDOWS:
+        scores = run_config3(window)
+        print(f"\nConfig 3 results — {window['label']}:")
+        for t, s in scores.items():
+            print(f"  {t:<12} {s:+.4f}")

@@ -6,7 +6,7 @@ import requests
 import pandas as pd
 
 API_TOKEN = "demo"
-ticker = "AAPL.US"
+ticker = "RELIANCE.NS"
 
 params = {
     "s": ticker,
