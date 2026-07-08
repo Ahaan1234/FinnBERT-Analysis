@@ -27,21 +27,48 @@ from transformers import AutoModelForSequenceClassification, AutoTokenizer
 # CONFIGURATION
 # =============================================================================
 
-TICKER = "AAPL"
-COMPANY_NAME = "Apple"
-RECENCY_HALF_LIFE_DAYS = 7
-
-# Aliases recognised as referring to the same company/ticker
-TICKER_ALIASES: dict[str, set[str]] = {
-    "AAPL": {"AAPL", "APC"},
+# Every ticker this script knows how to scan. Add a new entry here (company
+# name, ticker aliases across exchanges, and one data file per week) and then
+# point ACTIVE_TICKER/ACTIVE_WEEK at it to run the pipeline on that week only.
+# 10Apr was a terrible week for the basket and 23Jun was a great one - grading
+# them separately means one week's news can't wash out the other's signal.
+TICKER_CONFIGS: dict[str, dict] = {
+    # "AAPL": {
+    #     "company_name": "Apple",
+    #     "aliases": {"AAPL", "APC"},
+    #     "data_paths": {"all": "ahaan-code/results/AAPL_US_data.csv"},
+    # },
+    "AVGO": {
+        "company_name": "Broadcom",
+        "aliases": {"AVGO"},
+        "data_paths": {
+            "10Apr": "ahaan-code/results/saved_news/AVGO_US_data_10Apr.csv",
+            "23Jun": "ahaan-code/results/saved_news/AVGO_US_data_23Jun.csv",
+        },
+    },
+    "JPM": {
+        "company_name": "JPMorgan Chase",
+        "aliases": {"JPM"},
+        "data_paths": {
+            "10Apr": "ahaan-code/results/saved_news/JPM_US_data_10Apr.csv",
+            "23Jun": "ahaan-code/results/saved_news/JPM_US_data_23Jun.csv",
+        },
+    },
 }
+
+ACTIVE_TICKER = "AVGO"    # change this to "AAPL" / "AVGO" / "JPM" to switch which ticker gets scanned
+ACTIVE_WEEK   = "23Jun"  # change this to one of the week keys in that ticker's data_paths
+
+TICKER = ACTIVE_TICKER
+COMPANY_NAME = TICKER_CONFIGS[ACTIVE_TICKER]["company_name"]
+RECENCY_HALF_LIFE_DAYS = 7
 
 # Weights must sum to 1.0
 RELEVANCE_WEIGHTS: dict[str, float] = {
     "symbol_crowding":   0.25,
     "title_mention":     0.05,
-    "content_density":   0.25,
-    "cosine_similarity": 0.35,
+    "content_density":   0.35,
+    "cosine_similarity": 0.25,
     "recency":           0.10,
 }
 
@@ -57,8 +84,8 @@ SBERT_BATCH_SIZE     = 64          # tune upward on a GPU with plenty of VRAM
 SBERT_MAX_CHARACTERS = 10_000      # truncate article text before encoding
 
 # I/O paths
-NEWS_DATA_PATH = "ahaan-code/results/AAPL_US_data.csv"
-OUTPUT_PATH    = "ahaan-code/results/AAPL_US_data_finbert.csv"
+NEWS_DATA_PATH = TICKER_CONFIGS[ACTIVE_TICKER]["data_paths"][ACTIVE_WEEK]
+OUTPUT_PATH    = f"ahaan-code/results/{TICKER}_US_data_finbert_{ACTIVE_WEEK}.csv"
 
 # Model identifiers
 FINBERT_MODEL_ID = "ProsusAI/finbert"
@@ -78,7 +105,7 @@ print(f"[device] Using: {DEVICE}")
 print("[models] Loading FinBERT …")
 sentiment_tokenizer = AutoTokenizer.from_pretrained(FINBERT_MODEL_ID)
 sentiment_model     = AutoModelForSequenceClassification.from_pretrained(FINBERT_MODEL_ID)
-sentiment_model.to(DEVICE).eval()
+# sentiment_model.to(DEVICE).eval()
 SENTIMENT_LABELS = ["positive", "negative", "neutral"]
 
 print("[models] Loading SentenceTransformer …")
@@ -222,7 +249,7 @@ mention_regex = re.compile(
     rf"\b({re.escape(TICKER)}|{re.escape(COMPANY_NAME)})\b",
     re.IGNORECASE,
 )
-aliases_for_ticker = TICKER_ALIASES.get(TICKER, {TICKER})
+aliases_for_ticker = TICKER_CONFIGS[ACTIVE_TICKER]["aliases"]
 
 # =============================================================================
 # PASS 1 – PER-ARTICLE SIGNALS THAT DO NOT REQUIRE NORMALISATION
@@ -367,4 +394,4 @@ print(articles_df[[
     "finbert_sentiment", "sentiment_score",
     "normalized_cosine_score", "relevance_score",
 ]])
-print(f"\nRelevance-weighted overall sentiment for {TICKER}: {rw_sentiment:.4f}")
+print(f"\nRelevance-weighted overall sentiment for {TICKER} ({ACTIVE_WEEK}): {rw_sentiment:.4f}")
