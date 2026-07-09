@@ -31,30 +31,87 @@ MARKETAUX_API_KEY = os.getenv("MARKETAUX_API_KEY", "4C7VKkspGngWXPTGHliB56C3Ekhj
 # TICKER UNIVERSE
 # ---------------------------------------------------------------------------
 # Maps display name → (ticker_symbol, region, data_source)
+# Maps display name → (ticker_symbol, region, data_source)
 TICKERS = {
-    "JPM":         ("JPM",          "US",    "eodhd"),
-    "AVGO":        ("AVGO",         "US",    "eodhd"),
-    "HDFCBANK":    ("HDFCBANK.NS",  "India", "marketaux"),
-    "Toyota":      ("7203.T",       "Japan", "gdelt"),
-    "Sony":        ("6758.T",       "Japan", "gdelt"),
+    "SETBY":     ("SETBY",       "US",      "eodhd"),
+    "Alibaba":   ("9988.HK",     "HongKong","eodhd"),
+    "MU":        ("MU",          "US",      "eodhd"),
+    "TM":        ("TM",          "US",      "eodhd"),
+    "HMC":       ("HMC",         "US",      "eodhd"),
+    "NOVO-B":    ("NOVO-B.CO",   "Denmark", "eodhd"),
+    "SAP":       ("SAP.XETRA",   "Germany", "eodhd"),
+    "FDX":       ("FDX",         "US",      "eodhd"),
+    "Baidu":     ("9888.HK",     "HongKong","eodhd"),
+    "SONY":      ("SONY",        "US",      "eodhd"),
 }
 
 # Convenience list ordered for display tables
-TICKER_ORDER = ["JPM", "AVGO", "HDFCBANK", "Toyota", "Sony"]
+TICKER_ORDER = [
+    "SETBY",
+    "Alibaba",
+    "MU",
+    "TM",
+    "HMC",
+    "NOVO-B",
+    "SAP",
+    "FDX",
+    "Baidu",
+    "SONY",
+]
 
 # ---------------------------------------------------------------------------
 # DATE WINDOWS  — inclusive of both endpoints (00:00 → 23:59 UTC)
 # ---------------------------------------------------------------------------
 DATE_WINDOWS = [
     {
-        "label": "3–10 Apr 2026",
-        "start": "2026-04-03",
-        "end":   "2026-04-10",
+        "label": "17–26 Jun 2026",
+        "start": "2026-06-17",
+        "end":   "2026-06-26",
     },
     {
-        "label": "17–23 Jun 2026",
+        "label": "6–15 May 2026",
+        "start": "2026-05-06",
+        "end":   "2026-05-15",
+    },
+    {
+        "label": "17–26 Jun 2026",
         "start": "2026-06-17",
+        "end":   "2026-06-26",
+    },
+    {
+        "label": "1–8 May 2026",
+        "start": "2026-05-01",
+        "end":   "2026-05-08",
+    },
+    {
+        "label": "6–13 May 2026",
+        "start": "2026-05-06",
+        "end":   "2026-05-13",
+    },
+    {
+        "label": "15–22 Jun 2026",
+        "start": "2026-06-15",
+        "end":   "2026-06-22",
+    },
+    {
+        "label": "17–24 Apr 2026",
+        "start": "2026-04-17",
+        "end":   "2026-04-24",
+    },
+    {
+        "label": "16–23 Jun 2026",
+        "start": "2026-06-16",
         "end":   "2026-06-23",
+    },
+    {
+        "label": "1–8 Jul 2026",
+        "start": "2026-07-01",
+        "end":   "2026-07-08",
+    },
+    {
+        "label": "6–13 May 2026",
+        "start": "2026-05-06",
+        "end":   "2026-05-13",
     },
 ]
 

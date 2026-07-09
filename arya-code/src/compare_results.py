@@ -33,6 +33,8 @@ import config
 from method3_finbert_no_data   import run_config3
 from method4_finbert_articles  import run_config4
 from method5_finbert_filtered  import run_config5
+from method6_semantic import run_config6
+c6 = run_config6(window)
 
 
 # ---------------------------------------------------------------------------
