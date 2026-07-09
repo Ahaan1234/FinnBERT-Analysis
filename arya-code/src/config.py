@@ -33,7 +33,7 @@ MARKETAUX_API_KEY = os.getenv("MARKETAUX_API_KEY", "4C7VKkspGngWXPTGHliB56C3Ekhj
 # Maps display name → (ticker_symbol, region, data_source)
 # Maps display name → (ticker_symbol, region, data_source)
 TICKERS = {
-    "SETBY":     ("SETBY",       "US",      "eodhd"),
+    "SFTBY":     ("SFTBY",       "US",      "eodhd"),
     "Alibaba":   ("9988.HK",     "HongKong","eodhd"),
     "MU":        ("MU",          "US",      "eodhd"),
     "TM":        ("TM",          "US",      "eodhd"),
@@ -47,7 +47,7 @@ TICKERS = {
 
 # Convenience list ordered for display tables
 TICKER_ORDER = [
-    "SETBY",
+    "SFTBY",
     "Alibaba",
     "MU",
     "TM",
