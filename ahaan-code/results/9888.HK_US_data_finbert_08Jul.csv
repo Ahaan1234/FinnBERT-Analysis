@@ -1,0 +1,67 @@
+date,title,content,link,symbols,tags,sentiment.polarity,sentiment.neg,sentiment.neu,sentiment.pos,finbert_sentiment,finbert_positive,finbert_negative,finbert_neutral,sentiment_score,symbol_crowding_score,title_mention_score,content_density_score,cosine_similarity_score,normalized_cosine_score,recency_score,relevance_score
+2026-07-08T12:06:00+00:00,The AI Stock Rally Isn’t Over— It’s Just Moved to China,"Investors are pivoting to AI chatbot developers after a monthslong spell of dominance for memory-chip makers like Micron and SK Hynix.
+
+Continue Reading",https://finance.yahoo.com/m/91087fd9-8961-3fd3-b152-7ed7bfb2e4bf/the-ai-stock-rally-isn%E2%80%99t.html,"['2RR.F', '9618.HK', '9888.HK', '9988.HK', 'AHLA.F', 'B1C.F', 'B1CB.F', 'BABA.BA', 'BABA.US', 'BABA34.SA', 'BABAF.US', 'BABAN.MX', 'BAIDF.US', 'BIDU.US', 'BIDU34.SA', 'BIDUN.MX', 'CL.COMM', 'JD.US', 'MU.US']",[],0.511,0.0,0.823,0.177,neutral,0.10529538244009018,0.02685537375509739,0.8678492307662964,0.07844000868499279,0.0625,0.0,0.0,0.3149293,0.13947351,1.0,0.15049337819218636
+2026-07-04T04:33:56+00:00,China proposes broader e-commerce law covering platforms and digital businesses,"Investing.com -- China has proposed amendments to its E-Commerce Law that would expand its scope beyond online marketplaces and merchants, introducing broader oversight of the country's fast-growing digital economy, Bloomberg reported on Saturday.
+
+The draft amendments, released for public consultation by the State Administration for Market Regulation and the Ministry of Commerce, would revise platform governance rules and introduce additional regulatory measures alongside existing penalties such as fines and business suspension orders.
+
+The proposal also establishes a framework for businesses operating across multiple sectors, calling for more consistent supervision of online and offline commercial activities. It seeks to strengthen coordination among central and local government agencies responsible for enforcing e-commerce regulations.
+
+Chinese regulators said the revisions are intended to better define the rights and obligations of participants in the platform economy while addressing serious violations that have drawn significant public concern.
+
+The draft also includes provisions aimed at supporting Chinese companies expanding overseas, encouraging greater industry self-regulation and strengthening international cooperation on e-commerce standards.
+
+In addition, the proposed changes seek to align China's regulatory framework more closely with international practices while introducing countermeasures designed to protect the lawful rights and interests of Chinese businesses operating at home and abroad.
+
+The amendments remain open for public consultation before they can be finalized. China has tightened oversight of its internet sector in recent years, introducing a series of measures covering data security, antitrust practices, consumer protection and competition among major online platforms.
+
+Related articles
+
+China proposes broader e-commerce law covering platforms and digital businesses
+
+Citi pushes back Fed rate cuts to May after blowout January jobs report
+
+Goldman expects lower but still attractive stock market returns in 2026
+
+View Comments",https://finance.yahoo.com/economy/policy/articles/china-proposes-broader-e-commerce-043356529.html,"['013A.F', '013C.F', '2RR.F', '9618.HK', '9888.HK', '9988.HK', 'AHLA.F', 'B1C.F', 'B1CB.F', 'BABA.BA', 'BABA.US', 'BABA34.SA', 'BABAF.US', 'BABAN.MX', 'BAIDF.US', 'BIDU.US', 'BIDU34.SA', 'BIDUN.MX', 'JD.US', 'JD.VI', 'JDCMF.US', 'JDCO34.SA']","['CHINA', 'DIGITAL-ECONOMY', 'E-COMMERCE', 'REGULATION']",0.924,0.027,0.887,0.086,negative,0.22879408299922943,0.6907618641853333,0.08044404536485672,-0.4619677811861038,0.05555555555555555,0.0,0.0,0.26601025,0.0,0.6523524554652306,0.07912413443541194
+2026-07-03T23:01:06+00:00,"Is Baidu, Inc. (BIDU) A Good Stock To Buy Now?","Is BIDU a good stock to buy? We came across a bullish thesis on Baidu, Inc. on Baidu, Inc. on La Newsletter De Momentum's Substack by Momentum Financial. In this article, we will summarize the bulls' thesis on BIDU. Baidu, Inc.'s share was trading at $117.94 as of July 1st. BIDU's trailing and forward P/E were 78.19 and 25.91 respectively according to Yahoo Finance.Baidu’s (BIDU) New AI Tool Turns Images into Videos — Here’s What You Need to Know
+
+Gil C / Shutterstock.com
+
+Baidu, Inc. provides internet content, value-added telecommunication-based, internet map, and online audio and video services in the People's Republic of China. BIDU is positioned as a leading Chinese technology company with its Apollo Go robotaxi platform emerging as the largest autonomous mobility network, placing it at the forefront of the expanding robotaxi market. While Tesla has dominated investor imagination in autonomy, Baidu has already operationalized large-scale deployments across more than 20 cities, benefiting from China's policy tailwinds, including national strategic prioritization of autonomous driving.
+
+Read More: 15 AI Stocks That Are Quietly Making Investors Rich
+
+Read More: Undervalued AI Stock Poised For Massive Gains: 10000% Upside Potential
+
+The robotaxi market is projected to grow at a CAGR of roughly 75%, with TAM estimates ranging from $75 billion by 2032 to $168 billion by 2035, and Goldman Sachs forecasting around 705,000 robotaxis in operation by 2030. Baidu's cost advantage, estimated at $27,500–$35,000 per vehicle through its JMC partnership for the RT6 platform, further strengthens scalability. Even under conservative assumptions of 18% market share and 20% operating margins, Baidu could generate over $6 billion in operating profit, more than doubling its current $2.5–$3 billion baseline.
+
+Incremental robotaxi contribution alone of $430 million could re-rate earnings given its current valuation. Baidu's ecosystem advantage is reinforced by Baidu Maps, with over 600 million monthly users and more than 200 million points of interest, enabling integrated ride-hailing, advertising, and local commerce monetization.
+
+Combined with ERNIE's agentic AI capabilities for routing, logistics optimization, and contextual services, Baidu builds a vertically integrated autonomy and AI stack. Trading at 14–16x earnings and even lower on a net cash basis, Baidu offers asymmetric upside, where successful robotaxi scale and AI monetization could drive substantial re-rating, while downside is supported by cash-generative core search and AI businesses.
+
+Previously, we covered a bullish thesis on Baidu, Inc. (BIDU) by Alexandru Dragut in November 2024, which highlighted the company's AI Cloud expansion, ERNIE ecosystem, Apollo Go progress, and undervaluation. BIDU's stock price has appreciated by approximately 40.30% since our coverage. Momentum Financial shares a similar view but emphasizes on Apollo Go's robotaxi leadership and long-term earnings upside driven by autonomous mobility and AI monetization.
+
+Story Continues
+
+Baidu, Inc. is not on our list of the 40 Most Popular Stocks Among Hedge Funds. As per our database, 50 hedge fund portfolios held BIDU at the end of the first quarter which was 57 in the previous quarter. While we acknowledge the risk and potential of BIDU as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and doing so within a shorter time frame. If you are looking for an AI stock that is more promising than BIDU and that has 10,000% upside potential, check out our report about this cheapest AI stock.
+
+Disclosure: None.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/baidu-inc-bidu-good-stock-230106988.html,"['1TSLA.MI', '9888.HK', 'B1C.F', 'B1CB.F', 'BAIDF.US', 'BIDU.US', 'BIDU34.SA', 'BIDUN.MX', 'TL0.F', 'TL01.F', 'TSLA.MX', 'TSLA.US', 'TSLA34.SA']","['AI', 'AUTONOMOUS-DRIVING', 'EARNINGS', 'ROBOTAXI', 'TECHNOLOGY']",0.981,0.019,0.897,0.084,positive,0.9030188322067261,0.007739384192973375,0.08924177289009094,0.8952794480137527,0.125,1.0,1.0,0.54226184,0.7876231,0.6375915281445863,0.6919149296727883
+2026-07-02T10:49:00+00:00,Baidu Announces Record Date for Extraordinary General Meeting of Shareholders,"BEIJING, July 2, 2026 /PRNewswire/ -- Baidu, Inc. (""Baidu"" or the ""Company"") (Nasdaq: BIDU; HKEX: 9888 (HKD Counter) and 89888 (RMB Counter)), a leading AI company with strong Internet foundation, today announced that the record date for the purpose of determining the eligibility of the holders of its ordinary shares, par value US$0.000000625 per share (the ""Ordinary Shares""), to vote and attend its forthcoming extraordinary general meeting of shareholders (the ""General Meeting"") will be as of close of business on Friday, July 17, 2026, Beijing/Hong Kong time (the ""Ordinary Shares Record Date""). In order to be eligible to vote and attend the General Meeting, all valid documents for the transfers of shares accompanied by the relevant share certificates must be lodged with the Company's Hong Kong branch share registrar and transfer office, Computershare Hong Kong Investor Services Limited, Shops 1712–1716, 17th Floor, Hopewell Centre, 183 Queen's Road East, Hong Kong, not later than 4:30 p.m. on Friday, July 17, 2026, Beijing/Hong Kong time. All persons who are registered holders of the Ordinary Shares on the Ordinary Shares Record Date will be entitled to vote and attend the General Meeting.
+
+Holders of the Company's American depositary shares (the ""ADSs"") representing the Ordinary Shares may not attend or vote at the General Meeting. Holders of ADSs as of close of business on Friday, July 17, 2026, New York time (the ""ADSs Record Date""), will be able to instruct The Bank of New York Mellon, the holder of record of Ordinary Shares represented by ADSs, as to how to vote the Ordinary Shares represented by such ADSs. The Bank of New York Mellon, as depositary of the ADSs, will endeavor, to the extent practicable and legally permissible, to vote or cause to be voted at the General Meeting the amount of Ordinary Shares represented by the ADSs in accordance with the instructions that it has properly received from ADS holders. Please be aware that, because of the time difference between Hong Kong and New York, if a holder of ADSs cancels his or her ADSs in exchange for Ordinary Shares on Friday, July 17, 2026, New York time, such holder of ADSs will not be able to instruct The Bank of New York Mellon, as depositary of the ADSs, as to how to vote the Ordinary Shares represented by the cancelled ADSs as described above, and will also not be a holder of those Ordinary Shares as of the Ordinary Shares Record Date for the purpose of determining the eligibility to attend and vote at the General Meeting.
+
+Story Continues
+
+Details including the date and location of the General Meeting will be set out in the Company's notice of General Meeting to be issued and provided to holders of its Ordinary Shares as of the Ordinary Shares Record Date and holders of its ADSs as of the ADSs Record Date together with the proxy materials in due course.
+
+About Baidu
+
+Founded in 2000, Baidu's mission is to make the complicated world simpler through technology. Baidu is a leading AI company with strong Internet foundation, trading on Nasdaq under ""BIDU"" and HKEX under ""9888"". One Baidu ADS represents eight Class A ordinary shares.Cision
+
+View original content:https://www.prnewswire.com/news-releases/baidu-announces-record-date-for-extraordinary-general-meeting-of-shareholders-302816837.html
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/baidu-announces-record-date-extraordinary-104900552.html,"['9888.HK', 'B1C.F', 'B1CB.F', 'BAIDF.US', 'BIDU.US', 'BIDU34.SA', 'BIDUN.MX']",['GENERAL-MEETING'],0.992,0.01,0.885,0.104,neutral,0.01809818111360073,0.03325195610523224,0.9486498236656189,-0.015153774991631508,0.16666666666666666,1.0,0.5215356,0.6167511,1.0,0.5491294740825751,0.5791170654613759

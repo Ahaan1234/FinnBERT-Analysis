@@ -1,0 +1,812 @@
+date,title,content,link,symbols,tags,sentiment.polarity,sentiment.neg,sentiment.neu,sentiment.pos,finbert_sentiment,finbert_positive,finbert_negative,finbert_neutral,sentiment_score,symbol_crowding_score,title_mention_score,content_density_score,cosine_similarity_score,normalized_cosine_score,recency_score,relevance_score
+2026-06-26T12:46:55+00:00,SoftBank Plunges 13% As OpenAI IPO Delay Concerns Shake Investors,"This article first appeared on GuruFocus.
+
+SoftBank Group (SOBKY) shares fell 13% on Friday, marking their steepest drop since August 2024, as investors reacted to concerns that OpenAI could possibly delay its initial public offering until next year. The move hit a key part of SoftBank's recent investment story, with its planned exposure to the ChatGPT maker expected to reach roughly $65 billion by October. Expectations for a major OpenAI listing had helped push SoftBank shares to record highs and lifted its market value above Toyota Motor Corp.'s last month.
+
+Warning! GuruFocus has detected 5 Warning Signs with SOBKY. Is SOBKY fairly valued? Test your thesis with our free DCF calculator.
+
+OpenAI has recently submitted IPO paperwork with the US Securities and Exchange Commission and is working with Goldman Sachs and Morgan Stanley on a potential listing as soon as the fall, according to people familiar with the matter. But bankers advising OpenAI warned that volatility in tech stocks could weaken appetite for an offering, the New York Times reported. That possible delay has raised questions over when SoftBank investors may get a clearer public-market valuation for one of the company's most important private holdings.
+
+The issue matters because an OpenAI listing could give investors a more transparent price for a major piece of SoftBank's portfolio, which still includes hundreds of privately held startups. Resona Holdings strategist Hiroki Takei said a public listing could make SoftBank's broader holdings easier to value and potentially reduce the heavy conglomerate discount applied to its shares. With those expectations cooling, SoftBank became the worst performer on the Nikkei 225 on Friday, while the chip-heavy index dropped 4.2% as tech sentiment weakened across Asia.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/softbank-plunges-13-openai-ipo-124655001.html,"['7203.TSE', '9984.TSE', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F', 'SOBKY.US', 'TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US']","['EQUITY-MARKETS', 'INITIAL PUBLIC OFFERING', 'IPO', 'OPENAI', 'SOFTBANK', 'TECH']",0.352,0.075,0.831,0.094,negative,0.018014362081885338,0.9608232975006104,0.0211623664945364,-0.942808935418725,0.07142857142857142,0.0,0.15017793,0.4467693,0.8469792,1.0,0.3821642171059336
+2026-06-26T11:35:01+00:00,Tech Retreat Undercuts European Bourses Midday,"European bourses tracked lower midday Friday as traders again viewed tech shares cautiously, after m
+
+PREMIUM
+
+Upgrade to read this MT Newswires article and get so much more.
+
+A Silver or Gold subscription plan is required to access premium news articles.
+
+Upgrade
+
+Already have a subscription? Sign in",https://finance.yahoo.com/markets/world-indices/articles/tech-retreat-undercuts-european-bourses-113501384.html,"['0P6N.IL', '9984.TSE', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F', 'STOXX.INDX', 'VLKAF.US', 'VLKPF.US', 'VOW.DU', 'VOW.F', 'VOW.HA', 'VOW.HM', 'VOW.MU', 'VOW.PR', 'VOW.XETRA', 'VOW3.DU', 'VOW3.F', 'VOW3.HA', 'VOW3.HM', 'VOW3.MU', 'VOWA.F', 'VOWB.F', 'VWAGY.US', 'VWAPY.US']",[],0.0,0.046,0.907,0.046,negative,0.036738812923431396,0.8769456744194031,0.08631553500890732,-0.8402068614959717,0.06666666666666667,0.0,0.0,0.30582258,0.48377094,0.9950680274843761,0.2371162035969852
+2026-06-26T11:15:50+00:00,SoftBank stock falls on possible OpenAI IPO delay,"SoftBank Group stock fell more than 12% on Friday after The New York Times reported that OpenAI may push its initial public offering back to 2027.
+
+Bankers advising OpenAI reportedly cautioned that volatility in tech stocks could weaken demand for an offering. By October, SoftBank's total commitment to the ChatGPT maker is expected to hit approximately $65 billion. The prospect of a major payday from OpenAI going public had lifted the Japanese company's shares to all-time highs — enough to push its market capitalization past that of Toyota Motor Corp. last month.
+
+Investor enthusiasm for SoftBank may also be capped by concerns that OpenAI could struggle to secure demand at a $1 trillion valuation, according to CNBC. Friday's decline was SoftBank's largest intraday drop in more than three months.
+
+According to Hiroki Takei, a strategist at Resona Holdings, who spoke to Bloomberg, SoftBank's portfolio is unusually difficult to value because it encompasses hundreds of companies with no public market price. A listed OpenAI would serve as a benchmark for one of its largest positions, potentially narrowing the conglomerate discount that has long weighed on the stock, Takei said. ""News of an IPO delay naturally dampens those expectations,"" he said.
+
+Goldman Sachs Group and Morgan Stanley are advising OpenAI on a possible public offering that could come as early as this fall, noting that the company has already filed confidential listing documents with U.S. securities regulators.
+
+SoftBank's exposure to OpenAI sits at the center of a complex financial picture the company has been navigating for months. An effort by SoftBank to raise at least $6 billion through a margin loan collateralized by its OpenAI holdings stalled earlier this month, with lenders citing difficulty pricing a stake in a private company with no public market valuation. SoftBank also carries a $40 billion bridge loan it took on to fund its OpenAI commitments, with repayment due in March 2027.
+
+The Vision Fund arm of SoftBank recorded roughly $46 billion in investment gains over the 12 months through March 31, driven almost entirely by a rising valuation on its OpenAI holdings. The fair value of SoftBank's total OpenAI investment reached $79.6 billion at year-end, against a cumulative investment cost of $34.6 billion.
+
+Friday's selloff in SoftBank stock unfolded alongside a broader retreat in Asian and European technology shares, as investors also weighed the impact of rising AI infrastructure costs following Apple's announcement of price increases on some MacBook and iPad products.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/softbank-stock-falls-openai-ipo-111550785.html,"['7203.TSE', '9984.TSE', 'SFTBY.US']","['FINANCIALS', 'INITIAL PUBLIC OFFERING', 'IPO', 'TECH']",0.809,0.056,0.866,0.078,negative,0.0209182221442461,0.9657015204429626,0.013380280695855618,-0.9447832982987165,0.25,0.0,0.103178486,0.43355617,0.81293005,0.9937562645370356,0.4012206085115134
+2026-06-26T11:14:58+00:00,SoftBank Plunges on OpenAI IPO Delay,"This article first appeared on GuruFocus.
+
+SoftBank (SFTBY) shares plunged as much as 13% Friday after reports said OpenAI may delay its highly anticipated IPO until 2027.
+
+The potential delay matters because SoftBank has become one of OpenAI's biggest financial backers and is building what is expected to be roughly a 13% stake. The New York Times reported that OpenAI had considered going public as early as the second half of 2026, with CEO Sam Altman reportedly pushing advisers toward a $1 trillion valuation target.
+
+Warning! GuruFocus has detected 8 Warning Signs with SFTBY. Is SFTBY fairly valued? Test your thesis with our free DCF calculator.
+
+SoftBank shares fell 12.74% in Tokyo to 6,211 yen, wiping out an earlier weekly gain tied to chip-sector optimism. The selloff was also pressured by weakness in Arm and growing concern over the huge capital needed to fund AI infrastructure.
+
+OpenAI was last privately valued at about $730 billion, but advisers reportedly worry that volatile markets and AI valuation fatigue could reduce investor appetite. Rather than lowering expectations to rush a listing, OpenAI may wait until 2027.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/softbank-plunges-openai-ipo-delay-111458225.html,"['9984.TSE', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F']","['AI', 'CHIP-SECTOR', 'IPO', 'TECH']",-0.533,0.096,0.814,0.089,negative,0.01348167285323143,0.959997296333313,0.02652100659906864,-0.9465156234800816,0.16666666666666666,0.0,0.6843243,0.5061506,1.0,0.9936970424155891,0.6305498843540798
+2026-06-26T11:04:45+00:00,"Tech Caution Prevails on Wall Street Pre-Bell; Asia, Europe Down","Wall Street futures pointed moderately lower pre-bell Friday as traders again toggled risk off on ri
+
+PREMIUM
+
+Upgrade to read this MT Newswires article and get so much more.
+
+A Silver or Gold subscription plan is required to access premium news articles.
+
+Upgrade
+
+Already have a subscription? Sign in",https://finance.yahoo.com/markets/stocks/articles/tech-caution-prevails-wall-street-110445333.html,"['9984.TSE', 'AAPL.US', 'DJI.INDX', 'GSPC.INDX', 'IXIC.INDX', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F']",[],-0.511,0.087,0.913,0.0,neutral,0.17484202980995178,0.2603450417518616,0.564812958240509,-0.08550301194190979,0.1,0.0,0.0,0.25306857,0.34782812,0.9929991706894408,0.21125694706724654
+2026-06-26T11:04:00+00:00,OpenAI IPO Fears Hit Oracle and Other Stocks Exposed to the ChatGPT Maker,"The ChatGPT developer is inclined to delay its initial public offering until 2027, according to a report.
+
+Continue Reading",https://finance.yahoo.com/m/926189e9-e8ed-3e1c-a8d9-ef0957803cdb/openai-ipo-fears-hit-oracle.html,"['3AG0.F', '3AG1.F', '9434.TSE', '94345.TSE', '9984.TSE', 'CRWV.US', 'ORC.DU', 'ORC.F', 'ORC.HM', 'ORC.MU', 'ORCL.MX', 'ORCL.US', 'ORCL34.SA', 'SFBQF.US', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F', 'SOBKY.US']","['INITIAL PUBLIC OFFERING', 'IPO']",-0.318,0.119,0.881,0.0,neutral,0.018077248707413673,0.2546604871749878,0.7272622585296631,-0.23658323846757412,0.07142857142857142,0.0,0.0,0.23224926,0.29417843,0.9929479596160105,0.19069654538517306
+2026-06-26T10:37:10+00:00,Tech Caution Overcomes Asian Stock Markets,"Asian stock markets fell back Friday on tech-sector gloom, after media reports that prominent US-bas
+
+PREMIUM
+
+Upgrade to read this MT Newswires article and get so much more.
+
+A Silver or Gold subscription plan is required to access premium news articles.
+
+Upgrade
+
+Already have a subscription? Sign in",https://finance.yahoo.com/markets/world-indices/articles/tech-caution-overcomes-asian-stock-103710804.html,"['9984.TSE', 'AAPL.US', 'HSI.INDX', 'KS11.INDX', 'N225.INDX', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F']",[],-0.318,0.072,0.882,0.046,negative,0.05371904745697975,0.6237881183624268,0.322492778301239,-0.570069070905447,0.1,0.0,0.0,0.41177845,0.7568106,0.9911174777643438,0.313314399157927
+2026-06-26T06:39:59+00:00,SoftBank shares plunge 13% as OpenAI reportedly weighs IPO delay to 2027,"[SoftBank Flagship Store in Japan]
+winhorse/iStock Unreleased via Getty Images
+
+SoftBank Group’s (SFTBY [https://seekingalpha.com/symbol/SFTBY]) shares tumbled as much as 13% on Friday following reports from _The New York Times_ that artificial intelligence pioneer OpenAI (OPENAI [https://seekingalpha.com/symbol/OPENAI]) is considering pushing its highly anticipated public debut into next year [https://seekingalpha.com/news/4607600-openai-considers-pausing-ipo-pursuit-until-2027-report].
+
+The potential postponement threatens to delay a massive liquidity event for the company's major financial backers. SoftBank is one of OpenAI’s largest backers through its participation in the company’s funding rounds and AI infrastructure initiatives.
+
+In Tokyo trading, SoftBank shares slumped 12.74% to 6,211.0 yen, erasing an 8% gain from earlier in the week driven by positive chip sector news. The sharp reversal was fueled by an overnight drop in SoftBank's US-listed subsidiary, Arm Holdings, alongside growing investor worry over the massive spending required for global AI infrastructure.
+
+According to sources cited by the _NYT [https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html]_, OpenAI had previously explored launching its public debut as early as the second half of 2026. Chief Executive Sam Altman has reportedly pushed advisers to target a milestone $1 trillion valuation—a massive leap from the company's last private valuation of $730 billion.
+
+The news has introduced a wave of anxiety for SoftBank investors. The Tokyo-listed tech conglomerate has been aggressively building up what is slated to be an approximate 13% stake in OpenAI, valued at roughly $64.6 billion by October.
+
+However, with advisers warning that volatile equity markets and AI valuation fatigue could dampen investor appetite, executives are pivoting. Rather than slashing expectations to fast-track the listing, OpenAI is now leaning toward waiting until 2027 to achieve its $1 trillion goal.
+
+MORE ON SOFTBANK GROUP CORP.
+
+ 	* SoftBank Group Corp. (SFTB:CA) Shareholder/Analyst Call - Slideshow [https://seekingalpha.com/article/4917404-softbank-group-corp-sftb-ca-shareholder-analyst-call-slideshow]
+ 	* SoftBank Group Corp. (SFTB:CA) Shareholder/Analyst Call Transcript [https://seekingalpha.com/article/4917197-softbank-group-corp-sftb-ca-shareholder-analyst-call-transcript]
+ 	* SoftBank: Get In Before The OpenAI IPO [https://seekingalpha.com/article/4914568-softbank-get-in-before-the-openai-ipo]
+ 	* SoftBank-backed Carro eyes U.S. IPO as soon as this month - report [https://seekingalpha.com/news/4605902-softbank-backed-carro-eyes-us-ipo-as-soon-as-this-month---report]
+ 	* SoftBank dips 11% on Tokyo exchange over high-risk AI bets [https://seekingalpha.com/news/4600524-softbank-dips-11-on-tokyo-exchange-over-high-risk-ai-bets]
+
+ ",https://seekingalpha.com/news/4607637-softbank-shares-plunge-13-as-openai-reportedly-weighs-ipo-delay-to-2027?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news,"['OPENAI.US', 'SFTB:CA.US', 'SFTBF.US', 'SFTBY.US']","['ARTIFICIAL-INTELLIGENCE', 'IPO', 'IPO NEWS', 'ON THE MOVE', 'SHAREHOLDER', 'TECH']",0.273,0.06,0.879,0.061,negative,0.016078729182481766,0.9672207832336426,0.016700539737939835,-0.9511420540511608,0.2,0.0,0.78148144,0.4604048,0.8821168,0.9750836426304373,0.6415560686020712
+2026-06-26T04:56:43+00:00,Samsung reportedly eyes $648B AI and chip expansion,"[Artificial intelligence microchip on a circuit board.]
+amgun
+
+Samsung Group ‌(SSNLF [https://seekingalpha.com/symbol/SSNLF]) will unveil a sweeping decade-long investment plan on Monday, pledging 1,000T won ($648B) to anchor South Korea's next growth cycle, including a possible 300T won push to build chip factories in the country's southwest, a media report said.
+
+The investment, which would include AI data centers, batteries and displays, will be announced ​at a meeting with President Lee Jae Myung at the presidential office, the_ Maeil Business Newspaper_ said on Friday.
+
+Top executives from heavyweights including Samsung Electronics (SSNLF [https://seekingalpha.com/symbol/SSNLF]) and its rival SK Hynix (SKHY [https://seekingalpha.com/symbol/SKHY]) will attend the meeting and ⁠lay out investment plans targeting regions beyond Seoul and its surrounding hubs, the report said.
+
+However, the company's shares tanked 8% on Friday as tech selloff spilled into Asia’s semiconductor sector, with South Korea’s SK Hynix down 9.5%, Japan’s Advantest (ATEYY [https://seekingalpha.com/symbol/ATEYY]) declining over 6%, and Tokyo Electron (TOELY [https://seekingalpha.com/symbol/TOELY]) similarly down more than 2%. SoftBank (SFTBY [https://seekingalpha.com/symbol/SFTBY]) plunged 12%.
+
+MORE ON SAMSUNG ELECTRONICS
+
+ 	* Wall Street Lunch: AI Chip Stocks Sink As Investors Take Profits, Analysts Stay Bullish [https://seekingalpha.com/article/4917037-wall-street-lunch-ai-chip-stocks-sink-as-investors-take-profits-analysts-stay-bullish]
+ 	* Samsung: Strike Relief Is Good For Revenue, But It Removes A Margin Catalyst [https://seekingalpha.com/article/4907147-samsung-strike-relief-is-good-for-revenue-but-it-removes-a-margin-catalyst]
+ 	* Samsung Electronics Co., Ltd. (SSNLF) Q1 2026 Earnings Call Transcript [https://seekingalpha.com/article/4896286-samsung-electronics-co-ltd-ssnlf-q1-2026-earnings-call-transcript]
+ 	* South Korea in talks with Samsung, SK Hynix over new chip investments: report [https://seekingalpha.com/news/4606491-south-korea-in-talks-with-samsung-sk-hynix-over-new-chip-investments]
+ 	* Samsung Electronics to pursue $59B share buyback - report [https://seekingalpha.com/news/4606459-samsung-electronics-to-pursue-59b-share-buyback---report]
+
+ ",https://seekingalpha.com/news/4607631-samsung-reportedly-eyes-648b-ai-and-chip-expansion?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news,"['ATEYY.US', 'HXSCL.US', 'SFTBY.US', 'SKHY.US', 'SSNLF.US', 'TOELY.US']","['SEMICONDUCTORS', 'SOUTH-KOREA', 'TECH']",0.977,0.006,0.878,0.116,negative,0.01408099289983511,0.969008207321167,0.01691073179244995,-0.9549272144213319,0.14285714285714285,0.0,0.3561181,0.25170064,0.34430307,0.9681840112488141,0.34324979419476176
+2026-06-26T04:36:16+00:00,Apple Price Hikes Spark Asia Tech Selloff on Memory Cost Concern,"(Bloomberg) -- Asian technology stocks slumped after Apple raised prices for its products, stoking concern that rising component prices will curb demand for devices and eventually slow the memory chip rally that has powered much of the AI trade.
+
+Most Read from Bloomberg
+
+Apple Shares Sink After Price Hikes Hit iPads and Macs Investor Who Scored 900% Win in 2008 Crisis Has New Big Short Bet Ship Struck in Hormuz as Oil Supertankers Turn Back Again Stocks Whipsaw as Micron Surges While Apple Sinks: Markets Wrap Grand Ole Opry House Up For Sale by Owner Ryman Hospitality
+
+South Korean memory chip giants SK Hynix Inc. and Samsung Electronics Co. both slid more than 8%. Their Japan-based peer Kioxia Holdings Corp. sank as much as 12%. That led to a 6.4% drop in the MSCI Asia Pacific Infotech gauge. Futures on the Nasdaq 100 Index declined 1.5%.
+
+Investors are reassessing whether soaring memory prices, driven by relentless AI demand, may begin to choke off spending by raising costs for electronics makers and consumers alike. Apple's price hikes offered one of the clearest signs yet that the industry's pricing power may come at the expense of future demand, prompting a broad recalibration across AI-linked semiconductor stocks.
+
+""Markets are no longer treating memory strength as an automatic positive for the whole AI trade,"" said Charu Chanana, chief investment strategist at Saxo Markets in Singapore. ""It validates AI infrastructure demand, but it also raises the cost of building and consuming AI.""
+
+""The risk is that a stronger memory cycle today starts to slow the broader AI trade tomorrow. And the market is starting to price that,"" she said.
+
+Apple on Thursday raised prices of all Macs, iPads, home devices and the Vision Pro, seeking to offset cost hikes caused by a shortage of memory chips and storage. The company's shares fell 6.1%, their biggest drop since April 2025. Among Apple's Asian suppliers, Taiwan's MediaTek Inc. fell as much as 10%, while Hon Hai Precision Industry Co. dropped 3.7%.
+
+Microsoft Corp. on Thursday announced a third price increase for its Xbox video-game consoles in another example of the component shortage crisis that has driven up the cost of consumer tech products.
+
+Sentiment toward Asian tech shares was also hurt by news that OpenAI may hold off on an initial public offering until next year. SoftBank Group Corp.'s stock fell as much as 14% in Tokyo, on concern the company which is a prominent backer of OpenAI, may face delayed returns.
+
+""OpenAI's potential IPO delay reflects the impact of recent tech stock volatility on retail enthusiasm,"" said Fabien Yip, market analyst at IG International. ""This creates a reality check on AI valuations, directly hitting SoftBank and overspilling to the broader tech sector.""
+
+Story Continues
+
+Most Read from Bloomberg Businessweek
+
+A Veteran Apple Designer Reimagines the Golf Cart A Credit Loophole So Big You Can Drive an SUV Through It Canada's Lobster Capital Is Trying to Become an Oil and Gas Giant Too How Pokémon Cards Became Scarce, Valuable and Surprisingly Dangerous The Money and Influence Behind America's Very MAGA 250th Birthday Party
+
+©2026 Bloomberg L.P.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/apple-price-hikes-spark-asia-043616853.html,"['000660.KS', '005930.KS', '005935.KS', '2317.TW', '2454.TW', '285A.TSE', '9984.TSE', 'AAPL.US', 'HHP2.F', 'HNHPF.US', 'HY9H.F', 'MSFT.US', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F', 'SMSNN.MX', 'SSNLF.US', 'SSU.F', 'SSUN.F']","['INITIAL PUBLIC OFFERING', 'IPO', 'MEMORY-CHIPS', 'PRICE-TARGET', 'SEMICONDUCTORS', 'TECH']",0.572,0.078,0.839,0.083,negative,0.01758767105638981,0.9647451043128967,0.017667192965745926,-0.9471574332565069,0.047619047619047616,0.0,0.08099808,0.31218702,0.50017154,0.9668234727884798,0.2619793220215444
+2026-06-26T01:13:25+00:00,SoftBank’s Shares Tumble After Report of OpenAI’s IPO Delay,"(Bloomberg) -- SoftBank Group Corp.'s stock fell by 12% on concerns that OpenAI may hold off on an initial public offering until next year and delay returns for its Japanese backer.
+
+Most Read from Bloomberg
+
+Investor Who Scored 900% Win in 2008 Crisis Has New Big Short Bet Apple Shares Sink After Price Hikes Hit iPads and Macs Stocks Whipsaw as Micron Surges While Apple Sinks: Markets Wrap Ship Struck in Hormuz as Oil Supertankers Turn Back Again Grand Ole Opry House Up For Sale by Owner Ryman Hospitality
+
+SoftBank's investment in the ChatGPT maker is slated to stand at roughly $65 billion by October. Expectations of a big financial windfall from OpenAI's public debut had buoyed SoftBank shares to record highs, helping the company's market capitalization soar above Toyota Motor Corp.'s last month.
+
+But bankers advising OpenAI cautioned that the volatility in tech stocks could dent enthusiasm for an offering, the New York Times reported. That sent shares of SoftBank into their biggest intraday decline in more than three months Friday morning in Tokyo.
+
+A public listing of OpenAI's shares would provide a transparent market valuation for a big chunk of SoftBank's holdings, which includes hundreds of privately held startups, according to Hiroki Takei, a strategist at Resona Holdings.
+
+If OpenAI were to go public, that would make it easier for investors to value SoftBank's overall portfolio, and the transparency could reduce the heavy conglomerate discount, or risk premium, applied to SoftBank shares.
+
+""News of an IPO delay naturally dampens those expectations,"" he said.
+
+The Sam Altman-led firm recently submitted paperwork for an IPO with the US Securities and Exchange Commission. OpenAI is working with Goldman Sachs Group Inc. and Morgan Stanley on a potential listing as soon as the fall, people familiar with the matter have said.
+
+Most Read from Bloomberg Businessweek
+
+A Veteran Apple Designer Reimagines the Golf Cart A Credit Loophole So Big You Can Drive an SUV Through It Canada's Lobster Capital Is Trying to Become an Oil and Gas Giant Too How Pokémon Cards Became Scarce, Valuable and Surprisingly Dangerous The Money and Influence Behind America's Very MAGA 250th Birthday Party
+
+©2026 Bloomberg L.P.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/softbank-shares-tumble-report-openai-011325236.html,"['7203.TSE', '9984.TSE', 'AAPL.US', 'DWD.DU', 'DWD.F', 'DWD.HM', 'DWD.MU', 'GOS.DU', 'GOS.F', 'GOS.HM', 'GOS.MU', 'GOS0.F', 'GS-PA.US', 'GS-PC.US', 'GS-PD.US', 'GS.MX', 'GS.US', 'GSGI34.SA', 'MS-PA.US', 'MS-PE.US', 'MS-PF.US', 'MS-PI.US', 'MS-PK.US', 'MS-PQ.US', 'MS.MX', 'MS.US', 'MSBR34.SA', 'NYT.DU', 'NYT.F', 'NYT.MU', 'NYT.US', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F', 'TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US']","['INITIAL PUBLIC OFFERING', 'INVESTMENT-STRATEGY', 'IPO', 'TECH']",0.969,0.041,0.851,0.108,negative,0.06438428908586502,0.8763555884361267,0.05926010012626648,-0.8119712993502617,0.03333333333333333,0.0,0.116574585,0.48783118,0.95279235,0.9534309719378314,0.3826756220497147
+2026-06-25T18:39:00+00:00,Japan Is an Investing Giant for Mom and Pop. It Just Needs to Convince Them.,"A shift in Japan’s large pool of household financial assets could reshape capital markets, one analyst says.
+
+Continue Reading",https://finance.yahoo.com/m/6996112e-9c1e-3fb8-809d-04196f320e3a/japan-is-an-investing-giant.html,"['5401.TSE', '8035.TSE', '9984.TSE', 'N225.INDX', 'NISTF.US', 'NPS.F', 'NPS.MU', 'NPSA.F', 'NPSCY.US', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F', 'TKY.F', 'TKY.MU', 'TKY0.F', 'TM.US', 'TMCO34.SA', 'TMN.MX', 'TOELF.US', 'TOELY.US', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US']",[],0.178,0.0,0.909,0.091,neutral,0.15335974097251892,0.41451218724250793,0.43212810158729553,-0.261152446269989,0.045454545454545456,0.0,0.0,0.28757465,0.4367475,0.9279196297936558,0.21334247218292962
+2026-06-25T17:42:12+00:00,Why Nancy Pelosi Is Betting on Intel Stock,"An Intel sign out front of a corporate office by wolterke via Adobe Stock
+
+Intel (INTC) is once again back in the Wall Street headlines. This happened when Nancy Pelosi's latest filing showed 200 Intel call options with a $50 strike price and a March 19, 2027, expiration date, valued between $1.5 million and $6 million. That is the kind of move that makes traders lean in. But Intel is still a real business story, not a political trading story.
+
+The company makes server chips, client chips, and foundry services, and the stock still lives or dies on execution. The key question is simple. Has Intel improved enough to deserve fresh money, or has the rally already done the work for you?
+
+More News from Barchart
+
+Mark Cuban Says There Are Some 'Greedy Blood-Sucking Business People That Will Do Anything for a Dollar' But 'Eat the Rich' Only Helps Politicians Stocks Rally Before the Open on Upbeat Micron Earnings, U.S. PCE Inflation Data in Focus Stocks Settle Mixed on Apple Weakness and Chipmaker Strength Stop Missing Market Moves: Get the FREE Barchart Brief – your midday dose of stock movers, trending sectors, and actionable trade ideas, delivered right to your inbox. Sign Up Now!
+
+Intel Stock Has Already Run Far
+
+Intel has been one of the hottest names in chips this year. Barchart says the stock is up 253% year-to-date (YTD) and more than 485% over the past 12 months. That kind of move did not come from one filing. It came from a long list of catalysts. AI demand helped. So did the U.S. government stake, SoftBank's (SFTBY) backing, Nvidia's (NVDA) support, and the market's growing belief that Intel can still matter in CPUs and manufacturing. More recently, the Apple (AAPL) chatter and BofA's ""Buy"" upgrade with a $135 target kept the momentum alive.
+
+This is where the story gets tricky. INTC stock trades at about 6 times forward sales, which looks cheaper than Lam Research (LRCX) at 11.8 times and Applied Materials (AMAT) at 9.1 times. But on earnings, Intel is still rich. One recent comparison put Intel's forward P/E at over 95, far above healthy chip peers. That tells you the stock is not a clean bargain. It is a turnaround bet. Investors are paying for a future that has not fully shown up in profits yet.www.barchart.com
+
+Pelosi Matters Less Than the Price Action
+
+Pelosi's disclosure is interesting, but the market already had bigger things to chew on. INTC stock jumped 10.6% on June 18 after Trump said Apple had agreed to work with Intel on U.S. chip design and manufacturing. Before that, BofA's upgrade pushed the stock higher too.
+
+That is the real message here. Intel is trading on turnaround headlines, not on one politician's trade. If the Apple link becomes real, it could help Intel's foundry pitch. If it stays a rumor, the stock still needs the business to keep improving on its own.
+
+Story Continues
+
+The Latest Quarter Still Shows Real Progress
+
+Intel's first quarter of 2026 was much better than many expected. Revenue came in at $13.58 billion, up 7% year-over-year (YoY). The Data Center and AI unit brought in $5.1 billion, and foundry revenue was $5.4 billion. Adjusted EPS was 29 cents, up 123% from a year earlier.
+
+On the other side of the ledger, Intel still posted a net loss of $3.7 billion, wider than the $800 million loss a year ago, mainly because of restructuring and impairment charges. Cash from operations was $1.1 billion. CEO Lip-Bu Tan said the company is seeing demand from customers and called it real, not wishful thinking. Intel guided second-quarter revenue to $13.8 billion to $14.8 billion and adjusted EPS to 20 cents, both above Wall Street's view.
+
+Analysts Still End on a Cautious Note
+
+Wall Street is more mixed than the stock chart suggests. BofA is the boldest bull right now, with a ""Buy"" rating and a $135 target. Morgan Stanley raised its target to $56 but kept ""Equal Weight,"" saying stronger server demand helps, yet the roadmap still needs work. J.P. Morgan sits much lower at $35 with an ""Underweight"" call. Deutsche Bank lifted its target to $45, while RBC stayed more cautious.
+
+The analyst consensus from the 45 analysts tracked by Barchart is currently at a very tepid ""Moderate Buy,"" with a lot of ""Holds"" (31). And the average target sits around $95 below the current price of about $131, which suggests 27% downside risk. So we can say that it is not a crowd running after the stock. That is a crowd still waiting for Intel to prove it.www.barchart.com
+
+On the date of publication, Nauman Khan did not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. This article was originally published on Barchart.com
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/intel-stock-surged-more-250-174212506.html,"['AAPL.US', 'AMAT.US', 'INTC.US', 'LRCX.US', 'NVDA.US', 'SFTBY.US']","['ANALYST-RATINGS', 'CHIPMAKERS', 'EARNINGS', 'PRICE-TARGET', 'TURNAROUND']",0.977,0.043,0.884,0.073,neutral,0.29631537199020386,0.015572229400277138,0.6881124377250671,0.2807431425899267,0.14285714285714285,0.0,0.051906515,0.21586631,0.2519609,0.9243024028026733,0.20930203206558412
+2026-06-25T14:50:20+00:00,DigitalBridge Weighs $2 Billion Options for Malaysia Data Center Business,"This article first appeared on GuruFocus.
+
+DigitalBridge Group (NYSE:DBRG) is weighing strategic options for Malaysia's AIMS Data Centre Holding Sdn., including a possible fundraise, new investors or an outright sale. The US-based digital infrastructure firm is working with a financial adviser and has already reached out to potential investors to test interest, according to people familiar with the matter. A transaction could value AIMS at about $2 billion, though discussions remain ongoing and DigitalBridge may still decide not to move forward.
+
+Warning! GuruFocus has detected 6 Warning Signs with DBRG. Is DBRG fairly valued? Test your thesis with our free DCF calculator.
+
+The review comes as investor appetite for data-center platforms remains strong, with DigitalBridge itself in the process of being acquired by SoftBank Group Corp. (SOBKY) for about $3 billion. The Boca Raton-based firm invests across digital infrastructure, including data centers, cell towers and fiber networks, and had about $119 billion in assets under management at the end of March.
+
+DigitalBridge acquired 49% of AIMS' ordinary shares, all of its irredeemable convertible preference shares and 21% of AIMS Data Centre (Thailand) Ltd. in a 2023 transaction that valued AIMS at about $775 million. If a deal around the reported $2 billion valuation moves ahead, it could mark a major step-up for the Malaysia-based data-center platform.
+
+View Comments",https://finance.yahoo.com/markets/options/articles/digitalbridge-weighs-2-billion-options-145020414.html,"['9984.TSE', 'DBRG-PH.US', 'DBRG-PI.US', 'DBRG-PJ.US', 'DBRG.US', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F', 'SOBKY.US']","['DATA-CENTERS', 'DIGITAL-INFRASTRUCTURE', 'M-A']",0.958,0.021,0.863,0.116,neutral,0.37263065576553345,0.013023538514971733,0.6143457889556885,0.3596071172505617,0.09090909090909091,0.0,0.19357796,0.3839068,0.68498766,0.9134429767618132,0.3530707725058768
+2026-06-25T04:36:27+00:00,"SK Hynix jumps 12% on Micron earnings, $29B Nasdaq listing plan","[Computer chip artificial intelligence machine learning large language model]
+Just_Super
+
+SK Hynix (HXSCL [https://seekingalpha.com/symbol/HXSCL]) shares surged over 12% on Thursday after the South Korean semiconductor giant unveiled plans to raise as much as $29.4B through a U.S. listing, while robust quarterly results from rival Micron (MU [https://seekingalpha.com/symbol/MU]) further boosted investor sentiment.
+
+Micron’s quarterly results [https://seekingalpha.com/news/4606624-micron-pops-as-q3-results-guidance-blow-past-expectations-on-ai-strength]reinforced expectations that the market for AI memory chips remains supply-constrained, a positive signal for fellow memory-chip maker SK Hynix, analysts said.
+
+“This is a very positive read-across for SK Hynix, who are exposed to the exact same market dynamics,” Rolf Bulk, head of semiconductors and infrastructure at Futurum Group told _CNBC._
+
+The company plans to issue 17.79M new shares in the form of American depositary receipts through a Nasdaq listing, according to a regulatory filing [https://seekingalpha.com/news/4606516-sk-hynix-targets-294b-raise-in-historic-us-listing]. The offer could raise 45.45T won ($29.65B).
+
+Trading is expected to begin July 10, although the company said the timetable remains subject to change.
+
+SK Hynix said the ADR listing would broaden its investor base and allow “its true corporate value to be properly evaluated.” “We expect to elevate our status as a global company by broadening our touchpoints in the United States, the epicenter of AI technological innovation,” the company said.
+
+“We see the ADR listing as mainly about broadening investor access to the U.S. market and narrowing the valuation gap with Micron,” said Bulk.
+
+“SK Hynix is one of the clearest ways to gain exposure to AI-driven memory demand, but its Korea-only listing has limited access for many global investors,” he told _CNBC_.
+
+Shares of SK Hynix are up more than 300% year-to-date. The gains extended across Asia’s technology sector. Samsung Electronics (SSNLF [https://seekingalpha.com/symbol/SSNLF]) advanced more than 5%, while Taiwan’s TSMC (TSM [https://seekingalpha.com/symbol/TSM]) ticked up 0.63%. In Japan, chip-equipment makers Tokyo Electron (TOELY [https://seekingalpha.com/symbol/TOELY]) rose about 7%, Advantest (ATEYY [https://seekingalpha.com/symbol/ATEYY]) added more than 4% and Lasertec (LSRCF [https://seekingalpha.com/symbol/LSRCF]) advanced over 3%, while SoftBank Group (SFTBY [https://seekingalpha.com/symbol/SFTBY]) gained ~5%. Micron’s stock price is up about 700% over the past year, lifting the company’s market cap past $1T.
+
+MORE ON SK HYNIX, MICRON
+
+ 	* Micron Technology, Inc. (MU) Q3 2026 Earnings Call Transcript [https://seekingalpha.com/article/4917532-micron-technology-inc-mu-q3-2026-earnings-call-transcript]
+ 	* Micron Technology, Inc. (MU) Q3 2026 Earnings Call Transcript [https://seekingalpha.com/article/4917507-micron-technology-inc-mu-q3-2026-earnings-call-transcript]
+ 	* Micron Q3: The AI Trade Refuses To Die [https://seekingalpha.com/article/4917510-micron-q3-the-ai-trade-refuses-to-die]
+ 	* Micron signals HBM TAM crossing $100B in 2027 as it lifts FY26 CapEx to around $27B [https://seekingalpha.com/news/4607044-micron-signals-hbm-tam-crossing-100b-in-2027-as-it-lifts-fy26-capex-to-around-27b]
+ 	* Micron projects fiscal Q4 revenue of $50B ± $1B as it outlines $100B in SCA RPO [https://seekingalpha.com/news/4607043-micron-projects-fiscal-q4-revenue-of-50b-1b-as-it-outlines-100b-in-sca-rpo]
+
+ ",https://seekingalpha.com/news/4607049-sk-hynix-jumps-12-on-micron-earnings-29b-nasdaq-listing-plan?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news,"['700.US', 'ATEYY.US', 'HXSCL.US', 'LSRCF.US', 'MU.US', 'SFTBY.US', 'SSNLF.US', 'TOELY.US', 'TSM.US']","['AI', 'EARNINGS', 'IPO', 'QUARTERLY RESULTS', 'SEMICONDUCTORS']",0.955,0.032,0.877,0.091,positive,0.9454876780509949,0.012319881469011307,0.04219239577651024,0.9331677965819836,0.1,0.0,0.30728155,0.27935016,0.41555366,0.8756859380363803,0.3240055524146495
+2026-06-24T17:08:08+00:00,Nvidia-Backed Robotics Company Goes Public Via SPAC. Shares Briefly Jump Nearly 30%.,"The humanoid robot startup Agility Robotics is going public at a $2.5 billion valuation via a SPAC merger with Churchill Capital. Shares of Churchill Capital initially soared nearly 30% on Wednesday morning.
+
+Continue Reading",https://finance.yahoo.com/m/4dcbac5d-19e0-3cb5-8f12-8b9c68a083a4/nvidia-backed-robotics.html,"['1211.HK', '1AMZN.MI', 'AGRO.PVT', 'AMZ.F', 'AMZ.HM', 'AMZ.MU', 'AMZ1.F', 'AMZN.BA', 'AMZN.MX', 'AMZN.SN', 'AMZN.US', 'AMZO34.SA', 'BY6.DU', 'BY6.F', 'BY6.MU', 'BY6A.F', 'BYDDF.US', 'BYDDY.US', 'CCXI.US', 'NVDA.US', 'SFFLY.US', 'SFTBY.US', 'SHA0.XETRA', 'TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US']","['IPO', 'M-A']",0.296,0.0,0.934,0.066,neutral,0.16185705363750458,0.010556213557720184,0.8275867700576782,0.1513008400797844,0.047619047619047616,0.0,0.0,0.24833874,0.33563972,0.8352037335088248,0.17933506405431993
+2026-06-24T10:10:07+00:00,Agility Robotics to go public via $2.5B merger with Churchill Capital Corp XI," 	* Agility Robotics and Churchill Capital (CCXI [https://seekingalpha.com/symbol/CCXI]) have entered into a definitive business combination agreement, the companies said on Wednesday. Upon closing of the transaction, the combined company is expected to operate as Agility and be listed on a major North American exchange under the ticker symbol “AGLT.” 
+ 	* The business combination values Agility at a pre-money equity value of $2.5B, providing an attractive entry point into Agility for Churchill XI shareholders and new investors. The transaction is expected to provide more than $620M of gross proceeds to Agility.
+ 	* Agility Robotics is supported by strategic investors and partners across the AI, technology, VC, and industrial ecosystem, including DCVC, NVIDIA (NVDA [https://seekingalpha.com/symbol/NVDA]), Amazon (AMZN [https://seekingalpha.com/symbol/AMZN]), SoftBank Vision Fund 2 (SFTBY [https://seekingalpha.com/symbol/SFTBY]), Foxconn, Schaeffler, Abico, and Playground Global.
+ 	* Strong commercial momentum with more than $300M of multi-year contracted Digit v5 orders secured to date.
+ 	* Proceeds will support fulfillment of existing customer orders, expansion of commercial deployments, scaling of Digit v5 production, and continued investment in Agility’s integrated platform.
+ 	* The boards of directors of both Agility and Churchill XI have each unanimously approved the proposed business combination. The Transaction is expected to close in 2026.
+
+MORE ON CHURCHILL CAPITAL CORP XI
+
+	* Financial information for Churchill Capital Corp XI [https://seekingalpha.com/symbol/CCXI/income-statement]
+
+ ",https://seekingalpha.com/news/4606522-agility-robotics-to-go-public-via-25b-merger-with-churchill-capital-corp-xi?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news,"['AMZN.US', 'CCXI.US', 'CCXIW.US', 'NVDA.US', 'SFTBY.US']","['AI', 'INDUSTRIAL', 'M-A', 'TECHNOLOGY']",0.971,0.014,0.856,0.13,positive,0.7677385807037354,0.00811191275715828,0.22414948046207428,0.7596266679465771,0.16666666666666666,0.0,0.3981132,0.33234,0.5521042,0.8115377769861983,0.4001861050327059
+2026-06-24T08:07:50+00:00,Micron Earnings Take on New Gravity With Market on Edge Over AI,"(Bloomberg) -- Micron Technology Inc.'s earnings report on Wednesday afternoon is shaping up to be one of the most important in months as investors find themselves suddenly on edge over the sustainability of the AI rally.
+
+Most Read from Bloomberg
+
+Stocks Slide as Wall Street Gets AI Wake-Up Call: Markets Wrap Oracle Cut 21,000 Jobs in 12 Months, Says AI Replaced Some Roles 'FOMO Really Got Me': Taiwanese Go Deep Into Debt to Amp 100% Stock Rally SpaceX Falls for Third Day, Erases $600 Billion in Market Value Korean Stocks Tumble 10% as Extreme Volatility Rattles Investors
+
+The memory-chip maker's shares have soared 269% this year amid insatiable demand from data-center developers. The gain has made Micron the biggest point contributor by far to the 7.6% advance in the S&P 500, whose leader board is dominated by other memory and storage companies including Sandisk Corp., Western Digital Corp. and Seagate Technology Holdings Plc.
+
+But concerns are mounting about how much longer the good times can last. Semiconductor stocks around the world tumbled on Tuesday following a report out of South Korea that Micron rival SK Hynix is slowing expansion of AI memory chip production. In the US, Micron shares dropped 13%, leading the Philadelphia Stock Exchange Semiconductor Index to its worst decline since June 5. That's putting extra attention on what Micron has to say about the outlook for AI demand.
+
+""Any disappointment with Micron's results could reinforce the waterfall dynamic, but a clean print could draw buyers back into the space,"" said Joe Mazzola, head trading and derivatives strategist at Charles Schwab.
+
+A geyser of cash coming from tech giants locked in a race to add data-center capacity has made the makers of computing components and equipment the year's best performing stocks. Micron alone accounts for nearly one-fifth of the S&P 500's gain in 2026 and seven of the 10 biggest point contributors are semiconductor-related stocks.
+
+So far, there are no signs that the flow of money is slowing. The biggest spenders — Alphabet Inc., Microsoft Corp., Amazon.com Inc. and Meta Platforms Inc. — are planning to deploy as much as $725 billion on capital expenditures in 2026 and have pledged significantly more outlays next year. But that hasn't entirely quelled fears that the boom is just setting investors up for a bust when spending cools, a dynamic that has played out in past semiconductor cycles, which have been particularly painful for memory-chip makers.
+
+""The view now is that we may be in a situation where companies like Micron and other memory companies may be able to smooth these out, and that the total addressable market is significantly bigger and longer than in previous cycles,"" said Melissa Otto, head of technology, media and telecommunications research at Visible Alpha. ""The market is going to be looking to get clarity around that.""
+
+Story Continues
+
+Micron is projected to report net income of $23.8 billion on revenue of $35.6 billion in its fiscal third quarter, which ended on May 31, according to the average of analyst estimates compiled by Bloomberg. That would represent jumps of 1,165% and 283%, respectively, from a year ago.
+
+The company's long-term supply agreements and the durability of that backlog will also be closely watched for signs that demand is going to hold up, according to Ryuta Makino, a research analyst at Gabelli Funds.
+
+Of course, the rally in Micron shares has ratcheted up expectations, and the company's earnings reports have often disappointed investors. The stock has fallen on the day after earnings in five of the past six quarters, according to data compiled by Bloomberg. The options market is pricing in a 10% swing in the share price in either direction following the report.
+
+""I'm a little bit worried,"" said Paul Meeks, managing director and head of technology research at Freedom Capital Markets. ""As you've seen in some prior quarters, almost regardless of the results and guidance, the stock went down afterward.""
+
+While Micron may not be at peak earnings yet, it might not be far away, Meeks said. Revenue growth is projected to slow to 76% in fiscal 2027 and 8% in 2028.
+
+Of course, investors may be comforted by Micron's relatively cheap valuation. The stock is priced at less than 10 times estimated earnings, compared with 20 times for the S&P 500 and 24 times for the Nasdaq 100.
+
+That's likely one reason Wall Street remains overwhelmingly bullish on Micron with 50 of the 55 analysts who cover the stock rating it a buy while none recommend selling, according to data compiled by Bloomberg. But the stock has run up so far that analyst price targets have struggled to keep pace. Prior to Tuesday's selloff, Micron's average price target of $1,153 implied a decline of 5% over the next 12 months.
+
+""There's a huge, high bar here,"" said David Wagner, head of equities and a portfolio manager at Aptus Capital Advisors. ""We have to realize how much perfection has been priced into the stock.""
+
+Tech Chart of the Day
+
+Top Tech Stories
+
+SpaceX sold $25 billion of investment-grade bonds on Tuesday, marking the final step to replace the costly debt that had helped finance Elon Musk's 2022 acquisition of X, then known as Twitter, as well as the expensive loans and bonds issued by artificial intelligence lab xAI last year to bridge its rapid cash drain. SoftBank Group Corp.'s Masayoshi Son said he plans to hold onto the top spot at the technology group he founded for another decade or more, shredding his long-held plan to hand over the reins in his sixties. ByteDance Ltd., the developer of TikTok, is in preliminary talks with banks for a borrowing of about $20 billion, people familiar with the matter said, in what would be the firm's largest offshore loan yet at a time when it's boosting investments in artificial intelligence. Tencent Holdings Ltd. is preparing to launch an AI agent for its Slack-like enterprise communication app, intensifying a high-stakes battle among Chinese tech giants to lock users into their ecosystems in the post-ChatGPT era.
+
+Earnings Due
+
+Earnings Premarket:
+
+Daktronics Inc. (DAKT US) Earnings Postmarket:
+
+Methode Electronics Inc. (MEI US) Micron Technology Inc. (MU US)
+
+--With assistance from Subrat Patnaik, Neil Campling and David Watkins.
+
+Most Read from Bloomberg Businessweek
+
+How Pokémon Cards Became Scarce, Valuable and Surprisingly Dangerous A Credit Loophole So Big You Can Drive an SUV Through It The Infuriating Rise of the $8 Ice Cream Cone Being a CEO Today Stinks (Except for the Salary) Why Guinness Keeps Growing While Beer Sales Worldwide Fizz Out
+
+©2026 Bloomberg L.P.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/micron-earnings-gravity-market-edge-080750505.html,"['000660.KS', '0700.HK', '1AMZN.MI', '1FB.MI', '1GOOG.MI', '1GOOGL.MI', '1MSFT.MI', '847.F', 'ABE0.F', 'ABEA.F', 'ABEC.F', 'AMZ.F', 'AMZ.HM', 'AMZ.MU', 'AMZ1.F', 'AMZN.BA', 'AMZN.MX', 'AMZN.SN', 'AMZN.US', 'AMZO34.SA', 'BW9.F', 'DAKT.US', 'FB20.F', 'FB2A.F', 'FB2A.HM', 'GOGL34.SA', 'GOGL35.SA', 'GOOG.MX', 'GOOG.US', 'GOOGL.BA', 'GOOGL.MX', 'GOOGL.SN', 'GOOGL.US', 'GSPC.INDX', 'HY9H.F', 'M1TA34.SA', 'MEI.US', 'META.US', 'MSF.DU', 'MSF.F', 'MSF.HM', 'MSF.MU', 'MSF0.F', 'MSFT.BA', 'MSFT.MX', 'MSFT.SN', 'MSFT.US', 'MSFT34.SA', 'MU.US', 'NNN1.DU']","['AI', 'EARNINGS', 'EARNINGS REPORT', 'NET INCOME', 'PRICE TARGET', 'PRICE-TARGET', 'SEMICONDUCTORS', 'SHARE PRICE', 'TECH']",0.995,0.047,0.86,0.093,negative,0.024695375934243202,0.9586492776870728,0.016655227169394493,-0.9339539017528296,0.038461538461538464,0.0,0.038503647,0.4125961,0.7589176,0.8047423573928059,0.2932953041820654
+2026-06-23T19:04:20+00:00,SoftBank's Son Rejects Musk's Space Data Center Push,"This article first appeared on GuruFocus.
+
+SoftBank Group (SOBKY) founder Masayoshi Son has pushed back against Elon Musk's idea of building data centers in space, arguing that the AI race could possibly be won by companies that secure massive computing power on Earth first. Speaking at SoftBank Corp.'s annual shareholder meeting on Tuesday, Son said orbital data centers may help reduce electricity costs, but power remains only a small part of total data center expenses compared with hardware such as chips.
+
+Warning! GuruFocus has detected 5 Warning Signs with SOBKY. Is SOBKY fairly valued? Test your thesis with our free DCF calculator.
+
+Son noted that any potential power savings could be offset by the high cost of transporting equipment into space, maintenance demands and communication delays. While describing Musk as a remarkable agent of change, Son said SoftBank would focus on building formidable data center capacity on Earth, adding that he who strikes first wins as the next few years may matter far more than what could happen a decade from now.
+
+The comments come as SoftBank has committed about $65 billion to OpenAI and pledged to direct hundreds of billions of dollars into data centers and related infrastructure worldwide. Son also said AI remains in its early stages, with room for ten-fold, a hundred-fold growth across OpenAI and major rivals including Anthropic and Google, while SoftBank's telecom unit is preparing moves into the neocloud and data center storage battery markets in the US.
+
+View Comments",https://finance.yahoo.com/technology/ai/articles/softbanks-son-rejects-musks-space-190420988.html,"['3AG0.F', '3AG1.F', '9434.TSE', '9984.TSE', 'SFBQF.US', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F', 'SOBKY.US']","['AI', 'DATA-CENTERS', 'INFRASTRUCTURE', 'SHAREHOLDER']",0.965,0.042,0.84,0.117,neutral,0.3857823312282562,0.01919332519173622,0.5950243473052979,0.36658900603652,0.1,0.0,0.1715447,0.31129503,0.497873,0.7625324829666917,0.2857621456608087
+2026-06-23T11:42:35+00:00,Tesla Stockholders Bet on SpaceX Merger as Musk’s Real Endgame,"(Bloomberg) -- It's been a challenging year for Tesla Inc. shareholders, losing almost 10% while watching Elon Musk's SpaceX complete the biggest initial public offering ever and immediately become the most valuable entity in the newly minted trillionaire's collection.
+
+Most Read from Bloomberg
+
+SpaceX Falls for Third Day, Erases $600 Billion in Market Value Oracle Cut 21,000 Jobs in 12 Months, Says AI Replaced Some Roles Korean Stocks Tumble 10% as Extreme Volatility Rattles Investors Stocks Fall as SpaceX's Rout Offsets US-Iran Hopes: Markets Wrap Meta Invests $900 Million in Cred, Taps Founder to Head WhatsApp
+
+But Space Exploration Technologies Corp.'s IPO last week is also providing hope for Tesla investors, who are betting that Musk will ultimately engineer a merger of his two businesses. And should SpaceX's stock continue its recent slump, some analysts predict it will only make Tesla shareholders more agreeable to the idea. The combination would create a massive technology conglomerate that could eventually join Nvidia Corp., Alphabet Inc. and Apple Inc. as one of the world's biggest companies.
+
+That optimism from Wall Street may help explain why Tesla shares have held fairly firm since the IPO and have risen in the last two sessions to climb back over $400, even as SpaceX sees the post-IPO euphoria evaporating.
+
+Ivan Feinseth, chief investment officer at Tigress Financial Partners, sees the IPO as a ""narrative catalyst"" for Tesla. Dave Mazza, chief executive officer of Roundhill Financial, which owns Tesla shares, is more convinced of a potential merger now than before SpaceX went public.
+
+""For years, Tesla was the only public way to own the Musk premium, and now it is not, with SpaceX as the cleaner expression of the AI and space story,"" Mazza said. ""What is holding Tesla above $400 is an acquisition premium building in.""
+
+Although they're both owned by Musk, the two businesses aren't an obvious fit. Tesla operates one of the most successful electric-vehicle businesses in the world and is expanding into autonomous driving and building a humanoid robot called Optimus. SpaceX manufactures and launches rockets and satellites and has ambitions to send a man to Mars.
+
+AI Combination
+
+Where the companies dovetail is in artificial intelligence — and the extensive amount of cash needed to fund its development. SpaceX absorbed xAI, parent of the Grok chatbot and the social media site formerly known as Twitter, in February. Now, it's embarking on a semiconductor manufacturing joint venture with Tesla dubbed the Terafab. And further endeavors are likely to require more capital than either outfit has on its own.
+
+Story Continues
+
+Of course, the challenge in any deal is the price, and in this case that's even more difficult because of the volatility in SpaceX's stock. Tesla's market capitalization is roughly $1.5 trillion, while SpaceX was around $2 trillion as of Monday's close, down from $2.6 trillion a week ago. But SpaceX's valuation was closer to $400 billion just a year ago, and the February xAI deal priced it at around $1 trillion with the AI business valued at around $250 billion, Morningstar analyst Seth Goldstein wrote in a research note on July 9, before the IPO.
+
+""With SpaceX's soaring valuation leading up to its IPO, we doubt Tesla shareholders would want to buy SpaceX while its valuation multiples are far higher than theirs,"" Goldstein wrote. Meanwhile, SpaceX shareholders are unlikely to accept a steep discount but would likely be more amenable if the stock retreated closer to Morningstar's fair value estimate of $63, he wrote. The shares went public at $135 and are currently trading for around $155.
+
+That said, Goldstein added that ""we wouldn't be surprised to see a deal occur within a year"" since Musk's companies tend to move quickly.
+
+Wedbush analyst Dan Ives sees a greater than 80% chance that SpaceX and Tesla merge next year. On the other hand, Timothy Horan, SpaceX analyst at Oppenheimer, expects to see a combination eventually but isn't convinced Musk is in a rush. Betting site Polymarket shows 39% probability of a deal getting done by the end of December.
+
+Since a potential merger wasn't discussed in SpaceX's S-1 IPO registration filing, it isn't likely to happen before next June, according to Nicholas Colas, co-founder of DataTrek Research. In addition, it doesn't make sense to do right away considering SpaceX went public to amass cash and Tesla doesn't generate that much itself, he added.
+
+""It doesn't mean that you can't carry an acquisition premium in Tesla for as long as that possibility is out there, but I don't see it as a near-term event,"" Colas said.
+
+Retail Darlings
+
+Musk's companies stand out, in part, because of the large cadre of ordinary investors who buy the stock. Retail cash has poured into SpaceX since its debut and shunned Tesla, according to data from Vanda Research and AJ Bell.
+
+Take Glenn Reisender, a 71-year-old retail trader from Long Island who never owned Tesla but ordered 100 shares of SpaceX and received 55. He'll buy more if a merger is announced.
+
+""I think the merger would be great for both,"" he said. ""It would be a way to consolidate and make both stronger.""
+
+On the other side is Alexandra Merz, a prominent Tesla trader behind the @TeslaBoomerMama X account, who told Bloomberg Television that she eschewed buying SpaceX shares because she thinks a deal will go through by next year.
+
+Stephen Levy, a 27-year-old full-time retail investor in Chicago only ordered five shares of SpaceX before the IPO because he favors smaller-cap stocks but wanted to be a part of the action. However, a combination of SpaceX and Tesla would trigger ""an entire reassessment in my mind.""
+
+""That's the endgame of the thing you want to invest in,"" he said.
+
+Of course, the downside of all this speculation is that if a merger doesn't go through, Tesla shareholders could take a hit, at least in the short term.
+
+""No deal means no shortcut for Tesla,"" Roundhill's Mazza said. ""With SpaceX now a standalone way to own the Musk premium, Tesla can no longer borrow that excitement, and it has to deliver on Robotaxi and Optimus to justify where it trades.""
+
+Tech Chart of the Day
+
+The 16% plunge SpaceX shares on Monday erased about $400 billion, marking the second-largest one-day loss in stock market history. Only Nvidia Corp.'s roughly $590 billion plunge that happened last year is bigger.
+
+Top Tech Stories
+
+Oracle Corp. reduced its workforce by 21,000 employees in the past 12 months, a wider scale than previously known, including those whose jobs were eliminated by the use of artificial intelligence. Tencent Holdings Ltd. is negotiating exits from several game studio investments in Japan, including Tokyo-traded Marvelous Inc., as part of a reassessment of the company's global portfolio, people with knowledge of the matter said. SoftBank Group Corp. founder Masayoshi Son said there's little merit to building data centers in space, as championed by Elon Musk, predicting that the AI race will be clinched by computing resources on Earth. Qualcomm Inc. is in advanced talks to acquire Modular Inc. in a transaction valuing the artificial intelligence infrastructure software company at about $4 billion, according to people familiar with the matter.
+
+Earnings Due
+
+No major earnings expected
+
+--With assistance from Subrat Patnaik and David Watkins.
+
+Most Read from Bloomberg Businessweek
+
+Being a CEO Today Stinks (Except for the Salary) The Infuriating Rise of the $8 Ice Cream Cone Why Guinness Keeps Growing While Beer Sales Worldwide Fizz Out How Bosses Psych Themselves Up for Their Biggest Moments The Cyberbullies of 764 Torment Teen Girls as Blood Sport
+
+©2026 Bloomberg L.P.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/tesla-stockholders-bet-spacex-merger-114235464.html,"['0700.HK', '1AAPL.MI', 'AAPL.BA', 'AAPL.MX', 'AAPL.US', 'AAPL34.SA', 'APC.DU', 'APC.F', 'APC.HA', 'APC.HM', 'APC.MU', 'APC8.F', 'GOOGL.US', 'NNN1.DU', 'NNN1.F', 'NNN1.MU', 'NNND.F', 'NNND.MU', 'NVDA.US', 'ORCL.US', 'QCI.DU', 'QCI.F', 'QCI.HM', 'QCI.MU', 'QCOM.MX', 'QCOM.US', 'QCOM34.SA', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F', 'SPCX.US', 'TCEHY.US', 'TCTZF.US', 'TSLA.US']","['ARTIFICIAL-INTELLIGENCE', 'INITIAL PUBLIC OFFERING', 'IPO', 'M-A', 'SEMICONDUCTORS', 'TECH']",0.997,0.027,0.881,0.093,neutral,0.2092781662940979,0.23746730387210846,0.5532544851303101,-0.02818913757801056,0.05263157894736842,0.0,0.033386074,0.3167789,0.5120045,0.7397174918867873,0.22681589349457926
+2026-06-23T10:06:30+00:00,"AM Markets Need to Know: Trump signs quantum orders, Nvidia's performance, and more","[Horizontal Multi-Layered Financial Bar Graph representing Volatile Market Fluctuations and Economic Analysis]
+
+Stock index futures were sharply down on Tuesday as technology shares came under pressure, extending weakness seen earlier this week.
+
+Now, here are 5 news stories that broke overnight to watch out for:
+
+SPACEX STOCK SLIDE: SpaceX (SPCX [https://seekingalpha.com/symbol/SPCX#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews]) shares tumbled for a third consecutive [https://seekingalpha.com/news/4605882-spacex-sheds-600b-in-market-value-amid-debt-funding-plans] session on Monday as investors reacted to the company's plans to enter the investment-grade bond market, a move expected to support its growing artificial intelligence and infrastructure ambitions. The stock fell 16.4% to close at $154.60, its lowest level since debuting on the public market. The decline extended SpaceX's three-day slide to 23%, wiping out more than $600B in market value. Despite the selloff, SpaceX still commands a market capitalization of just over $2T.
+
+NVIDIA UNDERPERFORMS: Nvidia's (NVDA [https://seekingalpha.com/symbol/NVDA#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews]) recent stock underperformance is coinciding with a growing prediction among Kalshi traders that prices for the company's flagship AI chips will continue to decline [https://seekingalpha.com/news/4605875-predictions-markets-bet-on-declining-nvidia-chip-prices]. The company's shares are up about 12% in 2026, significantly lagging the nearly 85% gain in the VanEck Semiconductor ETF (SMH [https://seekingalpha.com/symbol/SMH#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews]), as investors have increasingly shifted focus toward memory chipmakers and AI infrastructure providers. Nvidia's B200 compute cost peaked at $6.11 per hour on May 30, its highest level in three months, before declining to $4.22 by June 21.
+
+APOLLO CURBS REDEMPTIONS: Apollo Global's (APO [https://seekingalpha.com/symbol/APO#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews]) $26B private credit fund, Apollo Debt Solutions, said it was curbing redemptions [https://seekingalpha.com/news/4605877-apollo-caps-private-credit-fund-redemptions-following-17-exit-request] at 5% of its shares after investors sought to withdraw approximately 16.8% of the total. Paying out those investors will bring gross outflows from the fund to $700M, outpacing inflows of $300M, based on preliminary data. That leaves net outflows worth about 3% of the fund's asset value so far this year.
+
+SON DISMISSES SPACE DATA CENTERS: SoftBank Group (SFTBY [https://seekingalpha.com/symbol/SFTBY#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews]) founder Masayoshi Son has reportedly said there's little merit to building data centers in space, as championed by Elon Musk, and that the AI race will be clinched [https://seekingalpha.com/news/4605878-softbanks-masayoshi-son-rejects-space-data-centers-favors-compute-on-earth] by compute on Earth. The main advantage of building data centers in space would be to slash electricity costs, but such expenses comprise a small fraction of the cost of operating data centers compared with hardware like chips, Son said during an annual shareholder meeting for SoftBank's mobile unit on Tuesday.
+
+TRUMP SIGNS QUANTUM ORDERS: President Donald Trump signed executive orders Monday aimed at accelerating [https://seekingalpha.com/news/4605889-trump-signs-orders-to-accelerate-quantum-adoption-boost-cyber-defense] quantum research, laying the groundwork for federal agencies to adopt the technology and strengthen U.S. defenses against cyberattacks. The orders are intended to cement the U.S. ""as the world leader in this very important emerging field,"" Trump said at the White House. ""We're already the leader by a lot, and we're going to be now the leader by a lot more.""
+
+MORE ON MARKETS
+
+ 	* The 10-Week SPR Clock Is Ticking [https://seekingalpha.com/article/4916768-the-10-week-spr-clock-is-ticking]
+ 	* Why The AI Bubble May Dwarf The Dot-Com Bust [https://seekingalpha.com/article/4916799-why-ai-bubble-may-dwarf-dot-com-bust]
+ 	* Thursday's Hot Inflation Print Could Scare A Lot Of People Into The Wrong Trade [https://seekingalpha.com/article/4916794-thursdays-hot-inflation-print-could-scare-a-lot-of-people-into-the-wrong-trade]
+ 	* Stocks to watch on Monday after hours: MLTX, BBY, and DPZ [https://seekingalpha.com/news/4605816-stocks-to-watch-on-monday-after-hours-mltx-bby-and-dpz]
+ 	* Bond markets are pricing in two interest rate hikes this year – analyst [https://seekingalpha.com/news/4605833-bond-markets-are-pricing-in-two-interest-rate-hikes-this-year-analyst]
+
+ ",https://seekingalpha.com/news/4605898-am-markets-need-to-know-trump-signs-quantum-orders-nvidias-performance-and-more?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news,"['APO.US', 'NVDA.US', 'SFTBY.US', 'SMH.US', 'SP500.US', 'SPCX.US']","['CYBER-DEFENSE', 'INVESTMENT-GRADE', 'PRIVATE-CREDIT', 'QUANTUM-RESEARCH', 'SEMICONDUCTORS', 'SHAREHOLDER']",0.915,0.041,0.875,0.083,negative,0.01256525982171297,0.9713584780693054,0.016076285392045975,-0.9587932182475924,0.14285714285714285,0.0,0.24114284,0.30772388,0.48867044,0.7348461910839558,0.31576650817236696
+2026-06-23T10:04:14+00:00,SoftBank-backed Carro eyes U.S. IPO as soon as this month - report,"[Open AI, Arm and SoftBank CEOs Attend Transforming Business through AI Event]
+Sundry Photography
+
+SoftBank (SFTBY [https://seekingalpha.com/symbol/SFTBY])-backed Southeast Asian used-car marketplace Carro is reportedly exploring a U.S. IPO as soon as this month, according to a _Bloomberg_ report that cites people familiar with the matter.
+
+The Singapore-based company is working with advisers on a potential share sale that could raise up to $500M. The discussions remain private and the plans could still change, the report added. [https://www.bloomberg.com/news/articles/2026-06-23/softbank-backed-car-marketplace-carro-is-said-to-explore-us-ipo]
+
+Carro is also evaluating a secondary listing in Singapore through the Singapore Exchange's newly launched Global Listing Board, which would allow companies valued at more than S$2B ($1.5B) to dual-list alongside Nasdaq using a single filing process, the people said.
+
+Founded in 2015, Singapore-based Carro runs an online used-car marketplace and also provides financing, insurance, and after-sales services. The company operates in several markets, including Singapore, Indonesia, Australia, Japan, Thailand, Hong Kong, and Taiwan.
+
+MORE ON SOFTBANK GROUP CORP.
+
+ 	* SoftBank: Get In Before The OpenAI IPO [https://seekingalpha.com/article/4914568-softbank-get-in-before-the-openai-ipo]
+ 	* SoftBank Group Corp. (SFTB:CA) Q4 2026 Earnings Call Transcript [https://seekingalpha.com/article/4903701-softbank-group-corp-sftb-ca-q4-2026-earnings-call-transcript]
+ 	* SoftBank Group Corp. 2026 Q4 - Results - Earnings Call Presentation [https://seekingalpha.com/article/4903692-softbank-group-corp-2026-q4-results-earnings-call-presentation]
+ 	* SoftBank dips 11% on Tokyo exchange over high-risk AI bets [https://seekingalpha.com/news/4600524-softbank-dips-11-on-tokyo-exchange-over-high-risk-ai-bets]
+ 	* SoftBank dethrones Toyota as Japan's most valuable company [https://seekingalpha.com/news/4598738-softbank-dethrones-toyota-as-japans-most-valuable-company]
+
+ ",https://seekingalpha.com/news/4605902-softbank-backed-carro-eyes-us-ipo-as-soon-as-this-month---report?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news,"['SFTB:CA.US', 'SFTBF.US', 'SFTBY.US']","['IPO', 'SECONDARY-OFFERING', 'TECH']",0.874,0.0,0.937,0.063,neutral,0.04959489777684212,0.01648537628352642,0.9339197278022766,0.0331095214933157,0.25,0.0,1.0,0.46797857,0.90163374,0.7347316621577658,0.7113816010836355
+2026-06-23T05:20:43+00:00,"SoftBank’s Masayoshi Son rejects space data centers, favors compute on Earth","[Data center server racks. IT modern hardware server room, data storage center, database information system]
+quantic69
+
+SoftBank Group (SFTBY [https://seekingalpha.com/symbol/SFTBY]) founder Masayoshi Son has reportedly said there’s little merit to building data centers in space, as championed by Elon Musk, and that the AI race will be clinched by compute on Earth.
+
+The main advantage of building data centers in space would be to slash electricity costs. But such expenses comprise a small fraction of the cost of operating data centers, compared with hardware like chips, Son said during an annual shareholder meeting for SoftBank’s mobile unit on Tuesday, according to _Bloomberg News. _
+
+The trade off for any power cost reductions would also include higher fees to transport everything into space, maintenance, and communication delays, he added.
+
+“In the battle for AI, the next few years will be far more important than what might happen a decade or so from now,” he said after a SoftBank Corp. shareholder asked if the Japanese company planned anything similar to the SpaceX (SPCX [https://seekingalpha.com/symbol/SPCX]) chief’s grandiose plans. 
+
+SoftBank will focus on building “formidable” data center capacity on Earth, Son said, as per the report. “He who strikes first wins.”
+
+SpaceX (SPCX [https://seekingalpha.com/symbol/SPCX]) is hardly alone in what has become a race to compute in space. Amazon (AMZN [https://seekingalpha.com/symbol/AMZN]) CEO Jeff Bezos has voiced similar aspirations for his rocket and AI ventures, Blue Origin (BORGN [https://seekingalpha.com/symbol/BORGN]) and Prometheus, respectively.
+
+MORE ON SPACEX, SOFTBANK GROUP CORP.
+
+ 	* SpaceX: I See 50% Downside, Even With Cursor [https://seekingalpha.com/article/4916821-spacex-i-see-50-percent-downside-even-with-cursor]
+ 	* SpaceX: Only The Valuation Is Astronomical [https://seekingalpha.com/article/4916810-spacex-only-the-valuation-is-astronomical]
+ 	* SpaceX: xAI And X Made It, So Why Not A Tesla Merger? This Is Why Not [https://seekingalpha.com/article/4916801-spacex-xai-and-x-made-it-so-why-not-a-tesla-merger-this-is-why-not]
+ 	* SpaceX is the only fully vertically integrated company positioned to disrupt AI – analyst [https://seekingalpha.com/news/4605741-spacex-is-the-only-fully-vertically-integrated-company-positioned-to-disrupt-ai-analyst]
+ 	* SpaceX lands another cloud computing deal as Reflection signs up for potential $6.3B contract [https://seekingalpha.com/news/4605652-spacex-lands-another-cloud-computing-deal-as-reflection-signs-up-for-potential-63b-contract]
+
+ ",https://seekingalpha.com/news/4605878-softbanks-masayoshi-son-rejects-space-data-centers-favors-compute-on-earth?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news,"['AMZN.US', 'BORGN.US', 'SFTBF.US', 'SFTBY.US', 'SPCX.US']","['AI', 'DATA-CENTERS', 'SHAREHOLDER', 'SPACE-TECHNOLOGY']",0.537,0.035,0.915,0.049,neutral,0.10731907188892365,0.061823222786188126,0.8308576345443726,0.04549584910273552,0.16666666666666666,0.0,0.5445161,0.26659733,0.38269064,0.7205461286674295,0.399974569411778
+2026-06-23T02:36:44+00:00,"Stocks fluctuate after Wall St sell-off, crude holds losses on peace talks","Investors are keeping tabs on developments in Tokyo as the yen sits near a 40-year low against the dollar (Richard A. Brooks)
+
+Asian equities fluctuated Tuesday following a tech-led sell-off on Wall Street as investors again questioned a long-running AI-fuelled boom, while crude largely held losses that came on the back of positive US-Iran talks.
+
+While Washington and Tehran flagged progress at peace negotiations in Switzerland, traders are struggling to build on last week's rally sparked by news of a deal to end the Middle East conflict.
+
+Tech firms -- the main driver of a surge across world markets as investors pile into all things AI -- took a hit in Asia.
+
+South Korean chip giants SK hynix and Samsung tumbled to drag the Kospi index down more than three percent, though it is still up more than 100 percent since the turn of the year.
+
+Tokyo was also in the red, with tech investment titan SoftBank shedding more than seven percent and chipmaker Tokyo Electron down.
+
+Taipei and Shanghai were down, with Hong Kong and Sydney flat. Singapore, Wellington and Manila edged up.
+
+The tepid performance followed a sharp drop on Wall Street, where the Nasdaq sank more than one percent as market giants Amazon, Nvidia and Microsoft were sharply down.
+
+But the main victim of the day was Elon Musk's SpaceX, which plunged more than 16 percent -- wiping hundreds of billions off its valuation -- after a record IPO and a winning trio of opening trading sessions.
+
+The fall came as the rocket and satellite company disclosed plans for an ""inaugural"" bond offering of unspecified quantity.
+
+The SpaceX disclosure arrives on the heels of a large equity round announced earlier this month by Google parent Alphabet and a data centre venture between Microsoft and Chevron, developments which underscore the hefty capital toll of the artificial intelligence drive.
+
+Monday's selling revived worries about the wisdom of the vast sums being pumped into artificial intelligence with little sign of any returns being made soon.
+
+Traders are also fretting over the extended valuations of some firms, with Nvidia topping $5 trillion.
+
+""While the sector has performed exceptionally well, valuations have become stretched and the bar is now materially higher than it was a few months ago,"" wrote Tony Sycamore at IG.
+
+""Questions around  capital expenditure and returns on artificial intelligence spending remain unanswered. While names like Intel and  Micron are hitting fresh record highs, the Magnificent Seven (of top tech firms) has lost considerable momentum in recent weeks.
+
+""Amazon and Nvidia are trading around 12 percent below their recent peaks, while Microsoft and  Meta Platforms sit not far above their March lows.""
+
+Story Continues
+
+Oil prices edged up, though they remain below $80 following Monday's drop that came after the US Treasury said it was temporarily lifting sanctions on Iran to allow it to produce, sell and deliver crude oil and related products through August 21.
+
+Maritime trackers also pointed to an uptick in tanker traffic through the Strait of Hormuz.
+
+US Vice President JD Vance said a ""very good foundation"" had been laid for negotiations towards a final deal and that Iran would allow UN nuclear inspectors to return to the country.
+
+Iranian Foreign Ministry spokesman Esmaeil Baqaei said for his part that ""a very brief discussion took place regarding the nuclear issue, but there was no discussion of details"".
+
+President Donald Trump said the strait, the critical channel for much of the world's oil, is now ""totally open"" to shipping after Iran closed it in response to US and Israeli forces bombing the country late February.
+
+""We're negotiating -- we'll see how that all goes -- but we have two things,"" Trump said. ""We have an open strait and we have a country that will never have a nuclear weapon.""
+
+Attention is also on Tokyo as the yen sits just below a 40-year low against the dollar following the Federal Reserve's hawkish turn last week and concerns the Japanese central bank might not be doing enough to fight inflation.
+
+Traders are also keeping tabs on developments after NHK and Kyodo News said Finance Minister Satsuki Katayama and US Treasury Secretary Scott Bessent had spoken about exchange rates.
+
+Japanese authorities spent more than $70 billion last month propping up the currency as it weakened against the greenback.
+
+- Key figures around 0215 GMT -
+
+Tokyo - Nikkei 225: DOWN 1.1 percent at 71,548.12
+
+Hong Kong - Hang Seng Index: FLAT at 23,761.34
+
+Shanghai - Composite: DOWN 0.3 percent at 4,149.51
+
+Seoul - Kospi: DOWN 3.4 percent at 8,809.27
+
+Brent North Sea Crude: FLAT at $77.92 a barrel
+
+West Texas Intermediate: UP 0.2 percent at $74.00 a barrel
+
+Pound/dollar: DOWN at $1.3242 from $1.3244 on Friday
+
+Euro/dollar: UP at $1.1427 from $1.1425
+
+Dollar/yen: DOWN at 161.58 yen from 161.66 yen
+
+Euro/pound: UP at 86.28 pence from 86.23 pence
+
+New York - Dow: UP 0.3 percent at 51,712.71 (close)
+
+London - FTSE 100: UP 0.7 percent at 10,437.85 (close)
+
+dan/abs
+
+View Comments",https://finance.yahoo.com/markets/world-indices/articles/stocks-fluctuate-wall-st-sell-023644743.html,"['000660.KS', '005930.KS', '005935.KS', '1AMD.MI', '1MU.MI', '8035.TSE', '9984.TSE', 'A1MD34.SA', 'AMD.DU', 'AMD.F', 'AMD.HM', 'AMD.MX', 'AMD.US', 'AMD0.F', 'AMZN.US', 'AVGO.US', 'BW9.F', 'CL.COMM', 'HY9H.F', 'IXIC.INDX', 'KS11.INDX', 'META.US', 'MSFT.US', 'MTE.F', 'MU.MX', 'MU.US', 'MUTC34.SA', 'NVDA.US', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F', 'SMSNN.MX', 'SNDK.US', 'SSNLF.US', 'SSU.F', 'SSUN.F', 'TKY.F', 'TKY.MU', 'TKY0.F', 'TOELF.US', 'TOELY.US']","['ARTIFICIAL-INTELLIGENCE', 'BOND-OFFERING', 'EQUITIES', 'IPO', 'TECH']",-0.857,0.051,0.907,0.043,negative,0.01586480811238289,0.9639126658439636,0.020222557708621025,-0.9480478577315807,0.03125,0.0,0.0,0.378755,0.67171186,0.7124667098228963,0.2469871365041021
+2026-06-22T05:24:19+00:00,Asian shares are mixed and US futures fall as Iran talks make progress,"HONG KONG (AP) — Asian stocks were mixed Monday with markets in Japan and South Korea trading higher and setting new records, while oil prices edged lower on fresh optimism over progress in U.S.-Iran negotiations.
+
+U.S. futures were trading lower.
+
+Tokyo's Nikkei 225 jumped 1.6% and ended at another all-time record of 72,353.96, led by technology stocks that were fueled by excitement over the global artificial intelligence boom.
+
+Japan's SoftBank Group, the multinational investment holding company with a strong AI focus, rose 1.9%. Chip equipment maker Tokyo Electron was up 3.2%.
+
+South Korea's Kospi gained 0.7% to 9,114.55, also a record closing high, helped by AI-related shares. Memory chip maker SK Hynix surged 5.6%.
+
+The Nikkei 225 and Kospi were up more than 40% and 120%, respectively, over the past six months. Both benchmark indexes have been setting fresh records in recent days on AI enthusiasm and positive developments from the Iran war.
+
+""We're seeing another strong market today,"" Neil Newman, managing director and head of strategy at Astris Advisory Japan, said. He cautioned that the Japanese market is ""probably getting a little stretched"" from an investor's point of view, ""especially with what's going (on) in the Middle East.""
+
+Hong Kong's Hang Seng lost 0.6% to 23,785.50, while the Shanghai Composite index was 1.8% higher at 4,163.10.
+
+Australia's S&P/ASX 200 was down 0.1% to 8,816.10.
+
+Taiwan's Taiex rose 2.8%. India's Sensex was up 0.4%.
+
+Oil prices fell as talks progressed over a permanent end to the Iran war. Brent crude, the international standard, was trading 1.1% lower to $79.70 per barrel. It was at roughly $70 a barrel before the start of the war in late February.
+
+High-level negotiations in Switzerland between the U.S. and Iran concluded early Monday, with lower-level technical talks set for the rest of the week. Mediators Qatar and Pakistan said ""encouraging progress"" was made during the negotiations.
+
+Meanwhile, while Iran said the Strait of Hormuz, a key waterway for oil and gas transport, was shut again over the weekend, the U.S. said that traffic had continued.
+
+""Moving towards a more permanent deal will be challenging, with very real risks of a flare-up in hostilities,"" ING commodities strategists Warren Patterson and Ewa Manthey wrote in a commentary on Monday.
+
+Thomas Mathews, head of Markets, Asia Pacific of Capital Economics, believes energy flows in the strait are more likely to recover only gradually. ""With the controversial — and fragile — U.S.-Iran peace process now underway, attention is turning to how quickly tankers return to the Strait of Hormuz to load energy supplies,"" he wrote in a note.
+
+Story Continues
+
+In the U.S., investors are also monitoring May's personal consumption expenditures price index, or PCE, the preferred inflation gauge of the Federal Reserve, which is due to be released this Thursday.
+
+In other dealings, the U.S. dollar rose to 161.76 Japanese yen from 161.22 yen. The euro was trading at $1.1445, down from $1.1473.
+
+___
+
+Associated Press senior producer Mayuko Ono in Tokyo contributed to this report.
+
+View Comments",https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-us-futures-052419578.html,"['000660.KS', '8035.TSE', '9984.TSE', 'CL.COMM', 'DJI.INDX', 'HY9H.F', 'IXIC.INDX', 'N225.INDX', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F', 'TKY.F', 'TKY.MU', 'TKY0.F', 'TOELF.US', 'TOELY.US', 'TOKYO.US']","['AI', 'INFLATION', 'MIDDLE-EAST', 'TECH']",0.97,0.052,0.85,0.098,negative,0.15387985110282898,0.8210192918777466,0.025100819766521454,-0.6671394407749176,0.058823529411764705,0.0,0.08423153,0.38701007,0.6929845,0.6527772566115624,0.28271077494989894
+2026-06-20T13:26:02+00:00,PayPay’s (PAYP) Subsidiary to Acquire 70% Stake in T&amp;D Financial Life Insurance,"PayPay Corp. (NASDAQ:PAYP) is one of the 10 best payment processing stocks to buy now. With roughly 82% upside potential, the stock carries moderately bullish consensus views. Moreover, the management's acquisitive strategy is also driving an optimistic view around the stock.
+
+On June 5, the Board of Directors of PayPay Corp., a subsidiary of SoftBank Group (SFTBY), approved the purchase of a 70.2% share in T&D Financial Life Insurance from T&D Holdings. This transaction makes T&D Financial Life a subsidiary of PayPay. It is anticipated that PayPay's current cash reserves will be used to finance the deal.
+
+PayPay and T&D Holdings have signed a share purchase agreement for the transaction. T&D Financial Life is expected to become a SoftBank Group subsidiary upon completion of the deal. Additionally, since T&D Financial Life's capital will account for at least 10% of SoftBank Group's capital, it is anticipated to be recognized as a designated subsidiary of SoftBank Group.
+
+On a related note, One Investment Management, an asset management company not affiliated with PayPay, also proposed paying T&D Holdings cash for a 14.9% stake in T&D Financial Life through its affiliate, OneIM Indigo Holdings.
+
+PayPay Corp. (NASDAQ:PAYP) is a financial technology company that serves users and merchants in Japan. The company facilitates mobile Payments via its app, as well as banking & lending, investment & securities, CFD trading, asset management, and credit & financing services. It also offers value-added services, such as insurance and marketing, with the option to subscribe.
+
+While we acknowledge the potential of PAYP as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on thebest short-term AI stock.
+
+READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.
+
+Disclosure: None. Follow Insider Monkey on Google News.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/paypay-payp-subsidiary-acquire-70-132602610.html,"['8795.TSE', '9984.TSE', 'PAYP.US', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F', 'TDHOY.US', 'TZ6.DU', 'TZ6.F', 'TZ6.MU']","['FINANCIALS', 'M-A', 'PAYMENTS']",0.989,0.01,0.865,0.124,neutral,0.2691662013530731,0.009009416215121746,0.7218243479728699,0.2601567851379514,0.1,0.0,0.63554215,0.44739634,0.848595,0.553531668884382,0.514941676686488
+2026-06-19T01:50:22+00:00,"Hyundai to buy SoftBank's remaining stake in Boston Dynamics for $325 million, newspaper says","SEOUL, June 19 (Reuters) - Hyundai Motor Group plans to buy SoftBank Group's ‌remaining 9.65% stake in Boston ‌Dynamics for $325 million to make the U.S. robotics ​firm a wholly owned subsidiary, South Korea's Maeil Business Newspaper reported on Friday.
+
+Hyundai Motor is expected to convene a ‌board meeting on ⁠June 22 to approve the purchase, the newspaper said, citing ⁠unnamed industry sources.
+
+The report said SoftBank had told Hyundai that it would ​like to ​exercise its rights ​to sell its ‌remaining stake in Boston Dynamics under a put option agreed when it sold Boston Dynamics to Hyundai.
+
+Hyundai Motor and SoftBank did not immediately respond to ‌requests for comment.
+
+Hyundai Motor ​Group, including Group Executive ​Chair Euisun ​Chung and affiliates Hyundai Motor, ‌Kia, Hyundai Mobis and ​Hyundai Glovis, ​already own just over 90% of the robot maker, the report said.
+
+(Reporting ​by ‌Hyunjoo Jin and Joyce Lee; Additional ​reporting by Anton Bridge in TokyoEditing ​by Ed Davies)
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/hyundai-buy-softbanks-remaining-stake-015022894.html,"['005380.KS', '005385.KS', '005387.KS', '005389.KS', '012330.KS', '086280.KS', '9984.TSE', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F']","['M-A', 'ROBOTICS', 'SOUTH-KOREA']",0.649,0.0,0.96,0.04,neutral,0.03706151247024536,0.016265040263533592,0.9466734528541565,0.02079647220671177,0.08333333333333333,0.0,0.26375,0.3451098,0.5850109,0.4779282895973087,0.30719137925158696
+2026-06-18T09:35:34+00:00,Intel Shares Soar After Trump Says It Struck Apple Chip Deal,"(Bloomberg) -- Intel Corp.'s stock surged more than 9% in premarket trading Thursday after US President Donald Trump said the chipmaker will work alongside Apple Inc. to design and produce semiconductors domestically.
+
+Most Read from Bloomberg
+
+Read the 14-Point Draft Memorandum Between the US and Iran Modi Warns of 'Shortage of Trust' Ahead of Trump Meeting Trump Blows Through His Iran Red Lines in Justifying Peace Deal Iran's Deputy Foreign Minister Confirms Deal Reached With US Apple Plans Camera AirPods Alongside Upgraded Foldable iPhone in 2027
+
+Trump didn't elaborate on that tie-up, which he mentioned after championing Nvidia Corp. and Elon Musk's Terafab chipmaking ambitions in a Truth Social post. The iPhone maker has held exploratory discussions about using Intel and Samsung Electronics Co. to produce the main processors for its devices in the US.
+
+""I decided to help Intel because we need to design and build our Chips right here in America,"" Trump posted. ""Apple has agreed to work with Intel to design and build its Chips in America.""
+
+For Intel, finding external customers for chip production is a key piece of a comeback plan under Chief Executive Officer Lip-Bu Tan. The company remains in the early stages of trying to line up clients for its so-called foundry business after past false starts. Landing Apple as a customer would represent a massive win for Tan and potentially help attract additional new business.
+
+Spokespeople for Intel and Apple didn't immediately respond to requests for comment.
+
+Intel struck an unconventional deal with Trump last year that turned the US government into Intel's biggest investor. Under that agreement, Intel sold a stake worth nearly 10% in exchange for state support.
+
+Most Read from Bloomberg Businessweek
+
+The Bankrupting of a Mobile Home Billionaire Why Companies Are Cutting Middle Managers in the AI Era The Infuriating Rise of the $8 Ice Cream Cone How a Tiny British Island Fell Into an International Gambling Scandal The Cyberbullies Tormenting Teenage Girls as Blood Sport
+
+©2026 Bloomberg L.P.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/intel-shares-soar-trump-says-093534172.html,"['005930.KS', '005930.US', '005935.KS', '1AAPL.MI', '1INTC.MI', '1NVDA.MI', '2330.TW', 'AAPL.BA', 'AAPL.MX', 'AAPL.US', 'AAPL34.SA', 'APC.DU', 'APC.F', 'APC.HA', 'APC.HM', 'APC.MU', 'APC8.F', 'INL.F', 'INL.HM', 'INTC.BA', 'INTC.MX', 'INTC.US', 'ITLC34.SA', 'NVD.F', 'NVDA.MX', 'NVDA.US', 'NVDC34.SA', 'NVDG.F', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F', 'SMSNN.MX', 'SSNLF.US', 'SSU.F', 'SSUN.F', 'TSFA.F', 'TSM.US', 'TSMC34.SA', 'TSMN.MX']","['CHIPMAKING', 'FOUNDRY-BUSINESS', 'SEMICONDUCTORS']",0.967,0.037,0.864,0.099,neutral,0.18774929642677307,0.10675804316997528,0.7054926156997681,0.08099125325679779,0.04,0.0,0.0,0.11809028,0.0,0.4469420598453922,0.054694205984539224
+2026-06-17T12:09:17+00:00,SoftBank Group (TSE:9984) Stock Looks Richer Than Its AI Narrative Suggests,"Find winning stocks in any market cycle. Join 7 million investors using Simply Wall St's investing ideas for FREE.
+
+SoftBank Group stock snapshot after recent share performance
+
+SoftBank Group (TSE:9984) has drawn investor attention after a period of strong share price performance, with gains over the past week, month and past 3 months focusing interest on what is driving the move.
+
+See our latest analysis for SoftBank Group.
+
+At a share price of ¥6,897, SoftBank Group has seen strong momentum over recent months, with a 30-day share price return of 23.31% and a 1-year total shareholder return of 218.25%. This points to shifting expectations around its growth prospects and risk profile.
+
+If the recent surge in SoftBank Group has you thinking about where else growth stories might emerge, it could be worth scanning 48 AI infrastructure stocks as a starting point.
+
+With SoftBank Group stock trading close to analyst price targets and its calculated intrinsic value implying a premium, the key question is whether the recent gains leave upside on the table or whether the market is already pricing in future growth.
+
+Most Popular Narrative: 53.3% Overvalued
+
+According to the most followed narrative on SoftBank Group, the fair value of ¥4,498.70 sits well below the latest close at ¥6,897, placing the current share price far ahead of that story's valuation anchor.
+
+Beyond software, SoftBank is expanding into physical AI. Its $5.4 billion acquisition of ABB's robotics business, expected to close mid-to-late 2026, strengthens its AI robotics portfolio and complements holdings in companies like Berkshire Grey, AutoStore, and Skild AI. Efforts to acquire DigitalBridge for around $4 billion would provide control over $108 billion in data-center assets and would directly support AI workloads and infrastructure needs. Additional moves, such as committing $3 billion to transform an Ohio EV plant into a modular data-center factory tied to OpenAI's Stargate project, position SoftBank as a key player in scaling AI compute supply chains.
+
+Read the complete narrative.
+
+This narrative leans heavily on AI infrastructure, robotics and data centers, all tied together by aggressive capital deployment and an implied earnings and margin profile that is very different from a traditional telecom holding company. Curious how those pieces translate into a specific fair value for SoftBank Group and what assumptions sit underneath that jump.
+
+Result: Fair Value of ¥4,498.70 (OVERVALUED)
+
+Have a read of the narrative in full and understand what's behind the forecasts.
+
+Story Continues
+
+However, SoftBank Group's heavy AI concentration and declining annual net income introduce execution and financing risks if large planned investments fail to produce supportive cash flows.
+
+Find out about the key risks to this SoftBank Group narrative.
+
+Another view on SoftBank Group's valuation
+
+The user narrative anchors on a fair value of ¥4,498.70 and flags SoftBank Group as overvalued at ¥6,897, but the earnings multiple tells a different story. The current P/E of 7.9x sits well below the peer average of 17.5x and the Asian wireless telecom industry at 16.6x, and also below a fair ratio of 12.5x, which is a level the market could move toward. For investors, that mix of premium to one fair value and discount to another raises a practical question: which signal deserves more weight?
+
+See what the numbers say about this price — find out in our valuation breakdown.TSE:9984 P/E Ratio as at Jun 2026
+
+Next Steps
+
+If the mixed messages on SoftBank Group have you unsure what to make of the story, it is worth weighing both sides quickly for yourself by checking the 4 key rewards and 4 important warning signs.
+
+Looking for more investment ideas beyond SoftBank Group stock?
+
+If SoftBank Group has sharpened your focus on finding stronger opportunities, do not stop here. Use the Simply Wall St Screener to uncover ideas that fit your goals.
+
+Target potential value opportunities by reviewing companies highlighted in the 16 high quality undervalued stocks that already combine quality fundamentals with appealing pricing signals. Prioritise resilience by checking out the 50 resilient stocks with low risk scores, which filters for businesses with lower risk scores for a potentially steadier ride. Hunt for off-the-radar potential by scanning the screener containing 57 high quality undiscovered gems before everyone else starts talking about them.
+
+This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+
+Companies discussed in this article include 9984.T.
+
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-stock-120917786.html,"['9984.TSE', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F']","['AI', 'DATA-CENTERS', 'INTRINSIC VALUE', 'NET INCOME', 'OVERVALUED', 'ROBOTICS', 'SHARE PRICE', 'SHAREHOLDER', 'VALUATION']",0.995,0.034,0.844,0.122,positive,0.6535859107971191,0.00952358078211546,0.33689045906066895,0.6440623300150037,0.16666666666666666,1.0,0.77007294,0.48181066,0.9372779,0.40910760145055947,0.6364224330392159
+2026-06-17T04:34:39+00:00,SoftBank Group (TSE:9984) Stock After 229% Yearly Surge Is The Rally Getting Stretched,"Make better investment decisions with Simply Wall St's easy, visual tools that give you a competitive edge.
+
+If you are wondering whether SoftBank Group stock still offers value after its strong run, this article breaks down what the current price might be implying about future prospects. SoftBank Group shares last closed at ¥7,102, with returns of 0.8% over the past week, 23.6% over the past month, 53.9% year to date, 228.3% over the past year, 330.4% over three years and 279.9% over five years, which naturally raises questions about how much optimism is already priced in. Recent headlines around SoftBank Group have focused on its ongoing role as an investment holding company in technology and telecom assets, as well as market attention on its exposure to high growth sectors. This context helps explain why investors are closely watching how any portfolio developments might influence perceptions of both risk and potential reward. Based on Simply Wall St's valuation checks, SoftBank Group currently has a value score of 3 out of 6. The rest of this article looks at how different methods such as discounted cash flow, multiples and asset based views line up, and then finishes with a more holistic way to think about valuation.
+
+SoftBank Group delivered 228.3% returns over the last year. See how this stacks up to the rest of the Wireless Telecom industry.
+
+Approach 1: SoftBank Group Discounted Cash Flow (DCF) Analysis
+
+A Discounted Cash Flow model takes estimates of a company's future cash flows and discounts them back to today using a required rate of return. For SoftBank Group, this 2 Stage Free Cash Flow to Equity model focuses on projected free cash flow that could be available to shareholders.
+
+The latest twelve month free cash flow figure for SoftBank Group is a loss of ¥1.58t, so the model starts from a weak cash flow base. Analyst and extrapolated projections show free cash flow staying under pressure in the near years, before moving to positive territory, with one of the later annual estimates at around ¥1.65t in 2031. Figures further out are extrapolated rather than based on direct analyst forecasts, which is worth keeping in mind.
+
+When all those projected cash flows are discounted back to today, the resulting intrinsic value from this DCF model is ¥4,836.57 per share. Compared with the recent share price of ¥7,102, the model suggests SoftBank Group stock is 46.8% above this estimate, which points to a rich valuation on this cash flow view.
+
+Result: OVERVALUED
+
+Our Discounted Cash Flow (DCF) analysis suggests SoftBank Group may be overvalued by 46.8%. Discover 18 high quality undervalued stocks or create your own screener to find better value opportunities.
+
+Story Continues
+
+9984 Discounted Cash Flow as at Jun 2026
+
+Head to the Valuation section of our Company Report for more details on how we arrive at this Fair Value for SoftBank Group.
+
+Approach 2: SoftBank Group Price vs Earnings
+
+For a profitable company like SoftBank Group, the P/E ratio is a useful way to think about what you are paying for each unit of earnings. It helps you compare the stock's valuation with other businesses that also generate profits.
+
+Broadly, higher growth expectations and lower perceived risk can support a higher ""normal"" or ""fair"" P/E ratio, while slower growth or higher risk tends to align with a lower P/E. SoftBank Group currently trades on a P/E of 8.1x, compared with an average of 15.6x for the Wireless Telecom industry and a peer average of 17.6x. This indicates the stock is priced below these broad benchmarks.
+
+Simply Wall St's Fair Ratio for SoftBank Group is 12.4x. This is a proprietary estimate of what the P/E might be, based on factors such as earnings growth characteristics, industry, profit margins, market cap and key risks. Because it adjusts for these company specific drivers, the Fair Ratio can be a more tailored yardstick than simple peer or industry comparisons. Set against this Fair Ratio, SoftBank Group's current P/E of 8.1x sits meaningfully lower. This indicates the stock looks undervalued on this earnings based view.
+
+Result: UNDERVALUEDTSE:9984 P/E Ratio as at Jun 2026
+
+P/E ratios tell one story, but what if the real opportunity lies elsewhere? Start investing in legacies, not executives. Discover our 11 top founder-led companies.
+
+Upgrade Your Decision Making: Choose your SoftBank Group Narrative
+
+Earlier it was mentioned that there is an even better way to understand what the current SoftBank Group share price might be implying. This is where Narratives come in, giving you a simple story that links your view of the company to a set of revenue, earnings and margin estimates, which then roll into a Fair Value you can compare with today's price.
+
+On Simply Wall St's Community page, Narratives are easy to use. They let you set out your assumptions in plain language, see the forecast and Fair Value that result from those assumptions, and then quickly judge whether SoftBank Group stock looks attractive or stretched based on your own thinking rather than a single rigid model.
+
+Narratives are also kept current. When new information arrives, such as earnings updates or AI infrastructure news, the forecasts and Fair Value move with it, and you can see how your story holds up without rebuilding every calculation yourself.
+
+For example, one SoftBank Group Narrative might lean closer to a bullish Fair Value around ¥7,000 that emphasizes AI and semiconductor IP potential. Another might sit nearer a cautious Fair Value around ¥3,220 that focuses on OpenAI concentration and leverage risks. By comparing these to the market price you can decide which story you find more reasonable and how you want to act on it.
+
+Do you think there's more to the story for SoftBank Group? Head over to our Community to see what others are saying!TSE:9984 1-Year Stock Price Chart
+
+This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+
+Companies discussed in this article include 9984.T.
+
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-stock-043439114.html,"['9984.TSE', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F']","['DCF-ANALYSIS', 'DISCOUNTED CASH FLOW', 'EARNINGS GROWTH', 'FREE CASH FLOW', 'FUTURE CASH FLOWS', 'INTRINSIC VALUE', 'SHARE PRICE', 'TELECOM', 'VALUATION', 'WIRELESS-TELECOM']",0.998,0.026,0.852,0.122,neutral,0.06157662719488144,0.07354098558425903,0.8648823499679565,-0.011964358389377594,0.16666666666666666,1.0,0.8130275,0.4703987,0.90787023,0.3965156560000447,0.6428454159185952
+2026-06-17T03:07:04+00:00,"Startup Backed by Ex-Google CEO Debuts Robot, LG Partnership","(Bloomberg) -- A startup backed by former Google Chief Executive Officer Eric Schmidt unveiled an industrial robot powered by artificial intelligence, as investors pile into the emerging field of humanoids.
+
+Most Read from Bloomberg
+
+Read the 14-Point Draft Memorandum Between the US and Iran Iran's Deputy Foreign Minister Confirms Deal Reached With US Netanyahu Pays a Political Price for Trump's Iran Deal US Set to Offer Iran Broad Financial Gains in Peace Deal Modi Warns of 'Shortage of Trust' Ahead of Trump Meeting
+
+The general-purpose robot, called Eno, will be capable of ""reasoning, adapting and owning outcomes beyond predefined tasks,"" Paris-based Genesis AI said in a statement Tuesday. The startup will work with South Korea's LG CNS to develop particular uses.
+
+The robot's decision-making speed, highlighted by its skill and dexterity playing the piano, marks a leap forward, Schmidt said in an interview. ""When I look at robots, there's this loop called VLA: vision, language, action,"" Schmidt said. ""The breakthrough for Genesis is that their algorithms run much faster now.""
+
+Genesis will partner with LG CNS, LG Group's consulting and IT services arm, to deploy the robot to industrial customers by the end of the year. Genesis is currently raising funds to finance its next steps, co-founder Théophile Gervais said in an interview.
+
+Investors are increasingly looking to AI-powered robots to help automate industrial processes as working-age populations decline. Companies including Figure AI, Tesla Inc. and Nvidia Corp. are funding projects to harness advances in AI to improve robot capabilities.
+
+Several robotics startups in Europe, where Genesis is based, are raising money to implement the technology in real-world settings, such as manufacturing and logistics. In Germany, Neura Robotics raised about $1.4 billion in a funding round this month, while Agile Robots is in discussions on an investment from SoftBank Group Corp.
+
+Eno will need to be trained by its users. ""It doesn't wake up knowing the answer to every question, but it's smart enough that if you show it a demo it can learn very quickly,"" Schmidt said.
+
+Genesis AI has previously previewed its technology in a video demo that showed robotic hands with ""human-level capabilities"" performing tasks like chopping tomatoes, cracking eggs and playing the piano. A video featuring Eno showed the robot carrying boxes in a warehouse, tidying a house and working in a research lab.
+
+Schmidt said robots will be more useful for highly specialized tasks, like pipetting in drug research, than as domestic helpers.
+
+Story Continues
+
+Genesis raised $105 million last year with both US and Chinese backers, which is a rarity in an industry split along geopolitical lines. It's backed by Khosla Ventures, Eclipse Capital and HSG, the fund formerly known as Sequoia China.
+
+--With assistance from Mark Bergen.
+
+(Updates with detail on LG partnership in second paragraph)
+
+Most Read from Bloomberg Businessweek
+
+The Bankrupting of a Mobile Home Billionaire The Infuriating Rise of the $8 Ice Cream Cone How a Tiny British Island Fell Into an International Gambling Scandal The Executive Coach Showing Sam Altman How to Lead With 'Emotional Fluidity' Being a CEO Today Stinks (Except for the Salary)
+
+©2026 Bloomberg L.P.
+
+View Comments",https://finance.yahoo.com/technology/ai/articles/startup-backed-ex-google-ceo-030704320.html,"['9984.US', 'GOOGL.US', 'NVDA.US', 'SFT.DU', 'SFT.F', 'SFT.HM', 'SFT.MU', 'SFTBF.US', 'SFTBY.US', 'SFTU.F', 'TSLA.US']","['AI', 'AUTOMATION', 'FUNDRAISING', 'INVESTMENTS', 'ROBOTICS', 'SPLIT']",0.963,0.025,0.897,0.077,neutral,0.24736686050891876,0.01453931350260973,0.7380937933921814,0.23282754700630903,0.1111111111111111,0.0,0.08099808,0.22739536,0.2816703,0.39413476454257007,0.1659581570662118
