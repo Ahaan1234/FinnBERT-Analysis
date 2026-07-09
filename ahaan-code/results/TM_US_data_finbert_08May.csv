@@ -1,0 +1,1049 @@
+date,title,content,link,symbols,tags,sentiment.polarity,sentiment.neg,sentiment.neu,sentiment.pos,finbert_sentiment,finbert_positive,finbert_negative,finbert_neutral,sentiment_score,symbol_crowding_score,title_mention_score,content_density_score,cosine_similarity_score,normalized_cosine_score,recency_score,relevance_score
+2026-05-08T20:52:18+00:00,PPL Corporation Q1 2026 Earnings Call Summary,"PPL Corporation Q1 2026 Earnings Call Summary - Moby
+
+Strategic Performance and Operational Context
+
+Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.
+
+Delivered strong first-quarter results driven by higher base rate recovery in Kentucky and increased transmission revenues from capital investments in Pennsylvania. Achieved a constructive settlement in the Pennsylvania rate case, maintaining delivery rates among the lowest in the state while securing a two-year stay-out period. Capitalized on significant data center demand in Pennsylvania, with projects in advanced planning stages increasing 12% to 28.3 GW, including 10 GW with signed service agreements. Expanded the Kentucky development pipeline to 12.9 GW of potential load, driven by 13 new data center projects and significant manufacturing investments from Toyota and Global Laser Enrichment. Advanced the Blackstone joint venture by executing multiple gas turbine reservation agreements and submitting generation projects into the PJM interconnection queue. Prioritized customer affordability through disciplined cost management, keeping O&M increases 25% below inflation over the last decade in Pennsylvania. Strengthened the Rhode Island portfolio through approval of $330 million in infrastructure investments and top-quartile reliability performance during historic winter storms.
+
+Strategic Outlook and Growth Assumptions
+
+Reaffirmed 2026 ongoing earnings guidance of $1.90 to $1.98 per share and long-term EPS growth target of 6% to 8% through 2029. Projected $23 billion in capital investment through 2029, supporting an average annual rate base growth of 10.3%, excluding potential Blackstone JV contributions. Anticipates a potential new CPCN filing in Kentucky as early as late 2026 to address probability-weighted load growth that has nearly doubled to 3.5 GW. Expects to announce meaningful commercial arrangements or Energy Supply Services Agreements (ESSAs) within the Blackstone joint venture before the end of 2026. Assumes a phased approach to nuclear development in Kentucky, utilizing a state grant program that provides $25 million per site for early site permitting of small modular reactors.
+
+Regulatory Developments and Risk Factors
+
+Implemented a new large load customer rate class in Pennsylvania with 10-year load requirements and financial commitments to protect existing residential ratepayers. Recorded a $0.03 per share impact from special items, primarily driven by an ISO New England transmission ROE reduction and system integration impacts, which were partially offset by the regulatory asset treatment of IT transformation costs in Kentucky. Proposed a 'hold harmless' commitment in Rhode Island to provide bill credits starting in 2027, offsetting the impact of the pending base rate case. Secured reconsideration of the Kentucky base rate case to address specific cost recovery and return determinations modified by the commission.
+
+Story Continues
+
+Q&A Session Highlights
+
+Timeline for Blackstone JV commercial agreements and ESSAs
+
+One stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here.
+
+Management expressed high confidence in announcing meaningful contracts this year, noting that hyperscalers have shifted focus from grid connection to securing dedicated generation. The JV is currently executing turbine reservations and has secured land for multiple generation projects to remain competitive in the PJM queue.
+
+Incremental capital upside from Pennsylvania data center growth
+
+The current 28 GW backlog represents at least $500 million in potential transmission investment upside beyond the existing $1.3 billion incremental plan, though some of this investment would extend beyond the current 2029 plan period. Management highlighted a competitive advantage in connection costs, spending less than $150 million per gigawatt compared to some peers exceeding $1 billion.
+
+Impact of PJM's proposed backstop auction and market design
+
+PPL supports the focus on bilateral contracting but emphasized that any backstop auction must ensure costs are borne by large loads rather than existing customers. The company is prepared to seek state-level protections or contractual safeguards to prevent risk shifting to the regulated utility's rate base.
+
+Future generation resource needs in Kentucky
+
+The probability-weighted load forecast has increased from 1.8 GW to 3.5 GW, making a new CPCN filing likely by the end of the year. Initial resource additions would likely focus on batteries for quick deployment, followed by the 266 MW pumped storage project and potentially additional gas generation.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/ppl-corporation-q1-2026-earnings-205218377.html,"['NVDA.US', 'PPL.US', 'PPLC.US', 'TM.US']","['CAPITAL-INVESTMENT', 'EARNINGS', 'ENERGY', 'GUIDANCE', 'RATE-CASE']",0.994,0.01,0.869,0.121,positive,0.947227418422699,0.013372602872550488,0.03939998522400856,0.9338548155501485,0.25,0.0,0.022771318,0.32936466,0.36234528,1.0,0.26105628069490194
+2026-05-08T20:10:00+00:00,What Toyota’s Earnings Say About Tesla Stock,"Toyota Motor stock was falling after earnings, but Tesla, which isn’t really a car company anymore, is rising. Toyota reported fiscal year 2026 earnings and provided an outlook for fiscal year 2027. Tesla stock didn’t seem to be affected, but Toyota investors reacted with caution.
+
+Continue Reading",https://finance.yahoo.com/m/d830c5f6-7b0a-3117-b630-c65e4d8fd750/what-toyota%E2%80%99s-earnings-say.html,"['1TSLA.MI', '7203.US', 'DJI.INDX', 'GSPC.INDX', 'TL0.F', 'TL01.F', 'TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US', 'TSLA.MX', 'TSLA.US', 'TSLA34.SA']","['AUTOMOTIVE', 'EARNINGS', 'GUIDANCE']",-0.296,0.068,0.932,0.0,negative,0.07422804087400436,0.5312188267707825,0.39455312490463257,-0.4569907858967781,0.09090909090909091,1.0,1.0,0.5170295,0.7232279,0.9970954836604187,0.7032438006303248
+2026-05-08T15:20:20+00:00,Toyota operating profits drop 21.5% as US tariffs take Y1.38tn toll,"Toyota Motor reported a 21.5% decline in operating income for FY26 as US tariffs, higher costs and foreign exchange headwinds pressured profitability despite resilient vehicle sales and pricing.
+
+The Japanese automaker posted operating income of Y3.76tn ($39.81bn) for the fiscal year ended March 2026, with a Y1.38tn tariff impact outweighing benefits from higher vehicle sales volumes, pricing revisions and growth in value chain revenues.
+
+Full-year sales revenues increased 5.5% year-on-year to Y50.68tn, while net income attributable to Toyota fell 19.2% to Y3.84tn.
+
+Total consolidated vehicle sales rose 2.5% to 9.595 million units during the year. Toyota and Lexus vehicle sales reached 10.477 million units, while total retail vehicle sales increased to 11.283 million units.
+
+Electrified vehicle sales exceeded five million units for the first time.
+
+Hybrid electric vehicle sales increased 4.4% to 4.62 million units, while plug-in hybrid sales rose 8.6% to 175,000 units and battery electric vehicle sales jumped 68.4% to 243,000 units.
+
+Regionally, Japan remained Toyota’s largest profit contributor, although earnings were affected by currency movements and higher operating expenses.
+
+North America recorded a sharp decline in profit due to tariff costs, while Europe and Asia remained profitable. Other markets recorded earnings growth supported by pricing revisions.
+
+In China, operating income from consolidated subsidiaries rose to Y197.5bn, while equity-method profit from associates and joint ventures totalled Y108.2bn.
+
+For FY2027, Toyota forecast operating income of Y3tn, representing a further decline of Y766.2bn from FY26 levels.
+
+The company said it was unlikely to fully absorb newly added impacts, including Middle East-related factors, and identified a Y400bn Middle East impact within supplier support and material price pressures.
+
+It also flagged a Y270bn Middle East impact within marketing and related activities.
+
+Toyota projected sales revenues of Y51.0tn and net income of Y3tn for the year ahead.
+
+Consolidated vehicle sales are expected to remain broadly unchanged at 9.60 million units. Toyota and Lexus vehicle sales are forecast at 10.5 million units, while total retail vehicle sales are projected at 11.18 million units.
+
+Toyota expects total electrified vehicle sales to reach about six million units in FY2027.
+
+On strategy, the company said it would focus on business structure reform through strengthening earning power in its core automotive operations and accelerating its transition into a mobility company.
+
+Toyota also said it plans to maximise existing manufacturing capacity through its AREA35 initiative, expand hybrid production capacity, reorganise production models and increase procurement localisation.
+
+Story Continues
+
+""Toyota operating profits drop 21.5% as US tariffs take Y1.38tn toll"" was originally created and published by Just Auto, a GlobalData owned brand.
+
+The information on this site has been included in good faith for general informational purposes only. It is not intended to amount to advice on which you should rely, and we give no representation, warranty or guarantee, whether express or implied as to its accuracy or completeness. You must obtain professional or specialist advice before taking, or refraining from, any action on the basis of the content on our site.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/toyota-operating-profits-drop-21-152020806.html,['TM.US'],"['AUTOMOTIVE', 'CURRENCY', 'EARNINGS', 'EARNINGS GROWTH', 'NET INCOME', 'OPERATING INCOME', 'TARIFFS']",0.991,0.019,0.87,0.111,negative,0.09686551243066788,0.8867048025131226,0.016429666429758072,-0.7898392900824547,1.0,1.0,0.317139,0.45329708,0.6006694,0.9774310218837725,0.6589090980842398
+2026-05-08T12:53:03+00:00,"Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Employment Data","The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.6% and the actively trad
+
+PREMIUM
+
+Upgrade to read this MT Newswires article and get so much more.
+
+A Silver or Gold subscription plan is required to access premium news articles.
+
+Upgrade
+
+Already have a subscription? Sign in",https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-125303923.html,"['BTC.CC', 'DJI.INDX', 'EXI.US', 'FER.US', 'GSPC.INDX', 'IGM.US', 'IGV.US', 'IVV.US', 'IWM.US', 'IXIC.INDX', 'IYH.US', 'QQQ.US', 'SPY.US', 'STNG.US', 'TEM.US', 'TM.US', 'UMC.US', 'VHT.US', 'VIS.US', 'XLI.US', 'XLP.US', 'XLV.US', 'XLY.US']",['ETF-CRYPTO'],0.681,0.0,0.894,0.106,neutral,0.37129971385002136,0.012812893837690353,0.6158874034881592,0.358486820012331,0.043478260869565216,0.0,0.0,0.28654525,0.28000286,0.9675816787633517,0.177628448647487
+2026-05-08T12:27:00+00:00,What Toyota’s Earnings Mean for Tesla,"Toyota Motor stock was falling after earnings, but Tesla isn’t really a car company anymore—and its shares are rising. Toyota Motor reported fiscal year 2026 earnings and provided an outlook for fiscal year 2027. Tesla stock didn’t seem to be affected, but Toyota investors reacted with caution.
+
+Continue Reading",https://finance.yahoo.com/m/d830c5f6-7b0a-3117-b630-c65e4d8fd750/what-toyota%E2%80%99s-earnings-mean.html,"['1TSLA.MI', '7203.US', 'DJI.INDX', 'GSPC.INDX', 'TL0.F', 'TL01.F', 'TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US', 'TSLA.MX', 'TSLA.US', 'TSLA34.SA']","['AUTOMOTIVE', 'EARNINGS', 'GUIDANCE']",0.153,0.063,0.882,0.055,negative,0.0802384614944458,0.5751124024391174,0.34464913606643677,-0.49487394094467163,0.09090909090909091,1.0,0.9591837,0.4945096,0.67992175,0.9658499838898325,0.6750070002059929
+2026-05-08T12:00:00+00:00,Carvana and Jimmie Johnson Unveil Paint Scheme for Historic Street Race at Inaugural NASCAR San Diego Weekend,"Carvana, Jimmie Johnson unveil San Diego-inspired No. 84 Toyota paint scheme.
+
+Seven-time NASCAR Champion returns to his hometown roots with a custom design for the No. 84 Carvana Toyota
+
+PHOENIX, May 08, 2026--(BUSINESS WIRE)--Carvana (NYSE: CVNA), the industry pioneer for buying and selling cars online, unveiled a custom paint scheme for seven-time NASCAR Cup Series champion and LEGACY MOTOR CLUB owner, Jimmie Johnson, ahead of the inaugural NASCAR San Diego Weekend being held at Naval Base Coronado on June 19–21, 2026.
+
+For Johnson, a native of El Cajon, California, the San Diego race feels more like a homecoming. The paint scheme was designed as a visual autobiography with every detail of the livery drawing from a different chapter of his life, from skating at Mission Beach to seven NASCAR championships.
+
+The car opens with jets and contrails streaking past the Carvana bug — a nod to the fighter jets Johnson watched ripping across the San Diego sky as a kid — with the names of his wife and daughters tucked inside the trails.
+
+A Southern California sunset palette runs the length of the car, mimicking the iconic landscapes of the region. From there, the design moves through the places that shaped Jimmie: a replica of a motorcycle he raced at Barona Oaks, his home track and racing stomping grounds; a Ferris wheel that calls back to the Del Mar fairgrounds; palm trees and skateboarding for his days spent at Mission Beach; and his off-road truck with the signature orange lightning bolt that marked his early Chevrolet stadium and desert truck days.
+
+Ghosted into the upper portion of the car is his high school alma mater, Granite Hills, alongside the San Diego skyline. Closer to the front, the iconic neon yellow he ran throughout his Hendrick Motorsports career makes a full-force return — a homage to his time in the No. 48 and the seven championships he won there.
+
+The car also honors Johnson's legacy of giving back with a ""Foundation Lane"" street sign — a tribute to the road in Elkhorn named after the Jimmie Johnson Foundation, where he and his team built an entire block of homes through Habitat for Humanity.
+
+""Carvana and their design team have outdone themselves with this scheme; they've told my life story with this livery,"" said Jimmie Johnson, seven-time NASCAR Cup Series champion and owner of LEGACY MOTOR CLUB. ""Every detail captures a chapter of my life, my family, and my journey through NASCAR. Carvana has been an incredible partner, and I can't wait to bring this car home to San Diego.""
+
+""We wanted this car to reflect everything that makes San Diego so special to Jimmie,"" said Ryan Keeton, Carvana co-founder and Chief Brand Officer. ""From the jets over the coast to Foundation Lane, every element of this design carries real meaning. We're proud to be part of this homecoming and are so excited to see Jimmie out on the track in his hometown.""
+
+Story Continues
+
+The Anduril 250 Race the Base NASCAR Cup Series street race will be held on the final day of the NASCAR San Diego Weekend June 19–21, 2026. For exclusive content, behind-the-scenes footage, and Jimmie's first-person walkthrough of the design, follow @CarvanaRacing on Instagram and X.
+
+About Carvana
+
+Carvana’s mission is to change the way people buy and sell cars. Since launching in 2013, more than 4 million customers have chosen Carvana’s leading automotive e-commerce experience to shop, sell, finance, and trade in vehicles entirely online, with the convenience of delivery or local pickup as soon as the same day. Carvana’s unique offering is powered by its passionate team, differentiated national infrastructure, and purpose-built technology.
+
+For more information, please visit Carvana.com.
+
+About LEGACY MOTOR CLUB
+
+LEGACY MOTOR CLUB (LEGACY MC) is a premier auto racing organization owned by seven-time NASCAR Cup Series champion and 2024 NASCAR Hall of Fame inductee, Jimmie Johnson. Drawing from a rich tradition of success, LEGACY MC is dedicated to pushing the boundaries of motorsport and setting new standards of excellence. The CLUB competes under the Toyota Gazoo Racing banner in the NASCAR Cup Series with the No. 43 Toyota Camry XSE piloted by Erik Jones and the No. 42 Toyota Camry XSE driven by John Hunter Nemechek. Johnson also races on a limited basis in the No. 84 Toyota Camry XSE. With NASCAR legend and Hall of Famer Richard Petty, ""The King"", serving as CLUB Ambassador, LEGACY MC blends timeless racing traditions with a new forward-thinking vision. As an inclusive community for motorsport enthusiasts, LEGACY MC honors both its storied past and the promising future of its members, always striving for victory and championship glory at the pinnacle of NASCAR competition.
+
+To keep up-to-date with the latest news, information, and exclusive content, follow LEGACY MOTOR CLUB on Facebook, X, Instagram and at www.LEGACYMOTORCLUB.com.
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20260508369457/en/
+
+Contacts
+
+MEDIA CONTACT: 
+Carvana Communications
+press@carvana.com
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/carvana-jimmie-johnson-unveil-paint-120000370.html,"['CV0.F', 'CVNA.US', 'TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US']","['AUTO-RACING', 'NASCAR', 'SPONSORSHIP']",0.996,0.023,0.881,0.096,neutral,0.052442703396081924,0.026423322036862373,0.9211339950561523,0.02601938135921955,0.125,0.0,0.11547912,0.14093918,0.0,0.9640584077610731,0.16807353246881723
+2026-05-08T11:51:00+00:00,Tesla Stock Is Up. What Toyota’s Earnings Mean for the EV Maker.,"FEATURE There was car news on Friday, just not from Tesla Toyota Motor reported fiscal year 2026 earnings and provided an outlook for fiscal year 2027. It’s ho-hum. Tesla stock didn’t seem to be affected, but Toyota investors reacted with caution.
+
+Continue Reading",https://finance.yahoo.com/m/d830c5f6-7b0a-3117-b630-c65e4d8fd750/tesla-stock-is-up.-what.html,"['7203.US', 'DJI.INDX', 'GSPC.INDX', 'TM.US', 'TOYOF.US', 'TSLA.US']",['EARNINGS'],-0.077,0.03,0.97,0.0,neutral,0.059516847133636475,0.057813610881567,0.8826695680618286,0.0017032362520694733,0.16666666666666666,1.0,0.72868216,0.44272888,0.5803465,0.9634619545191345,0.5881382494295618
+2026-05-08T11:28:36+00:00,Toyota FY2026 earnings miss as U.S. tariffs slash profits,"Annual net income at Toyota declined 19% after U.S. tariffs stripped roughly ¥1.38 trillion ($9 billion) from operating income, with the company cautioning that conditions remain difficult going forward.
+
+For the fiscal year that closed March 31, 2026, net income attributable to Toyota came in at ¥3.85 trillion, compared with ¥4.76 trillion in the same period a year prior. Operating income declined 21.5% to ¥3.77 trillion, with profit margins shrinking to 7.4% from 10.0% the prior year. Revenue climbed 5.5% to ¥50.68 trillion, up from ¥48 trillion the prior year.
+
+The tariff impact was the single largest drag on operating income, according to Toyota's earnings release. Unfavorable currency exchange rates contributed an additional ¥2.03 trillion decline in expenses and earnings. North America swung to an operating loss of ¥192.5 billion for the full year, down from a profit of ¥108.8 billion in the prior period.
+
+Operating profit for the fourth quarter came to ¥569.4 billion, a 49% decline from the same quarter a year earlier. That fell well short of the ¥813.28 billion analysts had forecast, according to CNBC. Revenue for the quarter came in at ¥12.6 trillion, in line with estimates.
+
+""We have recently seen a significant rise in our breakeven volume due to a combination of increases in investments in human resources and future-oriented investments and the impact of U.S. tariffs,"" the company said in a statement.
+
+Global vehicle sales reached 9.595 million units during the fiscal year, a 2.5% increase over the previous year's total of roughly 9.4 million. North America was the strongest-performing region, with sales climbing 8.5% to 2.934 million units.
+
+Looking to the fiscal year through March 2027, Toyota projected both operating income and net income at ¥3 trillion, representing a reduction of more than 20% in operating income relative to the prior year. An additional ¥670 billion hit to operating income from U.S. tariffs is expected in the coming fiscal year. The company also pointed to the closure of the Strait of Hormuz, disruptions to Middle East vehicle sales, and broader supply-chain pressures stemming from the regional conflict as burdens it described as difficult to offset.
+
+Citing heightened currency volatility, Toyota shifted to a six-month averaging period for its foreign exchange assumptions instead of the usual monthly calculation, arriving at a rate of 150 yen per U.S. dollar for the fiscal year.
+
+Shares in Tokyo declined approximately 2.2%.
+
+Toyota committed $1 billion earlier this year to a pair of U.S. manufacturing plants — $800 million to its Georgetown, Kentucky facility and $200 million to a plant in Princeton, Indiana — as part of a broader pledge to invest up to $10 billion in U.S. plants over five years. The Kentucky funds are earmarked to prepare the plant for a second battery electric vehicle and to expand production of the Camry sedan and RAV4 crossover.
+
+To manage expenses, Toyota outlined plans to restructure its model lineup, source more parts locally, and eliminate inefficiencies in production. Research and development expenses hit a record high in the fiscal year, Toyota said.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/toyota-fy2026-earnings-miss-u-112836495.html,['TM.US'],"['AUTOMOTIVE', 'CURRENCY-VOLATILITY', 'EARNINGS', 'EARNINGS RELEASE', 'FOURTH QUARTER', 'NET INCOME', 'OPERATING INCOME', 'SUPPLY-CHAIN', 'TARIFFS']",0.494,0.036,0.919,0.045,negative,0.022883690893650055,0.9661766886711121,0.010939620435237885,-0.943292997777462,1.0,1.0,0.2472058,0.41406715,0.5252296,0.961979050363587,0.614027326198964
+2026-05-08T08:51:54+00:00,Toyota sees 20% drop in annual profit as Iran war weighs,"STORY: Toyota said quarterly profit halved in an earnings report on Friday, and forecast a decline of 20% over the year to come. The world's top automaker reported an operating profit of $3.6 billion for the three months to the end of March, compared with around $7 billion a year earlier.For the year just started, it expects an operating profit of just over $19 billion, far below analyst forecasts. Toyota said the Middle East crisis alone would cost it over $4 billion in the current financial year.It had said last week that the crisis was disrupting sales and shipments in the region. The results highlight the lopsided impact of the conflict.While higher energy prices drove more customers to buy fuel-efficient cars, that wasn't enough to offset rising costs and supply-chain problems. Toyota shares fell after the report and ended down around 2.2%, posting their lowest close since mid-October.
+
+View Comments",https://finance.yahoo.com/video/toyota-sees-20-drop-annual-084644652.html,"['TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US']","['AUTO-INDUSTRY', 'EARNINGS', 'EARNINGS REPORT', 'GUIDANCE']",-0.077,0.092,0.806,0.102,negative,0.00824392307549715,0.9760945439338684,0.01566154882311821,-0.9678506208583713,0.16666666666666666,1.0,0.31333333,0.46942985,0.63169295,0.9516689761955471,0.454423467164029
+2026-05-08T07:11:18+00:00,"Trump's tariffs hit Toyota profit, though its global sales grew","TOKYO (AP) — Toyota's profit fell 19% in the last fiscal year from a year earlier, as President Donald Trump’s tariffs bit into earnings at Japan’s top automaker.
+
+Toyota Motor Corp. reported a 3.85 trillion yen ($25 billion) profit for the fiscal year ended in March, down from nearly 4.8 trillion yen the previous fiscal year.
+
+The maker of the Camry sedan, Prius hybrid and Lexus luxury models said Friday that Trump’s tariff policies erased some 1.4 trillion yen ($9 billion) from its annual operating income.
+
+Unfavorable trends in exchange rates also hit its profit margins, said Toyota, which is headquartered in Toyota city, central Japan.
+
+Still it said it had held up relatively well, selling nearly 9.6 million vehicles around the world, up from about 9.4 million the year before.
+
+The value of those sales rose 5.5% to 50.7 trillion yen ($323 billion) from 48 trillion yen the year before.
+
+On a quarterly basis, Toyota’s profit jumped 23% to 817 billion yen ($5.2 billion) from 664 billion yen. January-March sales rose nearly 2% to 12.6 trillion yen ($80 billion).
+
+Toyota expects to sell 9.6 million vehicles in the current fiscal year through March 2027. It’s keeping a relatively modest forecast for fiscal year profit at 3 trillion yen ($19 billion), citing potential impact from developments in the Middle East.
+
+Toyota said it expects supply-chain disruptions due to the closure of the Strait of Hormuz, which is effectively blocked because of the Iran war. Toyota’s vehicle sales in the Middle East also have dropped.
+
+Japan imports almost all its oil, much of it from the Middle East. The war has boosted the price of oil and many other materials. Using longer shipping routes to skirt the route through the strait is adding to costs for many companies.
+
+Toyota reiterated its vision of transforming into “a mobility company,” meaning it hopes to add boats and planes to its lineup. It also promised to continue innovating as it expands its reach outside the auto industry to other types of gadgetry like robotic arms that restack store shelves and devices to transport medical equipment.
+
+The company said it would grow leaner, reorganizing its models and increasing local procurement, while cutting costs.
+
+Toyota stocks fell 2.2% after its earnings were announced.
+
+___
+
+Yuri Kageyama is on Threads: https://www.threads.com/@yurikageyama
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/trumps-tariffs-hit-toyota-profit-071118163.html,"['TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US']","['AUTOMOTIVE', 'EARNINGS', 'OIL', 'OPERATING INCOME', 'SUPPLY-CHAIN', 'TARIFFS']",0.962,0.033,0.873,0.093,negative,0.01889563910663128,0.9662363529205322,0.014868042431771755,-0.947340713813901,0.16666666666666666,1.0,0.4058722,0.4619652,0.6173383,0.9451083163099663,0.4825673418211657
+2026-05-08T06:11:37+00:00,"Toyota sees profit drop as US tariffs, Mideast bite","Japanese auto giant Toyota forecast a 22-percent fall in net profit in the year to next March (Kazuhiro NOGI)·Kazuhiro NOGI/AFP/AFP
+
+Japanese auto giant Toyota forecast Friday a 22-percent fall in net profit in the year to next March, as it struggles with the effects of US tariffs and the Middle East war.
+
+The world's largest automaker by vehicle sales made the announcement as it revealed net profit fell 19.2 percent to 3.8 trillion yen ($25 billion) in the 2025-26 fiscal year.
+
+Revenues last fiscal year rose 5.5 percent to 50.7 trillion yen, and for the current period it projected them to hit 51.0 trillion yen.
+
+""Despite the impact of US tariffs... we secured profits consistent with our guidance due to increased vehicle sales volumes and the effects of price revisions underpinned by strong product competitiveness, as well as steadily accumulated improvement efforts such as expanded value chain revenues,"" Toyota said.
+
+Japan agreed to invest $550 billion in the United States by 2029 in return for lowering threatened tariffs of 25 percent to 15 percent.
+
+The promises remain valid even after the US Supreme Court struck down US President Donald Trump's global tariffs in February and he imposed a new blanket 10 percent duty.
+
+The levies remain painful for firms like Toyota, even though it and other Japanese automakers have substantial manufacturing capacities in the United States.
+
+In North America Toyota posted an operating loss last year, Friday's results showed.
+
+""As CFO, I take very seriously the fact that this fiscal year will mark a third consecutive year of flat earnings outlook,"" chief executive Yoichi Miyazaki said.
+
+""The main reasons for this are the slow pace of efforts to reshape our business structure from a medium- to long-term perspective, as well as to sow the seeds for future growth,"" he said.
+
+""We have offset soaring material costs and comprehensive investments for future growth through efforts such as cost-reduction in depreciation, enhanced profitability across the value chain, and improvements in the model and volume mix,"" Miyazaki said.
+
+""On the other hand, we have not yet been able to fully counteract the impact of major shifts in the business environment, such as US tariffs and developments in the Middle East.""
+
+Toyota said the Middle East impact for the current year will amount to 670 billion yen.
+
+kh-stu/fox
+
+View Comments",https://finance.yahoo.com/economy/policy/articles/toyota-sees-profit-drop-us-061137423.html,"['TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US']","['AUTOMOTIVE', 'EARNINGS', 'JAPANESE-COMPANIES', 'TARIFFS', 'US-ECONOMY']",0.988,0.051,0.805,0.144,negative,0.16470107436180115,0.8140825033187866,0.021216468885540962,-0.6493814289569855,0.16666666666666666,1.0,0.24352331,0.44742373,0.5893748,0.9412374453404687,0.41836726647276823
+2026-05-08T06:07:29+00:00,Toyota warns of $4.2bn hit from Middle East war,"Toyota has said the Middle East conflict will cost it ¥670bn ($4.2bn) in higher component prices and lost sales, becoming the latest
+
+PREMIUM
+
+Upgrade to read this Financial Times article and get so much more.
+
+A Silver or Gold subscription plan is required to access premium news articles.
+
+Upgrade
+
+Already have a subscription? Sign in",https://finance.yahoo.com/markets/stocks/articles/toyota-warns-4-2bn-hit-060729172.html,"['TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US']",[],-0.557,0.083,0.917,0.0,neutral,0.06010357663035393,0.0797777846455574,0.8601186275482178,-0.019674208015203476,0.16666666666666666,1.0,0.28484848,0.3712687,0.44292742,0.9409699582430254,0.3961924860216432
+2026-05-07T21:50:02+00:00,Toyota Motor Corporation (TM) Dips More Than Broader Market: What You Should Know,"In the latest trading session, Toyota Motor Corporation (TM) closed at $189.00, marking a -3.1% move from the previous day. This move lagged the S&P 500's daily loss of 0.38%. Meanwhile, the Dow lost 0.63%, and the Nasdaq, a tech-heavy index, lost 0.13%.
+
+The company's stock has dropped by 9.28% in the past month, falling short of the Auto-Tires-Trucks sector's gain of 9.14% and the S&P 500's gain of 11.41%.
+
+The investment community will be paying close attention to the earnings performance of Toyota Motor Corporation in its upcoming release.
+
+For the full year, the Zacks Consensus Estimates are projecting earnings of $18.53 per share and revenue of $309.21 billion, which would represent changes of -21.52% and -1.93%, respectively, from the prior year.
+
+Any recent changes to analyst estimates for Toyota Motor Corporation should also be noted by investors. These revisions help to show the ever-changing nature of near-term business trends. As a result, upbeat changes in estimates indicate analysts' favorable outlook on the business health and profitability.
+
+Empirical research indicates that these revisions in estimates have a direct correlation with impending stock price performance. Investors can capitalize on this by using the Zacks Rank. This model considers these estimate changes and provides a simple, actionable rating system.
+
+The Zacks Rank system, stretching from #1 (Strong Buy) to #5 (Strong Sell), has a noteworthy track record of outperforming, validated by third-party audits, with stocks rated #1 producing an average annual return of +25% since the year 1988. Over the past month, there's been a 0.75% fall in the Zacks Consensus EPS estimate. Toyota Motor Corporation presently features a Zacks Rank of #3 (Hold).
+
+Looking at valuation, Toyota Motor Corporation is presently trading at a Forward P/E ratio of 8.67. This indicates a discount in contrast to its industry's Forward P/E of 10.05.
+
+The Automotive - Foreign industry is part of the Auto-Tires-Trucks sector. This industry currently has a Zacks Industry Rank of 198, which puts it in the bottom 19% of all 250+ industries.
+
+The Zacks Industry Rank assesses the strength of our separate industry groups by calculating the average Zacks Rank of the individual stocks contained within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.
+
+Be sure to use Zacks.com to monitor all these stock-influencing metrics, and more, throughout the forthcoming trading sessions.
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+
+Story Continues
+
+Toyota Motor Corporation (TM) : Free Stock Analysis Report
+
+This article originally published on Zacks Investment Research (zacks.com).
+
+Zacks Investment Research
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/toyota-motor-corporation-tm-dips-215002489.html,"['DJI.INDX', 'GSPC.INDX', 'IXIC.INDX', 'TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US']","['AUTO-TIRES-TRUCKS', 'EARNINGS', 'PRICE-PERFORMANCE']",0.977,0.023,0.896,0.081,negative,0.025116538628935814,0.9256613850593567,0.04922216385602951,-0.9005448464304209,0.1111111111111111,1.0,0.27913883,0.65519345,0.9889194,0.9093265429464719,0.5136388680536986
+2026-05-07T09:00:38+00:00,"Toyota, Honda report weaker US sales in April, YTD","Toyota and Honda, the two best-selling Japanese auto brands in the US, reported weaker sales in the US market in April, in line with overall sluggish market conditions in the country amid rising fuel prices and weakening consumer confidence. In the first four months of the year, the two automakers also reported weaker sales.
+
+Toyota reported a 4.6% decline in US sales to 222,378 vehicles in April, compared with 233,045 units a year earlier, including sales under its upmarket Lexus brand, resulting in a 1.4% decline to 791,798 units in the first four months of the year from 803,314 units in the same period last year. The decline last month was attributed to the new model changeover for the RAV4, with sales in May expected to rebound after production of the new model is ramped up, and also due to weak sales at the company’s upmarket Lexus division.
+
+Honda reported a slight decline in US sales to 137,405 units in April, from 137,656 units in the same month a year earlier. In the first four months of the year, the company’s US sales declined by 3.1% to 474,236 units, from 489,233 a year earlier, with “truck” sales – comprising mainly SUVs, MPVs, and pickup trucks - declining by almost 8% to 327,569 units, while sedan sales increased by 10% to 146,667 units.
+
+Sales under the Honda brand fell by 3.2% to 430,049 units in the four-month period, while sales under the Acura brand fell by 1.3% to 44,187 units. The CR-V SUV was by far the company’s best-selling model with 142,114 deliveries year-to-date, followed by the Civic sedan with 82,640 units and the Accord sedan with 53,388 units.
+
+""Toyota, Honda report weaker US sales in April, YTD"" was originally created and published by Just Auto, a GlobalData owned brand.
+
+The information on this site has been included in good faith for general informational purposes only. It is not intended to amount to advice on which you should rely, and we give no representation, warranty or guarantee, whether express or implied as to its accuracy or completeness. You must obtain professional or specialist advice before taking, or refraining from, any action on the basis of the content on our site.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/toyota-honda-report-weaker-us-090038539.html,"['HMC.US', 'TM.US']","['AUTO-SALES', 'CONSUMER-CONFIDENCE', 'JAPANESE-AUTOMAKERS', 'US-MARKET']",-0.572,0.049,0.912,0.039,negative,0.00862510222941637,0.9708113670349121,0.020563563331961632,-0.9621862648054957,0.5,1.0,0.12668464,0.35824966,0.41789162,0.8624669062761071,0.4100592185821891
+2026-05-06T20:21:00+00:00,"Tesla Just Recalled Nearly 219,000 Cars. That’s Nothing Compared to Ford and Toyota.","FEATURE Tesla stock rose Wednesday despit ethe electric-vehicle maker recalling 218,868 cars to correct a rearview camera issue. That is the way Tesla stock should react to recall news. Tesla shares gained 2.
+
+Continue Reading",https://finance.yahoo.com/m/4479760a-d581-3cd5-b04b-01bc7b6219fe/tesla-just-recalled-nearly.html,"['1TSLA.MI', 'F.MX', 'F.US', 'FDMO34.SA', 'FMC1.DU', 'FMC1.F', 'FMC1.HM', 'FMC1.MU', 'GSPC.INDX', 'TL0.F', 'TL01.F', 'TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US', 'TSLA.MX', 'TSLA.US', 'TSLA34.SA']","['AUTOMOTIVE', 'RECALL', 'TECH']",0.586,0.0,0.87,0.13,positive,0.6700798869132996,0.13852499425411224,0.191395103931427,0.5315548926591873,0.08333333333333333,1.0,0.0,0.18283731,0.080570795,0.8185716207074444,0.17283319406457068
+2026-05-06T20:19:49+00:00,Toyota Hydrogen Trucks And EV Push Shape Outlook For Undervalued Shares,"Track your investments for FREE with Simply Wall St, the portfolio command center trusted by over 7 million individual investors worldwide.
+
+Toyota Motor expanded its hydrogen trucking partnership with Hyroad Energy to deploy 40 hydrogen fuel cell trucks in Southern California, supported by proprietary refueling infrastructure. The company launched a new all electric family marketing campaign to spotlight its battery electric lineup. Toyota announced leadership changes aimed at tightening oversight of sustainability, legal, and compliance functions.
+
+Toyota Motor (TSE:7203), trading at around ¥3,000.0, is moving on several fronts as it refines its long term electrification approach. The stock has seen a 14.2% gain over the past year and a 69.2% return over three years, while the year to date performance shows an 11.7% decline. These mixed returns give useful context for the latest corporate and product decisions.
+
+For readers tracking the company’s long term transition plans, the expanded hydrogen truck rollout, the all electric marketing push, and the refreshed governance structure point to a broad approach across technologies and oversight. The combination of commercial hydrogen deployments and consumer facing EV branding may influence how investors think about Toyota’s role in future vehicle platforms and related infrastructure.
+
+Stay updated on the most important news stories for Toyota Motor by adding it to your watchlist or portfolio. Alternatively, explore our Community to discover new perspectives on Toyota Motor.TSE:7203 Earnings & Revenue Growth as at May 2026
+
+4 things going right for Toyota Motor that this headline doesn't cover.
+
+Quick Assessment
+
+✅ Price vs Analyst Target: At ¥3,000, the stock trades about 30.9% below the ¥3,926 analyst price target. ❌ Simply Wall St Valuation: Shares are described as trading 16.9% above estimated fair value. ❌ Recent Momentum: The 30 day return is a 7.6% decline.
+
+There is only one way to know the right time to buy, sell or hold Toyota Motor. Head to Simply Wall St's company report for the latest analysis of Toyota Motor's Fair Value.
+
+Key Considerations
+
+📊 The hydrogen trucking expansion and all electric campaign show capital and attention going into both commercial fuel cell and battery electric platforms at the same time. 📊 Watch how revenue, margins and capex trend against these projects, as well as whether sentiment around the ¥3,926 price target shifts after this news. ⚠️ One flagged major risk is that debt is not well covered by operating cash flow, which matters if these initiatives require sustained heavy investment.
+
+Dig Deeper
+
+For the full picture including more risks and rewards, check out the complete Toyota Motor analysis. Alternatively, you can check out the community page for Toyota Motor to see how other investors believe this latest news will impact the company's narrative.
+
+Story Continues
+
+This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+
+Companies discussed in this article include 7203.T.
+
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com
+
+View Comments",https://finance.yahoo.com/sectors/energy/articles/toyota-hydrogen-trucks-ev-push-201949242.html,"['7203.US', 'TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US']","['AUTOMOTIVE', 'ELECTRIC-VEHICLES', 'GOVERNANCE', 'HYDROGEN', 'PRICE TARGET', 'SUSTAINABILITY']",0.985,0.019,0.904,0.077,neutral,0.18065422773361206,0.19770291447639465,0.6216428875923157,-0.017048686742782593,0.14285714285714285,1.0,0.30075625,0.4231162,0.54263103,0.8185050150619243,0.4084872307891847
+2026-05-06T18:43:47+00:00,Ford Exits EVs As Toyota Move In,"Quick Read
+
+Toyota Is World’s Largest Car Company EV Market In The US Weak Ford Has Abandoned EV Sector The analyst who called NVIDIA in 2010 just named his top 10 stocks and Ford wasn't one of them. Get them here FREE.
+
+Ford (NYSE: F) left the EV business for dead earlier this year. It does appear it will enter again, on a small scale, next year. At the same time, Toyota (NYSE: TM), which sells about as many cars in the US as Ford does, is pressing to expand its EV fleet. Someone is making a mistake.
+
+According to the FT, “We think 2026 is going to be the starting point for Toyota’s full electric shift.” Masahiro Akita, an analyst at Bernstein, wrote. And then added, ‘Most global carmakers had “cancelled or wound back EV targets and booked large losses. On the other hand, Toyota, which was criticized as the biggest laggard in this area, is now ramping up their EV adoption.”’ The paper also noted that Toyota’s unit sales are a fraction of Tesla’s, and, as often pointed out, By the way, Toyota is the largest car company in the world by unit sales at 10 million. The only company that is close is VW, which has also struggled mightily with its EV plans.
+
+The analyst who called NVIDIA in 2010 just named his top 10 stocks and Ford wasn't one of them.Get them here FREE.
+
+What does Toyota see? First, its plans appear to be to develop a lineup across EVs, gas, plugins, and hydrogen. That means no base is left uncovered
+
+However, Toyota must be looking further into the future. Its EV decision comes just as anxiety about global oil supply surges. And, based on geopolitics, this may not change. The future may be one of $ 100-a-barrel oil.
+
+Toyota has to know it needs to do at least moderately well in China. It is the world’s largest EV market, but it is also the most crowded. There are dozens of EV companies there. Not all will last, but the battle for market share means discounting.
+
+The EU and UK are also promising markets. Over 90% of the new cars sold in Norway are EVs. The region is choking because most of its oil and gasoline are imported. While the US is the world’s largest producer of crude and largest exporter, Europe is oil-poor
+
+The problem Toyota cannot solve is the lack of EV sales in the world’s second-largest car market, which is the US. Tesla (NASDAQ: TSLA) is the only car company with substantial EV sales in America; Toyota’s path to EV success in this country will be extremely difficult.
+
+If EV sales in the US ever pick up, Toyota make have a footprint in a market Ford, and other legacy car companies have given up on,
+
+Story Continues
+
+The analyst who called NVIDIA in 2010 just named his top 10 AI stocks
+
+This analyst's 2025 picks are up 106% on average. He just named his top 10 stocks to buy in 2026. Get them here FREE.
+
+View Comments",https://finance.yahoo.com/sectors/technology/articles/ford-exits-evs-toyota-move-184347427.html,"['F.US', 'TM.US', 'TSLA.US']","['AUTOMOTIVE', 'EV-MARKET', 'OIL-PRICES']",-0.424,0.073,0.861,0.066,neutral,0.12189074605703354,0.22123530507087708,0.6568740010261536,-0.09934455901384354,0.3333333333333333,1.0,0.39623865,0.4385592,0.5723282,0.8131176662879488,0.4964106816295515
+2026-05-06T12:49:00+00:00,"Tesla Has Recalled 219,000 Cars This Year. How That Compares to Ford and Toyota.","Tesla stock rose early Wednesday as the electric-vehicle maker recalled 218,868 cars to correct a rearview camera issue. Tesla shares were up 0.2% at $390.26, while and futures were up 0.7% and 0.9%, respectively. Benchmark oil prices were down 8% at just over $101 per barrel in early trading.
+
+Continue Reading",https://finance.yahoo.com/m/4479760a-d581-3cd5-b04b-01bc7b6219fe/tesla-has-recalled-219%2C000.html,"['CL.COMM', 'DJI.INDX', 'F.US', 'FMC1.DU', 'FMC1.HM', 'FMC1.MU', 'GSPC.INDX', 'TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US', 'TSLA.US']","['AUTOMOTIVE', 'RECALL']",0.557,0.0,0.913,0.087,negative,0.05166971683502197,0.9297997951507568,0.018530508503317833,-0.8781300783157349,0.08333333333333333,1.0,0.0,0.2119187,0.13649479,0.7935204373674262,0.18430907345689007
+2026-05-06T12:30:00+00:00,"Joby Aviation, Inc. Q1 2026 Earnings Call Summary","Joby Aviation, Inc. Q1 2026 Earnings Call Summary - Moby
+
+Strategic Execution and Operational Maturity
+
+The selection for the White House-backed eIPP program provides a significant opportunity to participate in five applications covering 11 states, including New York, Texas, and Florida, as the company progresses toward FAA type certification. Performance is anchored by the maturity of the aircraft design, which allowed for the first-ever eVTOL flight between an international airport (JFK) and a downtown heliport. Manufacturing capacity is scaling rapidly to meet early market demand, with the composites team now producing 2.5x the volume of parts compared to the same period last year. Strategic collaboration with Toyota is embedding automotive-grade quality and efficiency into aviation production, utilizing practices like Gemba Walks and Obeya rooms to optimize the ramp. The acquisition of Blade infrastructure has provided immediate access to America's three busiest heliports, creating a turnkey foundation for urban air mobility operations. Operational maturity was validated by a successful audit with the FAA, which confirmed that design and safety requirements, test results, and development standards meet expectations for the final phase of certification.
+
+Pathway to Commercial Launch and Scaled Operations
+
+Management expects to sign eIPP agreements in Q3 of this year, with operations for both eVTOL aircraft and autonomous platforms targeted to begin in the back half of the year. The company is preparing for a multi-year manufacturing ramp, currently producing parts for its ninth conforming aircraft while aiming to build out fleets in New York, Florida, and Texas later this year. Revenue guidance for 2026 is set at $105 million to $115 million, supported by the seasonal ramp of Blade services and expanding infrastructure partnerships. Future airspace integration will be driven by a partnership with Air Space Intelligence (ASI) to demonstrate high-volume eVTOL operations within modernized air traffic control systems. Capital deployment strategy focuses on funding four parallel tracks: certification, manufacturing scale-up, global operations build-out, and Blade integration.
+
+Financial Position and Strategic Risks
+
+Maintained a strong liquidity position with approximately $2.5 billion in cash and investments, which includes $1.3 billion in net proceeds from Q1 capital raises. The $62 million purchase of the Ohio manufacturing facility was 50% financed to preserve cash, resulting in a net cash impact of $32 million for the quarter. Management flagged non-cash volatility in GAAP net loss due to a $33 million favorable change in the fair value of warrants and earn-out shares linked to stock price fluctuations. The transition of Didier from his leadership role to an advisory position in July marks a shift in the organizational structure to optimize velocity.
+
+Story Continues
+
+Q&A Session Highlights
+
+Incremental customer demand and potential for aircraft sales
+
+Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.
+
+Management noted a deep pool of potential aircraft sales opportunities in international markets like Saudi Arabia and Japan, which they can 'dial' based on strategic desire. The New York demonstrations have accelerated infrastructure conversations, as partners see the aircraft's ability to meet real-world mission requirements.
+
+Sequencing and prioritization of eIPP launch locations
+
+Launch sequencing is determined by a combination of infrastructure readiness and market demand, specifically targeting areas impacted by helicopter noise. New York is a priority due to existing infrastructure and a built-in customer base from the Blade acquisition.
+
+Timeline and requirements for FAA credit testing
+
+Full credit testing requires three parallel workstreams: component testing, Joby pilots completing test points, and FAA pilot training in simulators. The company is currently using five aircraft for TIA (Type Inspection Authorization) flight testing as they move through the manufacturing ramp.
+
+Mitigating manufacturing and supply chain bottlenecks
+
+Joby is addressing potential bottlenecks by adding a third shift to composite and automated fiber placement teams and training new technicians monthly. Early investment in a flight simulator partnership with CAE is intended to prevent delays in FAA pilot certification and training.
+
+One stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/joby-aviation-inc-q1-2026-123000786.html,"['JOBY.US', 'TM.US']","['AIR-MOBILITY', 'EARNINGS', 'EVTOL', 'FAA', 'INFRASTRUCTURE']",0.996,0.013,0.881,0.107,positive,0.8627917766571045,0.00842190533876419,0.12878632545471191,0.8543698713183403,0.5,0.0,0.023209877,0.23774675,0.18616255,0.7924843581351079,0.2589125294420365
+2026-05-06T11:30:00+00:00,"Tesla Recalls 219,000 Cars. Why the Stock Is Rising.","Tesla stock rose early Wednesday as the electric-vehicle maker recalled 218,868 cars to correct a rearview camera issue. Tesla shares were up 0.4% at $390.80, while and futures were up 0.8% and 0.9%, respectively. Benchmark oil prices were down 8% at just over $101 per barrel in early trading.
+
+Continue Reading",https://finance.yahoo.com/m/4479760a-d581-3cd5-b04b-01bc7b6219fe/tesla-recalls-219%2C000-cars..html,"['1TSLA.MI', 'CL.COMM', 'F.US', 'GSPC.INDX', 'TL0.F', 'TL01.F', 'TM.US', 'TOYOF.US', 'TSLA.MX', 'TSLA.US', 'TSLA34.SA']","['ELECTRIC-VEHICLES', 'RECALL']",0.557,0.0,0.913,0.087,negative,0.05396360158920288,0.9269030690193176,0.019133344292640686,-0.8729394674301147,0.14285714285714285,0.0,0.0,0.21865673,0.14945213,0.789221401787753,0.15199945963477357
+2026-05-04T18:00:00+00:00,Hyroad Energy and Toyota Announce Strategic Collaboration to Deploy Hydrogen Fuel Cell Trucks,"One of the largest commercial hydrogen truck deployments in the United States signals a new phase for zero-tailpipe-emission freight
+
+LAS VEGAS, May 4, 2026 /PRNewswire/ -- Hyroad Energy, a pioneer in hydrogen-powered transportation solutions, today announced a definitive agreement with Toyota Motor North America to deploy 40 hydrogen fuel cell Class 8 commercial trucks in Southern California. The announcement was made at ACT Expo, North America's largest fleet technology event, where a Hyroad truck is on display at Toyota's booth.One of the largest commercial hydrogen truck deployments in the United States signals a new phase for zero-tailpipe-emission freight
+
+Under the agreement, Hyroad will provide trucks, maintenance, data and software services to support Toyota's logistics operations. Toyota will supply hydrogen fuel through its own refueling infrastructure, currently under development in Ontario, California. The two companies are bringing together the interconnected pieces that a functioning hydrogen trucking ecosystem requires — vehicles, software and fuel supply — under a single commercial framework.
+
+""Accelerating the hydrogen economy requires collaboration, and Toyota is proud to work with Hyroad to move the heavy-duty sector forward,"" said Jason Zahorik, general manager, Toyota Hydrogen Solutions. ""By bringing the critical elements together, we're demonstrating how fuel cells create tangible value across supply chains while advancing a foundational pillar of the hydrogen economy. With hydrogen, we share a vision for cleaner, more powerful and more energy independent mobility.""
+
+For Toyota, this is one piece of a much larger hydrogen commitment that spans more than 30 years of experience in fuel cell development. The company is investing significantly in the hydrogen value chain, including fuel cell development and refueling infrastructure, and sees commercial trucking as a critical proving ground for that ecosystem at scale. For instance, in keeping supply and demand moving at a rapid pace, a fuel cell Class 8 truck is able to take up to 70 kg of hydrogen onboard – about the same as 12 Toyota Mirai sedans.
+
+Like a diesel semi-truck, a fuel cell Class 8 takes about 15-20 minutes to fill and has an approximate driving range of up to 500 miles between fill-ups. Unlike a diesel truck, however, the only local emission from a hydrogen-powered truck is water vapor.
+
+Hyroad's full-service model covers the truck, maintenance and fleet management software under a bundled commercial structure, removing the operational complexity that has historically slowed adoption of alternative-fuel commercial vehicles. As an OEM-agnostic operator rather than a manufacturer, Hyroad's role is to assemble the pieces — vehicles from multiple sources, hydrogen supply, truck maintenance and software — into a solution fleets can actually use.
+
+Story Continues
+
+In August 2025, Hyroad acquired 117 hydrogen fuel cell trucks, spare parts, software platforms and IP assets from Nikola Corporation's bankruptcy auction. Thereafter, Hyroad announced an expansion of its service offerings to include comprehensive maintenance and support services for existing Nikola truck owners, software solutions for fleet management, repair services and parts supply.
+
+""Toyota has done exactly what great allies do — they've brought genuine hydrogen expertise to the table and made thoughtful, strategic decisions,"" said Dmitry Serov, founder and CEO of Hyroad Energy. ""They're not waiting for someone else to build this ecosystem. They're investing in it directly, and that's what makes this meaningful. When fueling, vehicles, software and operational commitment all come together, hydrogen trucking works.""
+
+Hyroad's collaboration with Toyota is a featured element of Toyota Hydrogen Solutions' presence at ACT Expo, running May 4-6 at the Las Vegas Convention Center. You can find both companies at booth #2767.
+
+Contact the Hyroad team to learn more.
+
+About Hyroad Energy  
+Hyroad Energy delivers cutting-edge, zero-emission Class 8 hydrogen fuel cell trucks, designed to meet the needs of fleets while reducing their carbon footprint. Through its innovative pay-per-mile model, Hyroad eliminates the complexity and upfront costs traditionally associated with deploying zero-emission trucks. As a pioneer in hydrogen-powered transportation, Hyroad Energy is leading the charge toward a cleaner, more sustainable future. For more information, visit www.hyroadenergy.com
+
+About Toyota
+Toyota has been a part of the cultural fabric in the U.S. for nearly 70 years, and is committed to advancing sustainable, next-generation mobility through our Toyota and Lexus brands, plus our nearly 1,500 dealerships.
+
+Toyota directly employs nearly 48,000 people in the U.S. who have contributed to the design, engineering, and assembly of more than 35 million cars and trucks at our 11 manufacturing plants. In 2025, Toyota's plant in North Carolina began to assemble automotive batteries for electrified vehicles.
+
+About Toyota Hydrogen Headquarters (H2HQ)
+Toyota Hydrogen Headquarters (H2HQ) is the lead office in North America for the development, engineering, commercialization and business operations of Toyota's hydrogen fuel cell technologies. Based in Gardena, California, H2HQ works collaboratively with Toyota's R&D offices in Michigan and Texas, as well as business units in Japan and internationally, to create zero-emissions fuel cell technologies that enable energy independence, innovation and the movement of people, goods, energy and information.
+
+For more information: Toyota Hydrogen Solutions | Toyota.com.
+
+Media Contacts
+
+Suzanne Block, Hyroad Energy press@hyroadenergy.com
+
+Jacob Brown, Toyota Motor North America Communications Manager
+jacob.brown@toyota.comHyroad Energy delivers cutting-edge, zero-emission Class 8 hydrogen fuel cell trucks, designed to meet the needs of fleets while reducing their carbon footprint. Through its innovative pay-per-mile model, Hyroad eliminates the complexity and upfront costs traditionally associated with fleet decarbonization. As a pioneer in hydrogen-powered transportation, Hyroad is leading the charge toward a cleaner, more sustainable future. (PRNewsfoto/Hyroad Energy)Cision
+
+View original content to download multimedia:https://www.prnewswire.com/news-releases/hyroad-energy-and-toyota-announce-strategic-collaboration-to-deploy-hydrogen-fuel-cell-trucks-302760069.html
+
+View Comments",https://finance.yahoo.com/sectors/energy/articles/hyroad-energy-toyota-announce-strategic-180000462.html,"['TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US']","['COMMERCIAL-TRUCKING', 'FUEL-CELLS', 'HYDROGEN-ECONOMY', 'SUSTAINABLE-TRANSPORTATION', 'ZERO-EMISSION']",0.998,0.01,0.876,0.115,neutral,0.23808899521827698,0.009862369857728481,0.752048671245575,0.2282266253605485,0.16666666666666666,1.0,0.43422025,0.29193902,0.29037517,0.6650239366765198,0.38273994265472266
+2026-05-04T16:00:00+00:00,Toyota Motor North America Announces Executive Changes,"PLANO, Texas, May 4, 2026 /PRNewswire/ -- Toyota Motor North America (TMNA) today announced executive changes to support the company's continued focus on regulatory excellence, sustainability and corporate governance.Toyota Corporate Logo (PRNewsfoto/Toyota Motor North America)
+
+Sandra Phillips, senior vice president, Enterprise Integrity, chief legal officer, corporate secretary, and chief sustainability officer, will retire effective July 31, 2026. Throughout her tenure, Phillips played a critical role in strengthening Toyota's legal, regulatory, compliance and sustainability functions, helping guide the company through a dynamic policy and business environment.
+
+Tom Stricker, group vice president, Regulatory Affairs and Environmental Sustainability, will retire effective June 30, 2026, following a long and impactful career advancing Toyota's regulatory, environmental and sustainability initiatives. His leadership has been instrumental in shaping the company's environmental strategy and strengthening stakeholder partnerships.
+
+Chris Yang, senior vice president, Enterprise Strategy and Solutions, will expand his responsibilities to include chief legal officer and Enterprise Integrity. Yang will continue in his roles as deputy chief compliance officer and deputy chief risk officer for Toyota Motor Corporation (TMC), and Yang's appointment as chief legal officer is consistent with TMC's vision of a globally aligned legal, compliance, and risk team. In this role, he will oversee the company's legal, compliance and audit functions.
+
+Liz Gibson, group vice president and general counsel, will assume the roles of group vice president, Regulatory Affairs and Environmental Sustainability, corporate secretary, and chief sustainability officer reporting to Yang. In this role, Gibson will lead Toyota's U.S.-based corporate sustainability strategy and oversee regulatory policy and compliance.
+
+Kim Cockrell, senior vice president, chief human resources and administrative officer, will take on additional responsibilities for sustainability and community impact, as well as corporate security and emergency management.
+
+""These leadership changes reflect both our deep bench of talent and our commitment to continuity as we build for the future,"" said Ted Ogawa, president and CEO, TMNA. ""We are grateful to Sandra and Tom for their many contributions and look forward to the continued impact of Chris, Liz, Kim and the broader team.""
+
+About Toyota Motor North America
+Toyota (NYSE:TM) has been a part of the cultural fabric in the U.S. for nearly 70 years, and is committed to advancing sustainable, next-generation mobility through our Toyota and Lexus brands, plus our nearly 1,500 dealerships.
+
+Story Continues
+
+Toyota directly employs approximately 48,000 people in the U.S. who have contributed to the design, engineering, and assembly of more than 35 million cars and trucks at our 11 manufacturing plants. In 2025, Toyota's plant in North Carolina began to assemble automotive batteries for electrified vehicles.
+
+For more information about Toyota, visit www.ToyotaNewsroom.com.
+
+Media Contact:
+
+Ed Hellwig
+
+edward.hellwig@toyota.comCision
+
+View original content to download multimedia:https://www.prnewswire.com/news-releases/toyota-motor-north-america-announces-executive-changes-302761454.html
+
+View Comments",https://finance.yahoo.com/sectors/technology/articles/toyota-motor-north-america-announces-160000400.html,"['TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US']","['CORPORATE-GOVERNANCE', 'EXECUTIVE-CHANGES', 'SUSTAINABILITY']",0.993,0.019,0.848,0.133,neutral,0.2259507030248642,0.012498362921178341,0.7615509033203125,0.21345234010368586,0.16666666666666666,1.0,0.5645646,0.48934025,0.66998094,0.6595589030392172,0.5227153977613369
+2026-05-04T14:03:00+00:00,Toyota Invites Drivers to Experience Its All-Electric Vehicle Family in New Campaign,"Highlights a New Generation of Electric Vehicles Designed for Everyday Life
+
+PLANO, Texas, May 4, 2026 /PRNewswire/ -- Unveiled today, Toyota's new all-electric family marketing campaign introduces a lineup designed to meet the needs of today's drivers with intuitive technology, purposeful engineering and everyday usability. As more drivers begin to explore electric options, the campaign invites them to get behind the wheel and see how Toyota's all-electric vehicles fit into their daily lives. Through relatable, human-centered storytelling, the campaign shows how going electric can feel simple, natural and worth exploring.
+
+Experience the full interactive Multichannel News Release here: https://www.multivu.com/toyota/9393251-en-toyota-new-all-electric-vehicle-family-campaign
+
+""Toyota's new lineup of all-electric vehicles demonstrates our dedication to putting people first - emphasizing the everyday needs of drivers,"" stated Mike Tripp, group vice president of Toyota Marketing. ""This campaign highlights how thoughtful features and purposeful design help make the move to all-electric simple and fun, while supporting how people live, travel, and connect.""
+
+The fully integrated campaign was developed using a cohesive marketing approach inclusive of multicultural audiences. Agency partners include Saatchi & Saatchi, Burrell Communications Group, Conill and Intertrend Communications.
+
+The campaign showcases a unified style across the creative, which is highlighted below:
+
+Focusing on turning skeptics into believers, Burrell Communications Group developed a series of broadcast and digital spots for Toyota's new all-electric family campaign. The work includes a 30-second hero film titled ""Haters Anthem,"" along with 15-second ""Looks for Days,"" ""Power"" and ""Handle It,"" and 10-second ""First Sight"" and ""Frown Breakdown,"" all directed by Paul Hunter. In ""Haters Anthem,"" three skeptics portrayed as puppets, comedically sing, hate and doubt all-electric vehicles - only to be won over by the vehicles one-by-one, revealing the puppet haters have been transformed into Toyota BEV believers.
+
+Toyota's new all-electric family campaign highlights how its all-electric family fits seamlessly into the lives of today's drivers, supporting everything from creative pursuits to weekend escapes and everyday routines. Saatchi & Saatchi developed two 30-second spots titled ""Carista"" and ""Imagine,"" along with two 15-second spots titled ""Weekend Warriors"" and ""Last Run,"" all directed by Tristan Holmes. The work brings to life real, human stories from a mobile coffee business powered out of a Toyota bZ to drivers using their all-electric vehicles to pursue passions, explore beyond the city and make the most of every day.
+
+Story Continues
+
+Rooted in a shared appreciation for entertainment and inspired by Asian films, Intertrend Communications produced cinematic spots for Toyota's new all-electric family campaign. The work includes four 30-second films titled ""Camping,"" ""Escape,"" ""Jangal,"" and ""Chase,"" all directed by Joseph Kahn. Each spot celebrates the magic of the movie-going experience that Asian Americans today know and love. The campaign will be released in June 2026.
+
+For Hispanics, the best technology comes from tried-and-true brands. Building on that insight, Conill combines animation and live action to launch Toyota's new all-electric family of vehicles, visually expressing the confidence Hispanic consumers have in trusted brands when embracing new technologies. The campaign features a 30-second hero spot titled ""They're Here,"" along with two unique 15-second spots, ""Test Drive"" and ""Tough Call,"" all directed by Felix Brady, showcasing why choosing a Toyota all-electric vehicle is an easy call. The campaign will be released in July 2026.
+
+Media Placements
+
+Toyota's new all-electric family campaign is a fully integrated campaign extending across linear TV, digital video, digital content, streaming audio, programmatic, paid social, and experiential. Digital content/video partnership highlights include 88Rising, AdMazing, AMC+, Amazon, Blavity, CNET, DirectTV, ESPN Playoffs, Hartbeat, Hulu, Hypebeast, iTalk BB, Live Nation, Max, Netflix, ONE Tv, Outside Lands, Paramount+, Peacock, QYOU Media, Roku, SiriusXM, Sports Illustrated, Sundance Now, TED, The Atlantic, The New York Times, TIME100, Tripadvisor, Twitch, Urban On TV, Wired, YouTube, and more. Audio includes Katz Media Group, SiriusXM and Spotify. Paid Social runs across LinkedIn, Meta, Pinterest, and TikTok.
+
+The campaign spots are available for viewing here. For images and credits, please click here.
+
+About Toyota's New All Electric Vehicle Family
+
+The 2026 Toyota C-HR brings a bold new energy to Toyota's all-electric vehicle family, combining striking coupe-inspired design with a performance-driven spirit. Built with standard All-Wheel Drive and responsive power, it delivers an engaging drive while maintaining the versatility needed for everyday life. With a well-appointed interior, flexible cargo space and convenient charging options, the C-HR blends style, capability and practicality—redefining what a compact all-electric crossover can be. The 2026 C-HR lineup offers two grades designed for drivers who prioritize both style and performance. The 2026 C-HR SE has a starting MSRP of $37,000* and the 2026 C-HR XSE has a starting MSRP of $39,000*. For more information and key features, click here.
+
+The 2026 Toyota bZ builds on its all-electric foundation with enhanced range, refined design and an intuitive, connected experience. With improved battery performance, expanded charging access and a sleek, modern exterior, the bZ is designed to fit seamlessly into everyday life. Inside, thoughtful updates and advanced technology create a more streamlined, comfortable drive—continuing to evolve Toyota's vision for an all-electric small SUV. The 2026 bZ lineup offers two grades designed for everyday practicality and elevated comfort. The 2026 bZ XLE has a starting MSRP of $34,900* and the 2026 bZ Limited has a starting MSRP of $43,400*. For more information and key features, click here.
+
+The 2026 Toyota bZ Woodland extends Toyota's all-electric vehicle family into the outdoors, blending capability with everyday comfort. Designed with standard All-Wheel Drive, increased ground clearance and added utility, it's built to support everything from daily drives to weekend escapes. With a spacious interior, premium features and versatile performance, the bZ Woodland delivers a confident, all-electric experience—reimagining what it means to explore beyond the pavement. The 2026 bZ Woodland lineup offers two grades designed for adventure-ready capability and premium comfort. The 2026 bZ Woodland has a starting MSRP of $45,300* and $47,400* for the bZ Woodland Premium. For more information and key features, click here.
+
+Toyota's goal is to reduce carbon emissions as much as possible, as fast as possible. Battery Electric Vehicles (BEVs) are a critical component of their global strategy and serve as a core pillar of our multi-pathway approach to vehicle electrification.
+
+*MSRP Excludes Dealer Processing and Handling fee of $1,095. All prices are subject to change.
+
+About Toyota
+
+Toyota (NYSE:TM) has been a part of the cultural fabric in North America for nearly 70 years, and is committed to advancing sustainable, next-generation mobility through our Toyota and Lexus brands, plus our more than 1,800 dealerships.
+
+Toyota directly employs nearly 64,000 people in North America who have contributed to the design, engineering, and assembly of over 50 million cars and trucks at our 14 manufacturing plants. In 2025, Toyota's plant in North Carolina began to assemble automotive batteries for electrified vehicles.
+
+For more information about Toyota, visit www.ToyotaNewsroom.com.
+
+Media Contacts
+Sam Mahoney
+Toyota Motor North America
+980-900-8573
+samuel.mahoney@toyota.com
+
+Beatrice Kalish
+Saatchi for Toyota
+beatrice.kalish@saatchi.comToyota’s “Haters Anthem” spot, developed by Burrell Communications Group, transforms skeptics into believers—showing how one drive can shift perceptions of going electric.Toyota’s all-electric family campaign spot developed by Saatchi & Saatchi highlights how Toyota’s all-electric vehicles fit seamlessly into everyday life supporting everything from creative pursuits to weekend escapes.Cision
+
+View original content:https://www.prnewswire.com/news-releases/toyota-invites-drivers-to-experience-its-all-electric-vehicle-family-in-new-campaign-302760454.html
+
+View Comments",https://finance.yahoo.com/sectors/technology/articles/toyota-invites-drivers-experience-electric-140300994.html,"['TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US']","['AUTOMOTIVE', 'CAMPAIGN', 'ELECTRIC-VEHICLES']",0.999,0.02,0.849,0.131,neutral,0.11442051827907562,0.013266509398818016,0.8723129630088806,0.1011540088802576,0.16666666666666666,1.0,0.46039742,0.26432207,0.23726733,0.6542737386519503,0.377549970913875
+2026-05-04T10:00:00+00:00,Earnings live updates: Palantir to kick off busy week as S&amp;P 500 earnings growth trend impresses,"First quarter earnings season is in full swing, with a full slate of semiconductor and consumer companies slated to report results.
+
+Despite ongoing risks from the Iran war, S&P 500 corporations have continued to print profits in Q1, with the index on track for double-digit earnings growth. Reports from five of the “Magnificent Seven” giants last week underscored that tech companies continue to underpin Wall Street’s optimism.
+
+Headlining the tech earnings calendar this week will be Palantir (PLTR), Advanced Micro Devices (AMD), CoreWeave (CRWV), and Arm Holdings (ARM). Household-name brands like McDonald’s (MCD), Tyson Foods (TSN), Novo Nordisk (NVO), Walt Disney (DIS), Uber UBER), and Toyota Motor (TM) will also provide updates on consumer health.
+
+LIVE36 updates
+
+4 mins ago
+
+Grace O'Donnell
+
+Earnings growth shows the economy is poised to 'thrive' — not 'survive'
+
+Yahoo Finance’s Jake Conley writes:
+
+The US may be at war, but you won’t find many signs in the US equity market. The S&P 500 and tech-exposed Nasdaq hit multiple record highs in the past week.
+
+… “US earnings season reveals corporates continue to print massive profits,” Capital.com analyst Kyle Rodda wrote in emailed commentary.
+
+“The markets continue to price-in a peaceful outcome to the war in the Middle East, a US Federal Reserve that will largely ‘look through’ the energy crisis rather than hiking rates in response to it, and earnings growth that will not only survive the energy shock but thrive in spite of it,” Rodda said.
+
+Not only have earnings reports out so far largely exceeded expectations, LPL Financial chief technical strategist Adam Turnquist noted, but corporate commentary has also been by and large more constructive than perhaps anticipated, even in the face of softer survey-based economic data.
+
+Yes, the tech sector continues to provide much of the firepower in the equities space.
+
+But the other 491 stocks in the S&P 500 — excluding the “Magnificent Seven,” plus Broadcom (AVGO) and Micron (MU) — should be on track to deliver solid results and growth as well, UBS head of US equities David Lefkowitz noted.
+
+Read more here. Fri, May 1, 2026 at 3:54 PM UTC
+
+Ines Ferré, Jake Conley
+
+Exxon, Chevron profits take hit from Iran war, 'more to come' if Strait of Hormuz remains closed
+
+ExxonMobil (XOM) and Chevron (CVX) both saw Q1 earnings per share drop from the same quarter last year, as mistimed oil price hedges, affected by the war in the Middle East, blocked major swaths of global energy flows.
+
+Exxon CEO Darren Woods also said on an earnings call with analysts and investors that the market has “more to come” in negative impacts if the Strait of Hormuz remains closed, and that renormalization of oil flows after the strait is reopened would likely take at least one to two months.
+
+Exxon’s first quarter adjusted earnings per share of $1.16 fell below first quarter 2025 earnings of $1.76. At Chevron, first quarter earnings of $1.41 fell below EPS of $2.18 a year ago.
+
+Both companies are looking at steep paper losses from derivatives positions opened at the beginning of the year, when oil prices were low.
+
+Read more here. Fri, May 1, 2026 at 3:53 PM UTC
+
+Grace O'Donnell
+
+Reddit stock surges after ad revenue jumps 74% in Q1
+
+Reddit stock (RDDT) jumped 12% in morning trading on Thursday.
+
+Reddit reported that its advertising revenue surged 74% year over year to $625 million, driving better-than-expected net sales and profits in the first quarter. CEO Steve Huffman said the “deeply engaged communities” on Reddit’s online discussion forums give it a unique advantage in the age of artificial intelligence.
+
+Earnings per share of $1.01 on total revenue of $663 million handily beat estimates, for earnings of $0.56 per share and revenue of $612 million.
+
+Despite Friday’s gains, Reddit’s stock remains down nearly 30% year to date.
+
+Heading into the earnings report, the Street grew concerned that Reddit would not be able to sustain daily active user and advertising revenue growth as the platform matures — and as Alphabet (GOOG, GOOGL) and Meta (META) continue to dominate the ad market.
+
+Read more here. Fri, May 1, 2026 at 3:51 PM UTC
+
+Ines Ferré
+
+Sandisk stock falls despite strong earnings report as investors 'sell the news' after powerful rally
+
+Sandisk (SNDK) stock fell more than 6% in premarket on Friday. Investors appeared to “sell the news” after the memory chipmaker posted strong beats on the top and bottom lines in its fiscal third quarter.
+
+Revenue of $5.95 billion increased from $4.72 billion, and the company’s adjusted earnings of $23.41 per share sailed past Wall Street expectations of $14.51.
+
+Sandisk sees fourth quarter revenue in the range of $7.75 billion to $8.25 billion, above a consensus estimate of $6.65 billion.
+
+What else you need to know: Sandisk stock has surged this year as memory has become a key bottleneck in computing. Bullish sentiment from Wall Street has driven the stock to new highs: The stock is up almost 300% year to date and hit a record high on Thursday prior to its quarterly results.
+
+Read more here. Fri, May 1, 2026 at 3:49 PM UTC
+
+Grace O'Donnell
+
+Moderna tops revenue estimates on stronger international COVID vaccine sales
+
+Reuters reports:
+
+Moderna surpassed Wall Street estimates for first-quarter revenue on Friday, helped by better-than-expected sales of its COVID-19 vaccine in ‌international markets, sending its shares up nearly 8% in premarket trading.
+
+International revenue came in ‌at $311 million, versus $78 million in U.S. markets, as the vaccine maker leveraged partnerships in the UK, Canada and Australia.
+
+""So ​our story has really become a more balanced international versus U.S. story,"" Moderna Chief Financial Officer Jamey Mock said in an interview with Reuters.
+
+Sweeping changes to U.S. vaccine policy under Health Secretary Robert F. Kennedy Jr., a longtime anti-vaccine activist, have led to reduced vaccine use and reshaped the regulatory ‌landscape for companies developing new ⁠shots.
+
+Read more here. Thu, April 30, 2026 at 9:33 PM UTC
+
+Bex Evans
+
+Roblox slashes annual bookings forecast as new safety features take their toll
+
+Reuters reports:
+
+Roblox cut its annual bookings forecast on Thursday, signaling that new safety initiatives may impact user growth ‌and spending on its popular videogame platform, sending its shares ‌down over 18% in extended trading.
+
+The company expects fiscal 2026 bookings of $7.33 billion to $7.6 billion, lower ​than its earlier forecast of $8.28 billion to $8.55 billion.
+
+Investments in recommendation algorithms and higher developer rewards have helped Roblox draw in millions of users looking to play free games and socialize with friends. But multiple cases of child exploitation and ‌grooming on the platform have ⁠resulted in national bans, lawsuits and investigations into Roblox's safety framework.
+
+To ease concerns, the platform unveiled age-based accounts and age ⁠verification early this year to limit communication and interaction between younger and older users, while also rolling out broader content monitoring.
+
+""What we have observed since we ​started rolling ​out age-gating of communications features in ​January is less communication engagement ‌on the platform,"" CFO Naveen Chopra told Reuters in an interview.
+
+""That does tend to have some knock-on effects in terms of content virality, which can then impact things like App Store ratings and the like.""
+
+Read more here. Thu, April 30, 2026 at 9:33 PM UTC
+
+Bex Evans
+
+Roku raises annual platform revenue forecast, shares climb
+
+Reuters reports:
+
+Roku raised its annual platform revenue forecast on Thursday, signaling confidence that advertisers will ‌continue to spend on its streaming platform, sending ‌its shares up 10% in extended trading.
+
+Roku is benefiting from the rise ​of streaming media, as more households make connected TV (CTV) devices their primary viewing platform …
+
+Earlier in April, Roku announced that it has surpassed 100 million streaming households ⁠worldwide, reflecting the broader shift in viewing habits.
+
+The company's Platform segment, which includes advertising on its free, ad-supported service, The Roku ​Channel, as ​well as revenue-sharing agreements ​with other content services on ‌its platform, has been a growth driver.
+
+Read more here. Thu, April 30, 2026 at 9:33 PM UTC
+
+Bex Evans
+
+Apple tops Q2 earnings estimates on strong iPhone, China sales
+
+Yahoo Finance’s Dan Howley reports:
+
+Apple (AAPL) reported its second quarter earnings on Thursday, topping analysts’ estimates on the top and bottom lines on strong iPhone sales.
+
+Apple stock rose roughly 1% on the news.
+
+For the quarter, Apple saw earnings per share (EPS) of $2.01 on revenue of $111.2 billion. Analysts were anticipating EPS of $1.96 and revenue of $109.66 billion, according to Bloomberg analyst consensus estimates.
+
+That’s up from the EPS of $1.65 and $95.35 billion the company saw in the same quarter last year.
+
+Apple’s iPhone revenue came in at $56.99 billion, just ahead of Wall Street’s projections. This marks the second consecutive quarter of more than 20% revenue growth in the segment.
+
+Read more here. Thu, April 30, 2026 at 9:12 PM UTC
+
+Iris Winslow
+
+Reddit Q2 earnings top revenue estimates on strong targeted ad sales and AI tools
+
+Reddit (RDDT) topped analysts’ estimates in its Q2 earnings report that showed strong quarterly revenue growth and advertiser demand driven by its AI-powered advertising tools that target users based on their interests within subreddit discussion threads. The social media company also saw strong increases in both its active advertiser count and daily active users.
+
+Reddit stock jumped more than 13% in after-hours trading.
+
+Reuters reports:
+
+""Our active advertiser count grew 75% year-over-year, which I think is the third consecutive quarter that we've had ⁠really strong active advertiser count,"" Reddit Chief Operating Officer Jen Wong told Reuters.
+
+Reddit's quarterly revenue forecast of $715 million to $725 million exceeded the LSEG-compiled analysts' average estimate of $711.6 million.
+
+It ​expects adjusted ​earnings before interest, taxes, depreciation and amortization ​of $285 million to $295 million, above ‌estimates of $277.1 million.
+
+Reddit ‌said its first quarter revenue rose 69% ​to $663 million, beating estimates of $610.9 million.
+
+Daily active unique ​visitors grew 17% to 126.8 ​million in the quarter, while global average revenue per user ‌increased by 44%.
+
+Read more here. Thu, April 30, 2026 at 8:51 PM UTC
+
+Iris Winslow
+
+Rivian posts smaller Q1 loss than expected, reaffirms full-year outlook, boosts capacity
+
+Yahoo Finance’s Pras Subramanian reports:
+
+Rivian (RIVN) reported first quarter earnings results that largely met expectations on Thursday as the pure-play EV maker navigates the launch of its highly anticipated R2 midsize SUV while managing its cash burn and vehicle production. The company also announced tweaks to its upcoming Georgia facility, with the Department of Energy (DOE) shrinking its loan commitment.
+
+For the quarter, Rivian reported revenue of $1.38 billion versus $1.39 billion, per Bloomberg consensus estimates, up 11% compared to a year ago. Rivian posted a loss per share of $0.33 versus the $0.72 expected. Adjusted EBITDA (earnings before interest, taxes, depreciation, and amortization) came in at a loss of $472 million, wider than last year, but Rivian reported a gross profit of $119 million, its third quarter in a row.
+
+The company said its automotive segment posted a gross profit loss, but its software and services segment posted a $180 million gross profit, with a nearly 60% gain from a year ago.
+
+Rivian maintained its full-year projections, seeing an adjusted EBITDA loss for 2026 in a range of $1.80 billion to $2.10 billion, with capital expenditures of $1.95 billion to $2.05 billion.
+
+Last week, the company announced the start of production for the R2 at its plant in Normal, Ill., with customer deliveries starting “later this spring.”
+
+Read more here.
+
+Rivian stock dropped 2% in after-hours trading. Thu, April 30, 2026 at 1:39 PM UTC
+
+Grace O'Donnell
+
+Eli Lilly stock soars as revenue grows 56% on strength of GLP-1 drug sales
+
+Eli Lilly (LLY) stock soared 6% in early trading on Thursday after the pharmaceutical company reported strong sales for its GLP-1 drugs Zepbound and Mounjaro.
+
+Zepbound revenue increased 80% year over year to $4.16 billion and Mounjaro revenue soared 125% to $8.66 billion. Despite lower prices for those drugs, strong demand helped lift overall revenue for the company 56% year over year to $19.7 billion, meaning GLP-1s accounted for roughly two-thirds of Eli Lilly’s total sales.
+
+Eli Lilly’s GLP-1 business got another tailwind during the quarter with the FDA’s approval of Foundayo, its pill version of its weight-loss drug.
+
+“A key milestone was the U.S. FDA approval of Foundayo — the only approved GLP-1 pill that can be taken any time of day, without food and water restrictions,” Lilly CEO David Ricks said. “Foundayo will meaningfully expand the number of people who can benefit from GLP-1s. We also delivered pipeline progress across all four therapeutic areas and continued investing in Lilly's future growth through four acquisitions.”
+
+Lilly raised its full-year guidance for revenue to $82 billion to $85 billion and adjusted earnings per share to $35.50 to $37.00. Thu, April 30, 2026 at 1:26 PM UTC
+
+Grace O'Donnell
+
+Caterpillar stock jumps on record backlog, boom in power and energy equipment for data centers
+
+Yahoo Finance’s Ines Ferre reports:
+
+Caterpillar (CAT) stock jumped 5% in premarket on Thursday. The heavy equipment maker noted “robust order activity” and a record backlog in the first quarter, in part fueled by the artificial intelligence infrastructure build-out.
+
+Caterpillar noted that its Power & Energy segment’s total sales jumped an annualized 22% in the first three months of the year. The growth was driven by electricity generation equipment for data centers, including engines, turbines, and turbine-related services.
+
+The company now estimates full-year revenue growth will be in the low double digits, significantly higher than the 7% growth rate it had previously projected.
+
+Read more here. Thu, April 30, 2026 at 12:29 PM UTC
+
+Grace O'Donnell
+
+Stellantis stock drops after reporting Q1 profit but no full-year guidance hike
+
+Yahoo Finance’s Pras Subramanian reports:
+
+Stellantis (STLA), the parent company of Jeep, Dodge, Fiat, and Chrysler, released first quarter earnings that topped analyst expectations, but investors were left wanting more, especially without updated guidance.
+
+For the quarter, Stellantis reported revenue of 38.13 billion euros ($44.59 billion) vs 38.49 billion euros ($45.06 billion) per Bloomberg consensus, up 6% compared to last year. Stellantis posted adjusted EPS of 0.21 euros ($0.25) vs. 0.12 euros ($0.14) and adjusted operating income of 960 million euros ($1.12 billion) vs 568 million euros ($664.2 million) expected, up nearly 200% from a year ago.
+
+Shares dropped over 5% in pre-market trade.
+
+Read more here. Wed, April 29, 2026 at 9:13 PM UTC
+
+Iris Winslow
+
+Chipotle same-store sales top estimates as new high-protein menu wins customers
+
+Yahoo Finance’s Brooke DiPalma reports:
+
+Chipotle (CMG) reported that sales improved in the first quarter on Wednesday as the burrito chain aimed to regain momentum amid a tricky consumer backdrop.
+
+Same-store sales rose 0.5% in Q1, beating expectations for a 0.9% decline, according to Bloomberg consensus data. Revenue grew to $3.09 billion, more than the $3.07 billion expected, while adjusted earnings per share came in line with expectations at $0.24, though profits declined from $0.29 per share in the same quarter last year.
+
+Chipotle reiterated its forecast for no sales growth in 2026 as its core customer continues to face economic pressure, leading to a decline in traffic.
+
+Read more here.
+
+Chipotle stock popped more than 3% in after-hours trade. Wed, April 29, 2026 at 8:48 PM UTC
+
+Ines Ferré
+
+Alphabet tops Q1 estimates on strong Google Cloud growth
+
+Yahoo Finance’s Dan Howley reports:
+
+Google parent Alphabet (GOOG, GOOGL) reported its first quarter results on Wednesday, beating on the top and bottom line, on strong cloud growth.
+
+Alphabet stock has climbed roughly 30% over the past six months, beating out Amazon (AMZN), up 15%, and Microsoft (MSFT), which is off about 20%.
+
+Much of that is thanks to the success of Google’s cloud platform and Gemini artificial intelligence models.
+
+Read more here. Wed, April 29, 2026 at 8:46 PM UTC
+
+Bex Evans
+
+Qualcomm reports better-than-anticipated Q2 earnings but falls short on outlook
+
+Yahoo Finance’s Dan Howley reports:
+
+Qualcomm (QCOM) announced its second quarter earnings on Wednesday, topping Wall Street estimates on top and bottom lines, but falling short on Q3 guidance.
+
+The company said it anticipates third quarter revenue of between $9.2 billion and $10 billion. Analysts were looking for $10.23 billion.
+
+But Qualcomm also said it sees the market for Chinese smartphones bottoming in the current quarter, a potentially positive sign for the company.
+
+Qualcomm stock rose more than 13%.
+
+Read more here. Wed, April 29, 2026 at 8:46 PM UTC
+
+Bex Evans
+
+Ford beats on Q1 results as tariff repeal boosts profits and guidance; rising commodity costs will weigh on second half
+
+Yahoo Finance’s Pras Subramanian reports:
+
+Ford (F) reported solid first quarter results on Wednesday after the bell as a one-time benefit from the rollback of President Trump’s “Liberation Day” tariffs boosted Q1 profit and full-year outlook. A recovery in F-150 truck sales will also aid results in the back half of the year, but rising materials costs are a headwind.
+
+For the quarter, Ford reported automotive revenue of $39.82 billion versus $38.48 billion, per Bloomberg consensus, with adjusted earnings per share (EPS) of $0.66 versus $0.19 expected and adjusted EBIT of $3.5 billion versus $1.26 billion.
+
+Ford said Q1 adjusted EBIT of $3.5 billion reflected a “$1.3 billion one-time International [Emergency Economic Powers Act/”Liberation Day”] tariff benefit, with strong product mix and net pricing,” and growth in services boosting results.
+
+Ford shares were up 6% in after-hours trading.
+
+Read more here. Wed, April 29, 2026 at 8:45 PM UTC
+
+Ines Ferré
+
+Meta earnings top forecasts as the company raises AI spending plans once again
+
+Yahoo Finance’s Myles Udland reports:
+
+Meta Platforms (META) reported first quarter earnings on Wednesday that showed profits beat forecasts but indicated the company plans to continue ramping its spending on AI as its profits again blew away Wall Street forecasts.
+
+The company reported earnings per share (EPS) of $10.44 on revenue of $56.3 billion. Wall Street analysts expected adjusted earnings of $8.15 per share on revenue of $55.5 billion, according to Bloomberg estimates.
+
+Read more here. Wed, April 29, 2026 at 8:43 PM UTC
+
+Iris Winslow
+
+Microsoft tops Q3 estimates as AI revenue more than doubles
+
+Yahoo Finance’s Dan Howley reports:
+
+Microsoft (MSFT) reported its third quarter results after the bell on Wednesday, beating analysts’ expectations on the top and bottom lines and said its AI business now has a $37 billion annual revenue run rate, up 123% year over year.
+
+Microsoft stock fell more than 1% on the news after initially climbing higher.
+
+For the quarter, Microsoft saw earnings per share (EPS) of $4.27 on revenue of $82.89 billion. Wall Street was anticipating EPS of $4.04 on revenue of $81.46 billion, based on Bloomberg analyst consensus estimates.
+
+Microsoft says its Copilot service now exceeds 20 million paid seats, up from the 15 million the company reported in Q2.
+
+It also said it has remaining performance obligations of $627 billion, up 99% year-over-year, with a weighted-average duration of 2.5 years. Excluding OpenAI, RPO was up about 26%, which is more in line with season averages.
+
+On capital expenditures, Microsoft said it spent $31.9 billion, with two-thirds of that going to assets, including GPUs and CPUs.
+
+Microsoft saw EPS of $3.46 and revenue of $70.06 billion in the same period last year.
+
+Read more here. Wed, April 29, 2026 at 8:30 PM UTC
+
+Iris Winslow
+
+Amazon posts earnings beat on cloud business and AI investment
+
+Amazon (AMZN) beat the Street’s estimates on first quarter earnings per share and revenue, citing strong performance in its AWS cloud division and positive results from ongoing investment in artificial intelligence.
+
+Amazon stock slipped 1% in after-hours trading.
+
+Yahoo Finance’s Jared Blikre and Daniel Howley report:
+
+The company’s earnings per share for the first quarter was $2.78, up from $1.59 a year ago. Revenue was $181.5 billion, up from $155.7 billion.
+
+Analysts had expected earnings per share of $1.62 on revenue of $177.2 billion, according to Bloomberg analyst consensus estimates.
+
+Amazon’s quarterly earnings report comes as investors look for signs that massive spending on artificial intelligence by Big Tech hyperscalers is paying off. All totaled, the AI hyperscalers are expected to spend a whopping $650 billion in capital expenditures in 2026.
+
+Read more here.
+
+Story Continues
+
+View Comments",https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html,"['AAPL.US', 'AMD.US', 'AMZN.US', 'ARM.US', 'AVGO.US', 'CAT.US', 'CMG.US', 'CRWV.US', 'CVS.DU', 'CVS.MU', 'CVX.US', 'DIS.MX', 'DIS.SN', 'DIS.US', 'DISB34.SA', 'DISN.BA', 'GOOG.US', 'GOOGL.US', 'LLY.US', 'MCD.MX', 'MCD.US', 'MCDC34.SA', 'MDO.F', 'MDO.HM', 'MDO.MU', 'MDO0.F', 'META.US', 'MRNA.US', 'MSFT.US', 'N1VO34.SA', 'NONOF.US', 'NOV.F', 'NOVA.F', 'NOVO-B.CO', 'NVO.US', 'O9T.F', 'PLTR.US', 'QCOM.US', 'RBLX.US', 'RDDT.US', 'RIVN.US', 'ROKU.US', 'SNDK.US', 'STLA.US', 'TF7A.DU', 'TF7A.F', 'TF7A.MU', 'TM.US', 'TMCO34.SA', 'TMN.MX']","['ADVERTISING', 'CONSENSUS ESTIMATE', 'EARNINGS', 'EARNINGS GROWTH', 'EARNINGS PER SHARE', 'EARNINGS REPORT', 'EARNINGS RESULTS', 'FOURTH QUARTER', 'GROWTH RATE', 'OPERATING INCOME', 'PHARMA', 'QUARTERLY EARNINGS', 'QUARTERLY RESULTS', 'RATINGS', 'REVENUE ESTIMATES', 'REVENUE GROWTH', 'SEMICONDUCTORS', 'TECH', 'TOTAL REVENUE']",1.0,0.036,0.822,0.142,positive,0.8931792378425598,0.026743704453110695,0.08007710427045822,0.8664355333894491,0.025,0.0,0.009330951,0.47589704,0.64412946,0.6434317922135931,0.2348913757308398
+2026-05-03T02:17:33+00:00,Japan’s Katayama mum on suspected FX intervention amid Golden Week,"Investing.com -- Japanese Finance Minister Satsuki Katayama declined to comment on Sunday regarding whether authorities intervened to support the yen last week, following reports that officials had entered the market for the first time since 2024.
+
+Speaking to reporters in Samarkand, Uzbekistan, Katayama stated she was ""not in a position to comment"" at this stage, though she acknowledged that ""speculative moves have been continuing for some time"".
+
+The Finance Minister’s remarks, first reported by Bloomberg, follow a period of intense volatility where the yen strengthened sharply on Thursday after hitting a low of 160.72 per dollar earlier that day.
+
+A Bloomberg analysis of central bank accounts suggests that Japanese authorities likely deployed approximately $34.5 billion in the operation.
+
+Despite the suspected action, Katayama reminded markets that the ""Golden Week"" holiday period is still ongoing, a time typically characterized by thin trading volumes and heightened susceptibility to sudden price swings.
+
+Market braces for further volatility as policy deadlock looms
+
+The suspected intervention arrived after Katayama and top currency official Atsushi Mimura issued stern warnings to traders regarding excessive FX movements.
+
+Official data released Thursday evening confirmed that Japan had not entered the foreign-exchange market through April 27, leaving a one-month window before the next official data release discloses whether authorities stepped in during the latter half of the month.
+
+Katayama and Bank of Japan Deputy Governor Ryozo Himino are currently attending regional conferences, including the Asian Development Bank’s annual meeting.
+
+With policymakers maintaining a ""no comment"" stance, the focus shifts to whether the Ministry of Finance will take additional steps before the Golden Week holidays conclude on Wednesday.
+
+Investors remain on high alert, as the lack of transparency regarding the $34.5 billion suspected spending continues to fuel uncertainty across global currency desks.
+
+Related articles
+
+Japan’s Katayama mum on suspected FX intervention amid Golden Week
+
+This sector is 'poised for a big, beautiful year': Truist
+
+Morgan Stanley CIO survey: Why AI hype isn’t boosting 2026 IT budgets
+
+View Comments",https://finance.yahoo.com/markets/currencies/articles/japan-katayama-mum-suspected-fx-021733255.html,"['FXY.US', 'HDMA.F', 'HMC.US', 'HNDAF.US', 'HOND34.SA', 'JPY.FOREX', 'JPYUSD.FOREX', 'TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US', 'USD-JPY.US', 'USD.FOREX']","['FX', 'GOLDEN-WEEK', 'INTERVENTION', 'VOLATILITY', 'YEN']",0.732,0.061,0.861,0.078,negative,0.05611075833439827,0.6717879772186279,0.2721012830734253,-0.6156772188842297,0.06666666666666667,0.0,0.0,0.19942284,0.11246504,0.5645307249803815,0.10123599888860657
+2026-05-02T18:31:25+00:00,Toyota Motor Corporation (TM) One of the Best Japanese Stocks to Buy amid Fuel Cell Electric Truck Push,"​Toyota Motor Corporation (NYSE:TM) is one of the best Japanese stocks to buy right now. On April 16, Toyota Motor Corp (NYSE:TM) announced a strategic collaboration with Isuzu Motors Limited to mass-produce a light-duty fuel-cell electric truck.Toyota Motor Corporation (TM) One of the Best Japanese Stocks to Buy amid Fuel Cell Electric Truck Push
+
+Production is to begin in fiscal year 2027, and the light-duty truck is to be based on Isuzu’s ELF EV battery truck, launched in 2023. It will also incorporate Toyota’s third-generation fuel cell system, with both companies working on a system that ensures compatibility for commercial vehicle operation. The companies are also seeking to reduce costs through optimized vehicle body structures.
+
+Toyota and Isuzu are working on a light-duty truck as they have become popular for deliveries to supermarkets and convenience stores that require long operating hours and multiple daily trips. By working on a fuel-cell electric truck, the companies seek to take advantage of high-utilization applications, including shorter refueling times.
+
+​Toyota Motor Corporation (NYSE:TM) is a global leader in the automotive industry, designing, manufacturing, and selling a wide range of passenger cars, trucks, and commercial vehicles under the Toyota, Lexus, and Daihatsu brands.
+
+While we acknowledge the potential of TM as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.
+
+READ NEXT: 8 Best Lidar Stocks to Buy According to Analysts and 10 Best Cryptocurrency Stocks to Buy Right Now.
+
+Disclosure: None. Follow Insider Monkey on Google News.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/toyota-motor-corporation-tm-one-183125774.html,"['7202.TSE', 'ISU.DU', 'ISU.F', 'ISUA.F', 'ISUZF.US', 'ISUZY.US', 'TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US']","['AUTOMOTIVE', 'COLLABORATION', 'FUEL-CELL']",0.989,0.018,0.847,0.135,neutral,0.4373651444911957,0.008863904513418674,0.553770899772644,0.428501239977777,0.09090909090909091,1.0,0.6619718,0.42837176,0.55273753,0.546722487368771,0.4972740375936435
+2026-05-01T23:10:31+00:00,A Look At Toyota Tsusho (TSE:8015) Valuation After Strong Multi‑Year Share Price Gains,"Track your investments for FREE with Simply Wall St, the portfolio command center trusted by over 7 million individual investors worldwide.
+
+Context for recent Toyota Tsusho moves
+
+Toyota Tsusho (TSE:8015) has caught investor attention after a strong share price run over the past year, alongside steady reported revenue and net income growth and a current market value above ¥7.2t.
+
+See our latest analysis for Toyota Tsusho.
+
+The recent 12.6% 1 day share price return, alongside a 22.5% 90 day share price return and a very large 5 year total shareholder return, points to momentum that has been building rather than fading as investors reassess growth prospects and risk.
+
+If strong recent gains in Toyota Tsusho have you thinking about where else to look, this could be a good time to broaden your search with 31 best rare earth metal stocks
+
+With revenue of ¥11.6b, net income of ¥370.5m and a reported value score of 1, the question now is whether Toyota Tsusho’s strong share price run still leaves upside, or if the market is already pricing in future growth.
+
+Most Popular Narrative: 10.3% Undervalued
+
+The most followed valuation narrative currently places Toyota Tsusho’s fair value at ¥7,655.71, above the last close of ¥6,868. This frames recent price strength as still short of that mark.
+
+Toyota Tsusho is aggressively expanding its recycling, renewable energy, and decarbonization businesses, including large-scale battery recycling and green steel, positioning itself to capture upside from the accelerating global shift toward electrification and ESG-driven supply chain transformation, which should drive higher revenue growth and margin improvement in coming years. The integration of advanced digital supply chain, automation, and AI-powered energy management technologies across its logistics and renewable energy segments is expected to improve operational efficiency and create new business opportunities, supporting higher net margins and improved earnings quality over time.
+
+Read the complete narrative.
+
+Curious what kind of revenue path, margin uplift, and future earnings multiple are baked into that fair value, and how a sub 7% discount rate ties it all together.
+
+Result: Fair Value of ¥7,655.71 (UNDERVALUED)
+
+Have a read of the narrative in full and understand what's behind the forecasts.
+
+However, currency swings and execution risk around restructuring and emerging market projects could still upset these assumptions and pull the fair value narrative off course.
+
+Find out about the key risks to this Toyota Tsusho narrative.
+
+Another View on Toyota Tsusho’s Valuation
+
+That 10.3% “undervalued” label rests on analyst fair value assumptions, but the current P/E of 19.6x tells a different story. It sits above both peers at 16.8x and the JP Trade Distributors industry at 10.8x, even though the fair ratio points to 27.2x as a level the market could move toward. For you, that mix of premium pricing today and headroom to the fair ratio raises a simple question: is this a margin of safety or a valuation risk if expectations cool?
+
+Story Continues
+
+See what the numbers say about this price — find out in our valuation breakdown.TSE:8015 P/E Ratio as at May 2026
+
+Next Steps
+
+With sentiment this mixed, it helps to look past the headlines, compare the upside and risks, and decide quickly where you stand. To weigh both sides in one place, start with 2 key rewards and 1 important warning sign
+
+Looking for more investment ideas?
+
+Do not stop at one company when the market is full of possibilities. Use targeted screeners to quickly surface ideas that match what you care about most.
+
+Spot potential mispricing early by scanning 15 high quality undervalued stocks that currently combine strong fundamentals with prices that may not fully reflect them. Anchor your portfolio with resilient income ideas by checking out 37 dividend fortresses designed for investors who want higher yields backed by substance. Sleep easier at night by focusing on 47 resilient stocks with low risk scores that score well on financial strength and overall risk.
+
+This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+
+Companies discussed in this article include 8015.T.
+
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/look-toyota-tsusho-tse-8015-231031947.html,"['8015.TSE', '8015.US', '9TO.F', 'TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US', 'TYHOF.US']","['DECARBONIZATION', 'NET INCOME', 'RECYCLING', 'RENEWABLE-ENERGY', 'REVENUE GROWTH', 'SHARE PRICE', 'SHAREHOLDER', 'VALUATION']",0.998,0.034,0.81,0.157,positive,0.8348197937011719,0.009221816435456276,0.1559583991765976,0.8255979772657156,0.1111111111111111,1.0,0.18311688,0.50944483,0.7086424,0.5047748621735483,0.36950677884717953
+2026-05-01T21:50:03+00:00,Toyota Motor Corporation (TM) Stock Falls Amid Market Uptick: What Investors Need to Know,"Toyota Motor Corporation (TM) closed at $189.38 in the latest trading session, marking a -1.68% move from the prior day. This change lagged the S&P 500's 0.29% gain on the day. Meanwhile, the Dow experienced a drop of 0.31%, and the technology-dominated Nasdaq saw an increase of 0.89%.
+
+Shares of the company witnessed a loss of 6.95% over the previous month, trailing the performance of the Auto-Tires-Trucks sector with its gain of 2.86%, and the S&P 500's gain of 10.54%.
+
+The upcoming earnings release of Toyota Motor Corporation will be of great interest to investors.
+
+For the entire fiscal year, the Zacks Consensus Estimates are projecting earnings of $18 per share and a revenue of $309.21 billion, representing changes of -23.76% and -1.93%, respectively, from the prior year.
+
+Investors should also pay attention to any latest changes in analyst estimates for Toyota Motor Corporation. Recent revisions tend to reflect the latest near-term business trends. As such, positive estimate revisions reflect analyst optimism about the business and profitability.
+
+Our research demonstrates that these adjustments in estimates directly associate with imminent stock price performance. To capitalize on this, we've crafted the Zacks Rank, a unique model that incorporates these estimate changes and offers a practical rating system.
+
+The Zacks Rank system, ranging from #1 (Strong Buy) to #5 (Strong Sell), possesses a remarkable history of outdoing, externally audited, with #1 stocks returning an average annual gain of +25% since 1988. Within the past 30 days, our consensus EPS projection has moved 2.63% lower. Toyota Motor Corporation is holding a Zacks Rank of #3 (Hold) right now.
+
+From a valuation perspective, Toyota Motor Corporation is currently exchanging hands at a Forward P/E ratio of 8.57. This indicates a discount in contrast to its industry's Forward P/E of 9.87.
+
+The Automotive - Foreign industry is part of the Auto-Tires-Trucks sector. Currently, this industry holds a Zacks Industry Rank of 184, positioning it in the bottom 25% of all 250+ industries.
+
+The Zacks Industry Rank is ordered from best to worst in terms of the average Zacks Rank of the individual companies within each of these sectors. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.
+
+To follow TM in the coming trading sessions, be sure to utilize Zacks.com.
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+
+Story Continues
+
+Toyota Motor Corporation (TM) : Free Stock Analysis Report
+
+This article originally published on Zacks Investment Research (zacks.com).
+
+Zacks Investment Research
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/toyota-motor-corporation-tm-stock-215003757.html,"['DJI.INDX', 'GSPC.INDX', 'TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US']","['ANALYST-ESTIMATES', 'AUTOMOTIVE', 'EARNINGS', 'EARNINGS RELEASE', 'ESTIMATE REVISIONS', 'VALUATION']",0.993,0.031,0.842,0.128,negative,0.32391563057899475,0.46651890873908997,0.20956546068191528,-0.14260327816009521,0.125,1.0,0.3233945,0.66095555,1.0,0.5019895256043925,0.4946370300698425
+2026-05-01T00:22:00+00:00,Reach Showcases Full-Stack Product Portfolio for AI Vehicle Intelligent Evolution at Auto China 2026,"BEIJING, April 30, 2026 /PRNewswire/ -- At Auto China 2026, Reach officially unveiled its full-stack product portfolio designed to accelerate the intelligent evolution of AI vehicles. Industry leaders and experts, along with executives and representatives from Honda, Toyota, FAW, Geely, GAC, Dongfeng Voyah, FAW Jiefang, BMW, Volkswagen CARIAD, Chery, Nissan, Mazda, Hitachi Astemo, Bosch, UAES, ZTE Microelectronics and other global OEMs and industry partners, visited the booth for in-depth discussions on the future of AI-powered mobility and intelligent vehicle evolution.
+
+At the show, Reach demonstrated how AI vehicles are moving from ""responding to commands"" to ""understanding intent and proactively serving users."" Human-vehicle interaction is evolving from isolated smart functions to integrated intelligent experiences, creating a new vision for future mobility.
+
+Supporting this transformation is Reach's full-stack portfolio covering five key areas: AI Vehicle Neural Foundation, Emotional Cognition, Intelligent Driving Brain, Vehicle-Cloud Computational Brain, and Energy Heart.
+
+At the core is NeuSAR OS, the digital foundation for AI vehicles. Backed by over 10 million production deployments, it provides secure, reliable, and scalable support for AI applications, enabling unified management of vehicle-wide capabilities, cross-domain resources, and AI Agents while improving development efficiency by 30%–50%.
+
+Cloud OS introduces a vehicle-cloud collaborative computing architecture that allows flexible scheduling between onboard small models and cloud-based large models, reducing hardware dependency and optimizing computing costs.
+
+For intelligent driving, Reach's full-stack AI solution and fifth-generation architecture NeuAUTO support faster mass production across passenger and commercial vehicles through unified software architecture and end-to-end AI models.
+
+Reach AI Data-driven EV power system enables proactive battery health management and energy optimization. It also introduced AI-powered automated testing systems to improve testing efficiency and coverage.
+
+Reach also launched its lifecycle-wide AI Agent solution, built on a full-domain data platform and intelligent systems for planning, after-sales, and operations, it supports product planning, price forecasting, safety monitoring, and customer operations across the full vehicle lifecycle.
+
+As AI vehicles evolve toward full-system intelligence, system-level capability building and ecosystem collaboration are becoming the key to competitiveness. Reach is collaborating with global OEMs, Tier 1 suppliers, and semiconductor partners to accelerate large-scale industrial deployment.
+
+Story Continues
+
+Looking ahead, Reach continues advancing its full-stack portfolio through stronger innovation and deeper ecosystem collaboration, enabling vehicles evolve into true intelligent agents and delivering smarter, safer, and more trusted mobility experiences worldwide.Cision
+
+View original content to download multimedia:https://www.prnewswire.com/apac/news-releases/reach-showcases-full-stack-product-portfolio-for-ai-vehicle-intelligent-evolution-at-auto-china-2026-302759688.html
+
+View Comments",https://finance.yahoo.com/sectors/technology/articles/reach-showcases-full-stack-product-002200945.html,"['0175.HK', '1BMW.MI', '2238.HK', '7201.TSE', '7261.TSE', 'BAMXF.US', 'BMW.DU', 'BMW.F', 'BMW.HM', 'BMW.MU', 'BMW3.F', 'BMWM5N.MX', 'BYMOF.US', 'GELYF.US', 'GNZUF.US', 'GNZUY.US', 'GRU.DU', 'GRU.F', 'GRU.HM', 'GRU.MU', 'HDMA.F', 'HMC.US', 'HNDAF.US', 'HOND34.SA', 'MZA.DU', 'MZA.F', 'MZA0.F', 'MZDAF.US', 'MZDAY.US', 'NISA.DU', 'NISA.F', 'NISA.MU', 'NISE.F', 'NSANF.US', 'NSANY.US', 'TM.US', 'TMCO34.SA', 'TMN.MX', 'TOM.DU', 'TOM.F', 'TOM.HM', 'TOM.MU', 'TOMA.F', 'TOYOF.US']","['AI-VEHICLES', 'AUTOMOTIVE-TECHNOLOGY', 'INTELLIGENT-MOBILITY', 'VEHICLE-CLOUD-COMPUTING']",0.998,0.005,0.739,0.256,neutral,0.46536725759506226,0.009309765882790089,0.5253230333328247,0.45605749171227217,0.034482758620689655,0.0,0.04017094,0.28419942,0.27549177,0.4594393811132187,0.1374974008126898
