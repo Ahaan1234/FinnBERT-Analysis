@@ -40,26 +40,50 @@ class ContentRetriever:
     def already_retrieved(self):
         return Path(self.output_path).exists()
 
+    EODHD_MAX_PAGES = 20  # safety cap: 20 * 1000 = 20k articles before giving up
+
     def fetch_eodhd_articles(self):
         # EODHD's `from`/`to` params silently return 0 results for some
         # tickers (e.g. SAP.XETRA) even though articles exist in that
-        # window - fetching unfiltered and trimming client-side avoids
-        # the bug entirely and matches what a manual unfiltered URL returns.
-        params = {
-            "s": self.ticker,
-            "limit": 1000,
-            "api_token": EODHD_API_KEY,
-            "fmt": "json",
-        }
-        r = requests.get("https://eodhd.com/api/news", params=params, timeout=30)
-        r.raise_for_status()
-        df = pd.json_normalize(r.json())
-        if df.empty:
-            return df
-
-        dates = pd.to_datetime(df["date"], utc=True, errors="coerce")
+        # window, so we fetch unfiltered (most-recent-first) and trim
+        # client-side instead. For high-volume tickers (e.g. AAPL) a single
+        # page of 1000 doesn't reach far enough back, so we paginate with
+        # `offset` until we've passed the window's start date.
         window_start = pd.Timestamp(self.date_from, tz="UTC")
         window_end = pd.Timestamp(self.date_to, tz="UTC") + pd.Timedelta(days=1)
+
+        all_rows = []
+        offset = 0
+        limit = 1000
+        for _ in range(self.EODHD_MAX_PAGES):
+            params = {
+                "s": self.ticker,
+                "limit": limit,
+                "offset": offset,
+                "api_token": EODHD_API_KEY,
+                "fmt": "json",
+            }
+            r = requests.get("https://eodhd.com/api/news", params=params, timeout=30)
+            r.raise_for_status()
+            batch = r.json()
+            if not batch:
+                break
+
+            batch_df = pd.json_normalize(batch)
+            all_rows.append(batch_df)
+
+            oldest_in_batch = pd.to_datetime(batch_df["date"], utc=True, errors="coerce").min()
+            if oldest_in_batch <= window_start or len(batch) < limit:
+                break
+
+            offset += limit
+            time.sleep(0.5)  # polite pacing between paginated eodhd calls
+
+        if not all_rows:
+            return pd.DataFrame()
+
+        df = pd.concat(all_rows, ignore_index=True)
+        dates = pd.to_datetime(df["date"], utc=True, errors="coerce")
         return df[(dates >= window_start) & (dates < window_end)].reset_index(drop=True)
 
     def fetch_yfinance_articles(self):

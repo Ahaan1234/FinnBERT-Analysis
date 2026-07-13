@@ -1,0 +1,486 @@
+date,title,content,link,symbols,tags,sentiment.polarity,sentiment.neg,sentiment.neu,sentiment.pos,sentiment,finbert_sentiment,finbert_positive,finbert_negative,finbert_neutral,sentiment_score,symbol_crowding_score,title_mention_score,content_density_score,cosine_similarity_score,normalized_cosine_score,recency_score,relevance_score
+2026-05-01T14:37:09+00:00,Asian Equities Traded in the US as American Depositary Receipts Rise Slightly Higher in Friday Trading; End Week on Flat Note,"Asian equities traded in the US as American depositary receipts were tracking slightly higher Friday
+
+PREMIUM
+
+Upgrade to read this MT Newswires article and get so much more.
+
+A Silver or Gold subscription plan is required to access premium news articles.
+
+Upgrade
+
+Already have a subscription? Sign in",https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143709091.html,"['034220.KS', '9866.HK', 'I1FO34.SA', 'IBN.US', 'INFY.US', 'IOY.F', 'IQ.US', 'IQ8.F', 'LGA.F', 'LPL.US', 'MLCO.US', 'N3I.F', 'N3IA.F', 'NIO.US', 'NIOIF.US', 'NMR.US', 'PHI.US', 'RDY.US', 'SE.US', 'SIMO.US', 'SMO.US', 'TLK.US', 'WIT.US']",[],0.0,0.0,1.0,0.0,,neutral,0.09697027504444122,0.018446441739797592,0.8845832943916321,0.07852383330464363,0.045454545454545456,0.0,0.0,0.32197165,0.15047325,1.0,0.14898194934834136
+2026-05-01T14:06:17+00:00,SoftBank-Tied Deal Raises Nearly $1 Billion for US Data Centers,"(Bloomberg) -- A data-center developer sold $999 million of junk bonds for a project leased to a SoftBank Group Corp. subsidiary, capping April’s surge of debt issuance to help fund artificial intelligence efforts amid some concerns that such spending won’t pay off.
+
+Most Read from Bloomberg
+
+US Seeks to Deploy Hypersonic Missile for the First Time Against Iran Two NJ Malls Separated by Just Four Miles — and Very Different Fates Trump Says Iran Blockade ‘Incredible’ as Pump Prices Keep Rising Trump Family-Backed Drone Firm Signs Weapons Deal With US North Korea Confirms Suicide Rule for Soldiers Ukraine Captures
+
+SE Cosmos LLC priced five-year notes at a roughly 9% yield, according to a person with direct knowledge of the matter who asked not to be identified as they’re not authorized to speak publicly.
+
+That would mark the highest borrowing cost for a data center-linked junk bond deal so far this year, according to Bloomberg-compiled data. It’s also higher than earlier pricing discussions of low-to-mid 8%, the people said, asking not to be identified because they’re not authorized to speak publicly.
+
+A representative for Morgan Stanley, one of the banks running the deal, declined to comment. Those for SoftBank and Nomura Holdings Inc., which is also involved in the transaction, didn’t respond to requests for comment.
+
+Proceeds are to help develop a 50-megawatt data center in Austin, Texas, that is fully leased to a SoftBank unit under a 15-year contract, the person said. The deal includes sweeteners such as lease rent backstop dates that ensure cash flow starting in December regardless of construction status.
+
+Firms tied to the AI buildout have raised $28 billion from riskier bonds so far this year, much of it this month according to data compiled by Bloomberg, as a number of small firms with lease contracts from hyperscalers ramp up spending to fund infrastructure needed for the AI boom.
+
+But after a $300 billion AI debt binge that spanned every corner of the credit market, investors are starting to show some signs of fatigue even as a record $5.7 billion deal to fund Alphabet Inc.’s Google-linked data centers earlier this month.
+
+On Tuesday, a Nevada data center project tied to Nvidia Corp. sold a $4.59 billion note — albeit at a higher yield than a similar offering in February.
+
+Meta Platforms Inc. on Thursday priced $25 billion of bonds with bigger spreads than a deal with the same-tenored notes in October, after boosting its projected 2026 capital expenditures. Quarterly reports out Wednesday from the four biggest spenders on AI data farms showed that Alphabet Inc.’s Google is seeing a clear payoff from its AI spending while Meta is lagging behind.
+
+Story Continues
+
+The SE Cosmos offering was run by Morgan Stanley and Nomura Holdings Inc.
+
+Most Read from Bloomberg Businessweek
+
+‘I Have Half of MAGA’: The Republican Challenging Trump From Within It’s Boating Season, But Only If You Can Afford Fuel Running America’s Second-Busiest Airport in Turbulent Times United’s CEO Is Here to Buy Your Struggling Airline Outrage Over Pesticides Is Alienating Some Trump Voters
+
+©2026 Bloomberg L.P.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/softbank-tied-deal-raises-nearly-140617622.html,"['1FB.MI', '1GOOG.MI', '1GOOGL.MI', '1NVDA.MI', '9984.TSE', 'ABE0.F', 'ABEA.F', 'ABEC.F', 'DWD.DU', 'DWD.F', 'DWD.HM', 'DWD.MU', 'FB20.F', 'FB2A.F', 'FB2A.HM', 'GOGL34.SA', 'GOGL35.SA', 'GOOG.MX', 'GOOG.US', 'GOOGL.BA', 'GOOGL.MX', 'GOOGL.SN', 'GOOGL.US', 'M1TA34.SA', 'META.US', 'MS-PA.US', 'MS-PE.US', 'MS-PF.US', 'MS-PI.US', 'MS-PK.US', 'MS-PQ.US', 'MS.MX', 'MS.US', 'MSBR34.SA', 'NMR.US', 'NMRH34.SA', 'NRSCF.US', 'NSE.DU', 'NSE.F', 'NSE.HM', 'NSEA.F', 'NVD.DU', 'NVD.F', 'NVD.HA', 'NVD.HM', 'NVDA.MX', 'NVDA.US', 'NVDC34.SA', 'NVDG.F', 'SFT.DU']","['AI', 'CREDIT-MARKET', 'DATA-CENTERS', 'DEBT-ISSUANCE', 'JUNK-BONDS']",-0.691,0.05,0.906,0.043,,positive,0.6492030024528503,0.08825138956308365,0.2625456154346466,0.5609516128897667,0.03333333333333333,0.0,0.048107535,0.27482975,0.046155594,0.9978797169573392,0.13649784072783874
+2026-04-28T15:40:03+00:00,NMR vs. HOOD: Which Stock Is the Better Value Option?,"Investors interested in Financial - Investment Bank stocks are likely familiar with Nomura Holdings (NMR) and Robinhood Markets, Inc. (HOOD). But which of these two stocks is more attractive to value investors? We'll need to take a closer look to find out.
+
+There are plenty of strategies for discovering value stocks, but we have found that pairing a strong Zacks Rank with an impressive grade in the Value category of our Style Scores system produces the best returns. The Zacks Rank favors stocks with strong earnings estimate revision trends, and our Style Scores highlight companies with specific traits.
+
+Nomura Holdings has a Zacks Rank of #2 (Buy), while Robinhood Markets, Inc. has a Zacks Rank of #4 (Sell) right now. The Zacks Rank favors stocks that have recently seen positive revisions to their earnings estimates, so investors should rest assured that NMR has an improving earnings outlook. But this is just one piece of the puzzle for value investors.
+
+Value investors analyze a variety of traditional, tried-and-true metrics to help find companies that they believe are undervalued at their current share price levels.
+
+The Style Score Value grade factors in a variety of key fundamental metrics, including the popular P/E ratio, P/S ratio, earnings yield, cash flow per share, and a number of other key stats that are commonly used by value investors.
+
+NMR currently has a forward P/E ratio of 9.82, while HOOD has a forward P/E of 43.03. We also note that NMR has a PEG ratio of 1.85. This popular figure is similar to the widely-used P/E ratio, but the PEG ratio also considers a company's expected EPS growth rate. HOOD currently has a PEG ratio of 2.52.
+
+Another notable valuation metric for NMR is its P/B ratio of 0.89. Investors use the P/B ratio to look at a stock's market value versus its book value, which is defined as total assets minus total liabilities. By comparison, HOOD has a P/B of 8.27.
+
+Based on these metrics and many more, NMR holds a Value grade of A, while HOOD has a Value grade of F.
+
+NMR is currently sporting an improving earnings outlook, which makes it stick out in our Zacks Rank model. And, based on the above valuation metrics, we feel that NMR is likely the superior value option right now.
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+
+Nomura Holdings Inc ADR (NMR) : Free Stock Analysis Report
+
+Robinhood Markets, Inc. (HOOD) : Free Stock Analysis Report
+
+This article originally published on Zacks Investment Research (zacks.com).
+
+Zacks Investment Research
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/nmr-vs-hood-stock-better-154003557.html,"['7KY.F', 'HOOD.US', 'NMR.US', 'NMRH34.SA', 'NRSCF.US', 'NSE.DU', 'NSE.F', 'NSE.HM', 'NSEA.F']","['EARNINGS ESTIMATE', 'FINANCIALS', 'GROWTH RATE', 'INVESTMENT-BANK', 'SHARE PRICE', 'VALUE-INVESTING']",0.999,0.004,0.75,0.246,,neutral,0.20345573127269745,0.013028865680098534,0.7835153937339783,0.19042686559259892,0.14285714285714285,1.0,0.33415234,0.5447143,0.64336777,0.7462177853148382,0.4381313253904076
+2026-04-28T13:40:03+00:00,Are Investors Undervaluing Nomura (NMR) Right Now?,"Here at Zacks, we focus on our proven ranking system, which places an emphasis on earnings estimates and estimate revisions, to find winning stocks. But we also understand that investors develop their own strategies, so we are constantly looking at the latest trends in value, growth, and momentum to find strong companies for our readers.
+
+Considering these trends, value investing is clearly one of the most preferred ways to find strong stocks in any type of market. Value investors use tried-and-true metrics and fundamental analysis to find companies that they believe are undervalued at their current share price levels.
+
+Zacks has developed the innovative Style Scores system to highlight stocks with specific traits. For example, value investors will be interested in stocks with great grades in the ""Value"" category. When paired with a high Zacks Rank, ""A"" grades in the Value category are among the strongest value stocks on the market today.
+
+One company to watch right now is Nomura (NMR). NMR is currently sporting a Zacks Rank #2 (Buy), as well as a Value grade of A. The stock is trading with a P/E ratio of 9.7, which compares to its industry's average of 13.01. Over the past 52 weeks, NMR's Forward P/E has been as high as 11.13 and as low as 6.19, with a median of 8.63.
+
+We should also highlight that NMR has a P/B ratio of 0.89. The P/B is a method of comparing a stock's market value to its book value, which is defined as total assets minus total liabilities. NMR's current P/B looks attractive when compared to its industry's average P/B of 2.34. Over the past 12 months, NMR's P/B has been as high as 0.90 and as low as 0.62, with a median of 0.77.
+
+Value investors also use the P/S ratio. The P/S ratio is calculated as price divided by sales. Some people prefer this metric because sales are harder to manipulate on an income statement. This means it could be a truer performance indicator. NMR has a P/S ratio of 0.72. This compares to its industry's average P/S of 2.15.
+
+Finally, our model also underscores that NMR has a P/CF ratio of 7.63. This metric takes into account a company's operating cash flow and can be used to find stocks that are undervalued based on their solid cash outlook. This company's current P/CF looks solid when compared to its industry's average P/CF of 16.57. Over the past 52 weeks, NMR's P/CF has been as high as 9.60 and as low as 5.73, with a median of 7.23.
+
+These are just a handful of the figures considered in Nomura's great Value grade. Still, they help show that the stock is likely being undervalued at the moment. Add this to the strength of its earnings outlook, and we can clearly see that NMR is an impressive value stock right now.
+
+Story Continues
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+
+Nomura Holdings Inc ADR (NMR) : Free Stock Analysis Report
+
+This article originally published on Zacks Investment Research (zacks.com).
+
+Zacks Investment Research
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-nomura-nmr-now-134003282.html,"['NMR.US', 'NMRH34.SA', 'NRSCF.US', 'NSE.DU', 'NSE.F', 'NSE.HM', 'NSEA.F']","['EARNINGS', 'ESTIMATE REVISIONS', 'FINANCIALS', 'SHARE PRICE', 'VALUE-INVESTING']",0.998,0.014,0.812,0.174,,neutral,0.13676981627941132,0.06341936439275742,0.7998108267784119,0.0733504518866539,0.2,1.0,0.2799314,0.6156275,0.80028766,0.740085516876683,0.4720564563579068
+2026-04-27T18:05:08+00:00,"Intel Upgraded, Toyota Downgraded: Updated Rankings on Top Blue-Chip Stocks","During these busy times, it pays to stay on top of the latest profit opportunities. And today’s blog post should be a great place to start. After taking a close look at the latest data on institutional buying pressure and each company’s fundamental health, I decided to revise my Stock Grader recommendations for 120 big blue chips. Chances are that you have at least one of these stocks in your portfolio, so you may want to give this list a skim and act accordingly.
+
+This Week’s Ratings Changes:
+
+Upgraded: Strong to Very Strong
+
+Symbol Company Name Quantitative Grade Fundamental Grade Total Grade APG APi Group Corporation A C A BKR Baker Hughes Company Class A A C A CBOE Cboe Global Markets Inc A B A CTRA Coterra Energy Inc. A C A CX Cemex SAB de CV Sponsored ADR A B A EME EMCOR Group, Inc. A B A EQT EQT Corporation A B A HAL Halliburton Company A B A INTC Intel Corporation A C A KLAC KLA Corporation A C A NXT Nextpower Inc. Class A A B A RCI Rogers Communications Inc. Class B A C A
+
+Downgraded: Very Strong to Strong
+
+Symbol Company Name Quantitative Grade Fundamental Grade Total Grade AGI Alamos Gold Inc. B B B BWXT BWX Technologies, Inc. A B B E Eni S.p.A. Sponsored ADR A C B ELAN Elanco Animal Health, Inc. A C B FTAI FTAI Aviation Ltd. A C B GSK GSK plc Sponsored ADR B B B HII Huntington Ingalls Industries, Inc. A C B HTHT H World Group Limited Sponsored ADR B B B ITUB Itau Unibanco Holding S.A. Sponsored ADR Pfd B B B JNJ Johnson & Johnson A C B RIO Rio Tinto plc Sponsored ADR A C B TEVA Teva Pharmaceutical Industries Limited Sponsored ADR A B B TIMB TIM S.A. Sponsored ADR A B B UTHR United Therapeutics Corporation A C B VALE Vale S.A. Sponsored ADR A C B VIK Viking Holdings Ltd B B B WWD Woodward, Inc. A B B
+
+Upgraded: Neutral to Strong
+
+Symbol Company Name Quantitative Grade Fundamental Grade Total Grade ARM ARM Holdings PLC Sponsored ADR B C B AWK American Water Works Company, Inc. B C B CEG Constellation Energy Corporation B D B CQP Cheniere Energy Partners, L.P. B B B DOV Dover Corporation B C B DOW Dow, Inc. B C B EGP EastGroup Properties, Inc. B C B EWBC East West Bancorp, Inc. B C B EXC Exelon Corporation B C B KNX Knight-Swift Transportation Holdings Inc. Class A B D B KO Coca-Cola Company B C B OKE ONEOK, Inc. B C B ONTO Onto Innovation, Inc. B D B PAC Grupo Aeroportuario del Pacifico SAB de CV Sponsored ADR Class B B B B PFG Principal Financial Group, Inc. B C B TRV Travelers Companies, Inc. B B B TXN Texas Instruments Incorporated B B B UNP Union Pacific Corporation B C B VFS VinFast Auto Ltd. B C B VZ Verizon Communications Inc. B C B WAB Westinghouse Air Brake Technologies Corporation B C B WM Waste Management, Inc. B C B WST West Pharmaceutical Services, Inc. B B B
+
+Downgraded: Strong to Neutral
+
+Symbol Company Name Quantitative Grade Fundamental Grade Total Grade ABBV AbbVie, Inc. B C C AS Amer Sports, Inc. C B C COR Cencora, Inc. C C C DAL Delta Air Lines, Inc. B D C DE Deere & Company C C C GD General Dynamics Corporation B C C GE GE Aerospace C B C H Hyatt Hotels Corporation Class A C C C HCA HCA Healthcare Inc B C C HIG Hartford Insurance Group, Inc. C C C ILMN Illumina, Inc. C B C ING ING Groep N.V. Sponsored ADR C B C KT KT Corporation Sponsored ADR C C C LMT Lockheed Martin Corporation B C C LUV Southwest Airlines Co. C C C MCK McKesson Corporation B C C MEDP Medpace Holdings, Inc. C C C MUFG Mitsubishi UFJ Financial Group, Inc. Sponsored ADR C C C NBIX Neurocrine Biosciences, Inc. C C C NMR Nomura Holdings, Inc. Sponsored ADR C C C NTRA Natera, Inc. C C C O Realty Income Corporation C C C PNC PNC Financial Services Group, Inc. C C C T AT&T Inc B C C TEL TE Connectivity plc C B C THC Tenet Healthcare Corporation C B C TXT Textron Inc. C C C
+
+Upgraded: Weak to Neutral
+
+Symbol Company Name Quantitative Grade Fundamental Grade Total Grade AMZN Amazon.com, Inc. C C C APTV Aptiv PLC C C C CBRE CBRE Group, Inc. Class A D B C CNI Canadian National Railway Company C C C COST Costco Wholesale Corporation C C C CP Canadian Pacific Kansas City Limited C C C DHI D.R. Horton, Inc. C C C EW Edwards Lifesciences Corporation D C C FTV Fortive Corp. C C C HBAN Huntington Bancshares Incorporated D C C MSCI MSCI Inc. Class A C C C NWS News Corporation Class B D C C NXPI NXP Semiconductors NV C C C SEIC SEI Investments Company D B C WRB W. R. Berkley Corporation D C C
+
+Downgraded: Neutral to Weak
+
+Symbol Company Name Quantitative Grade Fundamental Grade Total Grade AXP American Express Company D C D BABA Alibaba Group Holding Limited Sponsored ADR D D D BNT Brookfield Wealth Solutions Ltd. Class A D C D CCK Crown Holdings, Inc. D C D CG Carlyle Group Inc D C D CRH CRH public limited company D C D HEI HEICO Corporation D C D HON Honeywell International Inc. D C D IBM International Business Machines Corporation D C D IR Ingersoll Rand Inc. D C D MKL Markel Group Inc. D C D OMC Omnicom Group Inc D D D PSKY Paramount Skydance Corporation Class B D D D RCL Royal Caribbean Group D C D SUZ Suzano S.A. Sponsored ADR D C D TM Toyota Motor Corp. Sponsored ADR D C D TMO Thermo Fisher Scientific Inc. D C D WSM Williams-Sonoma, Inc. D C D
+
+Upgraded: Very Weak to Weak
+
+Symbol Company Name Quantitative Grade Fundamental Grade Total Grade CDW CDW Corporation F C D HRL Hormel Foods Corporation F C D KMB Kimberly-Clark Corporation F C D ROP Roper Technologies, Inc. F C D VRSK Verisk Analytics, Inc. F C D
+
+Downgraded: Weak to Very Weak
+
+Symbol Company Name Quantitative Grade Fundamental Grade Total Grade CRBG Corebridge Financial, Inc. F C F RACE Ferrari NV F C F TSCO Tractor Supply Company F C F
+
+To stay on top of my latest stock ratings, plug your holdings into Stock Grader, my proprietary stock screening tool. But, you must be a subscriber to one of my premium services.
+
+Story Continues
+
+To learn more about my premium service, Growth Investor, and get my latest picks, go here. Or, if you are a member of one of my premium services, you can go here to get started.
+
+InvestorPlace - Stock Market News, Stock Advice & Trading Tips
+
+Sincerely,An image of a cursive signature in black text.
+
+Louis Navellier
+
+Editor, Market 360
+
+The post Intel Upgraded, Toyota Downgraded: Updated Rankings on Top Blue-Chip Stocks appeared first on InvestorPlace.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/intel-upgraded-toyota-downgraded-updated-180508947.html,"['4XY.F', '68V.F', 'ABBV.US', 'AGI.US', 'AMZN.US', 'APG.US', 'APTV.US', 'ARM.US', 'AWK.US', 'AXP.US', 'BABA.US', 'BKR.US', 'BNT.US', 'BWXT.US', 'CBOE.US', 'CBRE.US', 'CCK.US', 'CDW.US', 'CEG.US', 'CEXA.F', 'CEXB.F', 'CNI.US', 'COR.US', 'COST.US', 'CQP.US', 'CRBG.US', 'CRH.US', 'CTRA.US', 'CX.US', 'CXMSF.US', 'DAL.US', 'DHI.US', 'DOV.US', 'DOW.US', 'EGP.US', 'ELAN.US', 'EME.US', 'EQT.US', 'EWBC.US', 'EXC.US', 'FTAI.US', 'FTV.US', 'GSK.US', 'HAL.US', 'HBAN.US', 'HCA.US', 'HEI.US', 'HIG.US', 'HII.US', 'HON.US']","['BLUE-CHIP-STOCKS', 'RATINGS', 'UPGRADE-DOWNGRADE']",0.977,0.037,0.894,0.069,,neutral,0.06039631366729736,0.03368734195828438,0.9059163928031921,0.026708971709012985,0.0196078431372549,0.0,0.020503541,0.37559468,0.26913258,0.6826437084922734,0.14762571722603152
+2026-04-25T14:00:11+00:00,"American Express, Bank of America, Mastercard in losers: week's financials wrap","[Old Fashioned Bank Sign]
+georgeclerk/E+ via Getty Images
+
+The State Street Financial Sel Sec SPDR ETF (XLF [https://seekingalpha.com/symbol/XLF]) closed the trading week 1.01% lower at $51.42.
+
+Investors evaluated [https://seekingalpha.com/news/4579667-s-and-p-500-hits-another-record-high-as-u-s-continues-ceasefire-negotiations-with-iran] the latest developments in the Middle East, including a three-week extension of the truce between Israel and Lebanon.
+
+Meanwhile, earnings releases continued to impact stock movements during the week.
+
+Among megacap stocks, American Express (AXP [https://seekingalpha.com/symbol/AXP]) led the losers, retreating 5.31% to close the week at $314.08.
+
+The credit card company's Q1 earnings and revenue [https://seekingalpha.com/news/4578554-american-express-posts-strong-q1-earnings-as-spending-growth-continues] topped Wall Street consensus estimates as its cardholders continued to spend. Network volume and billed business growth increased from the prior quarter's pace.
+
+However, provision for credit losses [https://seekingalpha.com/news/4578612-american-express-in-charts-q1-network-volumes-106-provisions-for-credit-losses-88-yy] jumped ~9% from the prior year.
+
+Bank of America (BAC [https://seekingalpha.com/symbol/BAC]) was the next on the list, falling 3.45% to close at $52.05.
+
+Mastercard (MA [https://seekingalpha.com/symbol/MA]) (-3.29% to $504.17) was the next major loser. MA is set to report its quarterly financial results [https://seekingalpha.com/symbol/MA/earnings/estimates?period=quarterly] next week.
+
+Goldman Sachs Group (GS [https://seekingalpha.com/symbol/GS]) was the only gainer in the category, advancing 0.10% to $926.91. The week saw the banking giant agree to settle [https://seekingalpha.com/news/4578330-goldman-sachs-said-to-settle-shareholder-lawsuit-over-1mdb] a class action lawsuit that accused it of defrauding shareholders about its work for 1MDB, the Malaysian sovereign wealth fund at the center of a multibillion-dollar scandal.
+
+For largecap stocks, Woori Financial (WF [https://seekingalpha.com/symbol/WF]) (-9.66% W/W to $67.14) and Nomura Holdings (NMR [https://seekingalpha.com/symbol/NMR]) (-8.59% W/W to $7.87) led the weekly [https://seekingalpha.com/news/4579193-nomura-holdings-gaap-eps-of-11899-revenue-of-475849b-does-not-present-earnings-and-dividends-forecasts] decliners [https://seekingalpha.com/news/4579406-woori-financial-reports-q1-results] after posting their quarterly results.
+
+Banco Bilbao Vizcaya Argentaria (BBVA [https://seekingalpha.com/symbol/BBVA]) (-8.30% W/W to $21.87) was the next major loser in the category.
+
+SEI Investments (SEIC [https://seekingalpha.com/symbol/SEIC]) (+11.34% to $88.84) was a notable gainer. The company posted [https://seekingalpha.com/news/4578192-sei-investments-non-gaap-eps-of-1_44-beats-by-0_12-revenue-of-622_18m-beats-by-11_95m] a Q1 EPS and revenue beat this week.
+
+Figure Technology Solutions (FIGR [https://seekingalpha.com/symbol/FIGR]) (-12.33% W/W to $32.15), Sprott (SII [https://seekingalpha.com/symbol/SII]) (-11.93% W/W to $130.69), and Banco BBVA Argentina (BBAR [https://seekingalpha.com/symbol/BBAR]) (-11.86% W/W to $14.43) led the midcap losers.
+
+Meanwhile, Washington Trust Bancorp (WASH [https://seekingalpha.com/symbol/WASH]) (-14.35% W/W to $30.81) and NB Bancorp (NBBK [https://seekingalpha.com/symbol/NBBK]) (-11.91% W/W to $19.82) were the notable smallcap losers, having posted [https://seekingalpha.com/news/4576868-washington-trust-bancorp-non-gaap-eps-of-0_66-misses-by-0_10-revenue-of-57_83m-misses-by] disappointing [https://seekingalpha.com/news/4578301-nb-bancorp-non-gaap-eps-of-0_38-revenue-of-69_38m] Q1 earnings and revenue.
+
+BitFuFu (FUFU [https://seekingalpha.com/symbol/FUFU]) was a major decliner, retreating 14.17% W/W to $2.12.
+
+MORE ON FINANCIALS
+
+ 	* Big Bank Earnings: Resilience And Concern [https://seekingalpha.com/article/4891932-big-bank-earnings-resilience-and-concern]
+ 	* Big Bank Earnings Roundup [https://seekingalpha.com/article/4891852-big-bank-earnings-roundup]
+ 	* 4 CEOs, 4 Framings: The $108B Private Credit Story Begins [https://seekingalpha.com/article/4891680-4-ceos-4-framings-the-108b-private-credit-story-begins]
+ 	* CME Group is the most oversold financial stock as Q1 earnings roll on [https://seekingalpha.com/news/4577776-cme-group-is-the-most-oversold-financial-stock-as-q1-earnings-roll-on]
+ 	* Wilson Bank is the most overbought financial stock as Q1 earnings roll on [https://seekingalpha.com/news/4577027-wilson-bank-is-the-most-overbought-financial-stock-as-q1-earnings-roll-on]
+
+ ",https://seekingalpha.com/news/4579508-american-express-bank-of-america-mastercard-in-losers-weeks-financials-wrap?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news,"['AXP.US', 'BAC.US', 'BBAR.US', 'BBVA.US', 'FIGR.US', 'FUFU.US', 'GS.US', 'MA.US', 'NBBK.US', 'NMR.US', 'SEIC.US', 'SII.US', 'WASH.US', 'WF.US', 'XLF.US']","['CLASS ACTION', 'DIVIDENDS', 'EARNINGS', 'FINANCIAL RESULTS', 'FINANCIALS', 'FINANCIALS\xa0', 'ON THE MOVE', 'QUARTERLY RESULTS', 'SHAREHOLDER']",-0.889,0.076,0.871,0.053,,negative,0.03989806026220322,0.9462733268737793,0.013828588649630547,-0.9063752666115761,0.06666666666666667,0.0,0.08852246,0.38963193,0.30019483,0.5506432421963846,0.1777625581171258
+2026-04-25T07:02:13+00:00,Nomura Holdings Inc (NMR) Full Year 2026 Earnings Call Highlights: Record Net Income Amidst ...,"This article first appeared on GuruFocus.
+
+Full Year Group Net Revenue: JPY2.1677 trillion, up 15% year-on-year. Full Year Income Before Income Taxes: JPY539.8 billion, up 14% year-on-year. Full Year Net Income: JPY362.1 billion, up 6% year-on-year. Full Year ROE: 10.1%. Fourth Quarter Group Net Revenue: JPY577.2 billion, up 5% quarter-on-quarter. Fourth Quarter Income Before Income Taxes: JPY107.7 billion, down 20% quarter-on-quarter. Fourth Quarter Net Income: JPY73.9 billion, down 19% quarter-on-quarter. Fourth Quarter Earnings Per Share: JPY24.34. Fourth Quarter ROE: 8%. Wealth Management Income Before Income Taxes: JPY61.2 billion, up 5% quarter-on-quarter. Investment Management Net Revenue: JPY86.2 billion, up 42% quarter-on-quarter. Wholesale Net Revenue: JPY308.1 billion, down 2% quarter-on-quarter. Common Equity Tier 1 Ratio: 12.9% at the end of March. Annual Dividend: JPY51 per share, with a payout ratio of 41%.
+
+Warning! GuruFocus has detected 5 Warning Sign with NMR. Is NMR fairly valued? Test your thesis with our free DCF calculator.
+
+Release Date: April 24, 2026
+
+For the complete transcript of the earnings call, please refer to the full earnings call transcript.
+
+Positive Points
+
+Nomura Holdings Inc (NYSE:NMR) achieved a record high net income of JPY362.1 billion for the second consecutive year. Group net revenue increased by 15% year-on-year, reaching JPY2.1677 trillion. Wealth Management and Wholesale divisions achieved their highest income since establishment, driving company-wide earnings. Investment Management saw assets under management rise by more than 50% to around JPY137 trillion. The company announced an ordinary dividend of JPY24 per share, bringing the annual dividend to JPY51 per share with a payout ratio of 41%.
+
+Negative Points
+
+Fourth quarter income before income taxes fell 20% to JPY107.7 billion, and net income was down 19% at JPY73.9 billion. An impairment loss at an investee company in Investment Management negatively impacted earnings. Wholesale net revenue fell 2% to JPY308.1 billion, with income before income taxes declining 31% to JPY43.2 billion. Expenses increased by 13% quarter-on-quarter, driven by impairment losses and changes to remuneration regulations. The common equity Tier 1 ratio slightly decreased to 12.9% from 13.0% at the end of December.
+
+Q & A Highlights
+
+Q: Can you explain the backdrop of the JPY12 billion losses booked for the forestry asset management investment? A: Hiroyuki Moriuchi, CFO, explained that the investment was made four years ago when ESG trends were rising globally. However, the ESG environment changed significantly, particularly in the U.S., leading to fundraising difficulties and slower growth than expected. Despite this, the company remains profitable, and efforts are underway to accelerate business in the coming months and years.
+
+Story Continues
+
+Q: What is the outlook for the CET1 ratio in the next quarter, considering the use of the balance sheet for equity derivatives and private credit? A: Moriuchi stated that the CET1 ratio is not expected to decline significantly. The company aims to maintain a balanced portfolio and manage its balance sheet within the framework of self-funding and additional capital, ensuring that business expansion does not significantly impact the CET1 ratio.
+
+Q: What is the impact of the UK regulatory change on personnel expenses, and how does it affect the first quarter? A: Moriuchi noted that the regulatory change led to deferred compensation-related expenses being booked in the fourth quarter, similar to the third quarter. The impact is expected to decrease to near zero in the first quarter, as the change is one-off in nature.
+
+Q: Can you provide more details on the private credit sector diversification and the policy on retail private credit products? A: Moriuchi explained that the private credit portfolio is diversified across sectors such as healthcare, business services, and consumer products. Retail private credit products are sold with the understanding of mid- to long-term investment, and there have been no significant redemption requests.
+
+Q: What is the outlook for wholesale and wealth management expenses, and how does it relate to the cost/income ratio? A: Moriuchi indicated that wholesale expenses are expected to decrease compared to the fourth quarter due to fewer one-time items. For wealth management, despite expected cost increases due to investments and inflation, the company aims to maintain a certain level of margin by tightly controlling costs.
+
+For the complete transcript of the earnings call, please refer to the full earnings call transcript.
+
+View Comments",https://finance.yahoo.com/markets/stocks/articles/nomura-holdings-inc-nmr-full-070213343.html,"['3772.TSE', 'NMR.US', 'NMRH34.SA', 'NRSCF.US', 'NSE.DU', 'NSE.F', 'NSE.HM', 'NSEA.F']","['BALANCE SHEET', 'DIVIDENDS', 'EARNINGS', 'FOURTH QUARTER', 'INVESTMENT-MANAGEMENT', 'NET INCOME']",0.993,0.028,0.876,0.096,,positive,0.73458331823349,0.22542664408683777,0.03999003395438194,0.5091566741466522,0.16666666666666666,1.0,0.070548564,0.705879,1.0,0.5350423030846343,0.4198628944436016
+2026-04-24T14:48:00+00:00,Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading,"Asian equities traded in the US as American depositary receipts were tracking higher Friday morning,
+
+PREMIUM
+
+Upgrade to read this MT Newswires article and get so much more.
+
+A Silver or Gold subscription plan is required to access premium news articles.
+
+Upgrade
+
+Already have a subscription? Sign in",https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144800689.html,"['2DQ.F', '3711.TW', 'ASX.US', 'COE.US', 'H1DB34.SA', 'HDB.US', 'HDFA.F', 'IBN.US', 'INFY.US', 'NMR.US', 'RDY.US', 'SE.US', 'TLK.US', 'VNET.US']",[],0.0,0.0,1.0,0.0,,neutral,0.08377044647932053,0.013508467935025692,0.902721107006073,0.07026197854429483,0.07692307692307693,0.0,0.0,0.3402458,0.1909111,0.500373187161158,0.11699586277555744
+2026-04-24T10:52:30+00:00,Nomura Previews Next Week's Bank of Canada Policy Meeting,"Nomura said it expects the Bank of Canada to leave the policy rate unchanged at Wednesday's policy m
+
+PREMIUM
+
+Upgrade to read this MT Newswires article and get so much more.
+
+A Silver or Gold subscription plan is required to access premium news articles.
+
+Upgrade
+
+Already have a subscription? Sign in",https://finance.yahoo.com/economy/policy/articles/nomura-previews-next-week-apos-105230021.html,"['NMR.US', 'NMRH34.SA', 'NRSCF.US', 'NSE.DU', 'NSE.F', 'NSE.HM', 'NSEA.F']",[],-0.052,0.025,0.975,0.0,,neutral,0.04479806125164032,0.026146583259105682,0.9290553331375122,0.018651477992534637,0.2,0.0,0.0,0.38031077,0.27956858,0.4923353700658981,0.16912568269989198
+2026-04-24T09:01:39+00:00,"Nomura Holdings GAAP EPS of ¥118.99, revenue of ¥4758.49B; does not present earnings and dividends forecasts"," 	* Nomura Holdings press release [https://www.nomuraholdings.com/en/investor/summary/finance/main/011111111111/teaserItems5/0/linkList/0/link/2026_full_usgaap.pdf] (NMR [https://seekingalpha.com/symbol/NMR]): Q1 GAAP EPS of ¥118.99.
+ 	* Revenue of ¥4758.49B (+0.5% Y/Y).
+ 	* EARNINGS FORECASTS FOR THE YEAR ENDING MARCH 31, 2027 Nomura provides investment, financing and related services in the capital markets on a global basis. In the global capital markets there exist uncertainties due to, but not limited to, economic and market conditions. Nomura, therefore, does not present earnings and dividends forecasts 
+
+MORE ON NOMURA HOLDINGS
+
+ 	* Nomura Holdings, Inc. 2026 Q3 - Results - Earnings Call Presentation [https://seekingalpha.com/article/4864501-nomura-holdings-inc-2026-q3-results-earnings-call-presentation]
+ 	* Nomura Holdings, Inc. (NMR) Q3 2026 Earnings Call Transcript [https://seekingalpha.com/article/4864319-nomura-holdings-inc-nmr-q3-2026-earnings-call-transcript]
+ 	* Big banks in top losers; Circle Internet, Coinbase, SoFi among gainers - week's financials wrap [https://seekingalpha.com/news/4561963-big-banks-in-top-losers-circle-internet-coinbase-sofi-among-gainers---weeks-financials-wrap]
+ 	* Nomura Holdings GAAP EPS of ¥94.67, revenue of ¥1590.53B [https://seekingalpha.com/news/4544673-nomura-holdings-gaap-eps-of-9467-revenue-of-159053b]
+ 	* Seeking Alpha’s Quant Rating on Nomura Holdings [https://seekingalpha.com/symbol/NMR/ratings/quant-ratings]
+
+ ",https://seekingalpha.com/news/4579193-nomura-holdings-gaap-eps-of-11899-revenue-of-475849b-does-not-present-earnings-and-dividends-forecasts?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news,['NMR.US'],"['EARNINGS', 'EARNINGS NEWS', 'RATINGS']",-0.573,0.049,0.924,0.028,,neutral,0.02966405265033245,0.08674223721027374,0.8835936784744263,-0.05707818455994129,1.0,1.0,1.0,0.7006835,0.98850316,0.48859678300980763,0.9459854678241054
+2026-04-23T20:00:01+00:00,"Pre-Market Earnings Report for April 24, 2026 :  PG, HCA, SLB, NSC, CHTR, FLG, GNTX, SXT, FHB, WU, APOG, NMR","The following companies are expected to report earnings prior to market open on 04/24/2026.  Visit our Earnings Calendar for a full list of expected earnings releases.
+
+Procter & Gamble Company  (PG)is reporting for the quarter ending March 31, 2026. The consumer company's consensus earnings per share forecast from the 10 analysts that follow the stock is $1.56.  This value represents a 1.30% increase compared to the same quarter last year.  In the past year PG has met analyst expectations once and beat the expectations the other three quarters.  Zacks Investment Research reports that the 2026 Price to Earnings ratio for PG is 20.52 vs. an industry ratio of 15.40, implying that they will have a higher earnings growth than their competitors in the same industry. 
+
+HCA Healthcare, Inc. (HCA)is reporting for the quarter ending March 31, 2026. The medical services company's consensus earnings per share forecast from the 11 analysts that follow the stock is $7.19.  This value represents a 11.47% increase compared to the same quarter last year.  In the past year HCA has beat the expectations every quarter.  The highest one was in the 4th calendar quarter where they beat the consensus by 8.83%.  Zacks Investment Research reports that the 2026 Price to Earnings ratio for HCA is 15.62 vs. an industry ratio of 17.20. 
+
+SLB Limited (SLB)is reporting for the quarter ending March 31, 2026. The technology services company's consensus earnings per share forecast from the 9 analysts that follow the stock is $0.51.  This value represents a 29.17% decrease compared to the same quarter last year. SLB missed the consensus earnings per share in the 1st calendar quarter of 2025 by -2.7%.  Zacks Investment Research reports that the 2026 Price to Earnings ratio for SLB is 20.36 vs. an industry ratio of 9.20, implying that they will have a higher earnings growth than their competitors in the same industry. 
+
+Norfolk Southern Corporation (NSC)is reporting for the quarter ending March 31, 2026. The transportation (rail) company's consensus earnings per share forecast from the 4 analysts that follow the stock is $2.51.  This value represents a 6.69% decrease compared to the same quarter last year. NSC missed the consensus earnings per share in the 1st calendar quarter of 2025 by -1.1%.  Zacks Investment Research reports that the 2026 Price to Earnings ratio for NSC is 24.57 vs. an industry ratio of 16.10, implying that they will have a higher earnings growth than their competitors in the same industry. 
+
+Charter Communications, Inc. (CHTR)is reporting for the quarter ending March 31, 2026. The cable tv company's consensus earnings per share forecast from the 7 analysts that follow the stock is $9.97.  This value represents a 18.41% increase compared to the same quarter last year.  Zacks Investment Research reports that the 2026 Price to Earnings ratio for CHTR is 5.57 vs. an industry ratio of 7.50. 
+
+Flagstar Bank, N.A. (FLG)is reporting for the quarter ending March 31, 2026. The banks (southeast) company's consensus earnings per share forecast from the 9 analysts that follow the stock is $0.03.  This value represents a 113.04% increase compared to the same quarter last year.  Zacks Investment Research reports that the 2026 Price to Earnings ratio for FLG is 26.85 vs. an industry ratio of 11.80, implying that they will have a higher earnings growth than their competitors in the same industry. 
+
+Gentex Corporation (GNTX)is reporting for the quarter ending March 31, 2026. The auto (truck) company's consensus earnings per share forecast from the 3 analysts that follow the stock is $0.44.  This value represents a 2.33% increase compared to the same quarter last year. GNTX missed the consensus earnings per share in the 3rd calendar quarter of 2025 by -2.13%.  Zacks Investment Research reports that the 2026 Price to Earnings ratio for GNTX is 11.79 vs. an industry ratio of 9.70, implying that they will have a higher earnings growth than their competitors in the same industry. 
+
+Sensient Technologies Corporation (SXT)is reporting for the quarter ending March 31, 2026. The chemical company's consensus earnings per share forecast from the 1 analyst that follows the stock is $0.80.  This value represents a 6.98% decrease compared to the same quarter last year.  Zacks Investment Research reports that the 2026 Price to Earnings ratio for SXT is 25.87 vs. an industry ratio of 15.10, implying that they will have a higher earnings growth than their competitors in the same industry. 
+
+First Hawaiian, Inc. (FHB)is reporting for the quarter ending March 31, 2026. The bank (west) company's consensus earnings per share forecast from the 5 analysts that follow the stock is $0.53.  This value represents a 12.77% increase compared to the same quarter last year.  In the past year FHB has beat the expectations every quarter.  The highest one was in the 4th calendar quarter where they beat the consensus by 1.82%.  Zacks Investment Research reports that the 2026 Price to Earnings ratio for FHB is 12.01 vs. an industry ratio of 11.50, implying that they will have a higher earnings growth than their competitors in the same industry. 
+
+Western Union Company  (WU)is reporting for the quarter ending March 31, 2026. The financial transactions company's consensus earnings per share forecast from the 6 analysts that follow the stock is $0.40.  This value represents a 2.44% decrease compared to the same quarter last year. WU missed the consensus earnings per share in the 2nd calendar quarter of 2025 by -4.55%. Apogee Enterprises, Inc. (APOG)is reporting for the quarter ending February 28, 2026. The glass products company's consensus earnings per share forecast from the 2 analysts that follow the stock is $0.88.  This value represents a 1.12% decrease compared to the same quarter last year.  Zacks Investment Research reports that the 2026 Price to Earnings ratio for APOG is 10.28 vs. an industry ratio of 8.30, implying that they will have a higher earnings growth than their competitors in the same industry. 
+
+Nomura Holdings Inc ADR (NMR)is reporting for the quarter ending March 31, 2026. The investment bankers company's consensus earnings per share forecast from the 1 analyst that follows the stock is $0.21.  This value represents a 40.00% increase compared to the same quarter last year.  Zacks Investment Research reports that the 2026 Price to Earnings ratio for NMR is 10.02 vs. an industry ratio of 16.90.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",https://www.nasdaq.com/articles/pre-market-earnings-report-april-24-2026-pg-hca-slb-nsc-chtr-flg-gntx-sxt-fhb-wu-apog-nmr,"['APOG.US', 'CHTR.US', 'FHB.US', 'FLG.US', 'GNTX.US', 'HCA.US', 'NMR.US', 'NSC.US', 'PG.US', 'SLB.US', 'SXT.US', 'WU.US']","['ANALYST-EXPECTATIONS', 'EARNINGS', 'EARNINGS GROWTH', 'EARNINGS PER SHARE', 'FINANCIAL-RESULTS', 'INDUSTRY-COMPARISON', 'PRICE-TO-EARNINGS']",0.997,0.01,0.899,0.092,,negative,0.10259125381708145,0.7795711159706116,0.11783751845359802,-0.6769798621535301,0.08333333333333333,1.0,0.0346644,0.45129013,0.43663478,0.46302862175312337,0.2384274302254187
+2026-04-22T10:00:00+00:00,Morning Brief:  Ceasefire extended,"👋 Good morning! Tuesday saw stocks get a sense of the current version of Fed Chair nominee Kevin Warsh (slightly more hawkish than expected) and saw hope for a swift resolution with Iran dwindle as the US delayed Vice President JD Vance's trip to Pakistan to negotiate with Iran.
+
+Oil prices jumped as the S&P 500 (^GSPC), the Dow (^DJI), and the Nasdaq (^IXIC) all slid 0.6%.
+
+Invest in Gold
+
+Priority Gold: Up to $15k in Free Silver + Zero Account Fees on Qualifying Purchase  Learn More
+
+American Hartford Gold: #1 Precious Metals Dealer in the Nation  Learn More
+
+Thor Metals Group: Best Overall Gold IRA  Learn More
+
+Powered by Money.com - Yahoo may earn commission from the links above.
+
+But just after the closing bell, President Trump said he would extend the expiring ceasefire until Iran submits a new proposal for peace. Indefinitely, it seems, as the president's social media post did not include a date.
+
+On the agenda this morning:
+
+🪑 Warsh in the hot seat
+
+🍎 7 big challenges for Apple's new CEO
+
+🎲 Warsh's odds
+
+🎢 Goldman Sachs sees a rough time ahead for consumers — but a good time for stocks
+
+📸 Yes, that's who you think it is
+
+💼 Some good labor market news
+
+⚛️ Finally, a fusion reactor is happening in the US Sign up for the Yahoo Finance Morning Brief  By subscribing, you are agreeing to Yahoo's  Terms  and  Privacy Policy
+
+Subscribe
+
+📆 What we're watching Wednesday: Tesla opens its books today, kicking off Big Tech quarterly results. The company's had a wild year so far, and we're looking for updates on robotaxis, cheaper EVs, and much more (preview here).
+
+We'll also get plenty of other corporate results, from GE Vernova (GEV) to ServiceNow (NOW) (a SAASpocalypse update, perhaps).
+
+📰 What's on our radar
+
+🍎 New Apple CEO John Ternus faces 7 big challenges as Tim Cook steps down.
+
+🇺🇸 Trump encourages companies not to seek tariff refunds. “If they don’t do that, I’ll remember them,"" he said.
+
+⚖️ New York sues Coinbase and Gemini Titan, calling their prediction markets illegal gambling.
+
+🎮 Microsoft cuts Xbox subscription prices,bucking industry trends.
+
+🍔 Beyond Meat stock is on a tear — here's why.
+
+⚡️ Tesla registrations plunge in California, industry body says.
+
+⚠️ Apple CEO Tim Cook is stepping downjust as its stock breakout is in trouble.
+
+🍏 Apple may have revealed a big earnings clueby announcing Tim Cook’s successor.
+
+📱 Apple's next CEO John Ternus 'must define Apple's futureas ferociously as he defends its past.'
+
+🛢️ Halliburton sees signs of an oil rebound in North America as Iran war lifts prices.
+
+🤝 What Wall Street is saying about Amazon's deepening ties with Anthropic.
+
+😳 Meta to start capturing employee mouse movements, keystrokes for AI training data.
+
+See what else is trending on Yahoo Finance.
+
+🪑 Warsh in the hot seat Kevin Warsh, U.S. President Donald Trump's nominee for Chair of the Federal Reserve, testifies during his Senate Committee on Banking, Housing, and Urban Affairs confirmation hearing in the Dirksen Senate Office Building on April 21, 2026 in Washington, DC. ·Andrew Harnik via Getty Images
+
+Senators grilled Fed chair nominee Kevin Warsh on Tuesday, getting a chance to feel out the man who will take Jerome Powell's seat — at some point, anyway.
+
+Story Continues
+
+It was a zesty 2.5 hours filled with tough questions and tense moments, but, ultimately, few surprises given that he had telegraphed his positions in his opening statement the day before.
+
+Warsh pledged to keep the Fed independent and said “the president never once asked me to commit to any particular interest rate decision, period, and nor would I ever agree to do so if he had, but he never did.""
+
+But he didn't go far enough for Senate Democrats, declining to say who won the 2020 election, failing to name any Trump economic agenda item he disagreed with, and not taking a position on the efforts to fire Fed governor Lisa Cook or the Powell criminal probe.
+
+Warsh did have plenty to say about how he wants to reform the Fed, casting mostly indirect criticism toward the man occupying the chair. With most of the Fed holding Powell in high esteem, one wonders how the comments landed inside the central bank.
+
+With Warsh generally having a solid reputation, the confirmation would likely be a rubber-stamping with a party-line vote. But with Senator Thom Tillis (R- N.C.) blocking the confirmation until the unprecedented investigation of Powell goes away, the proceedings came with a sense of futility.
+
+Something to watch for, however, is whether a face-saving off-ramp for the investigation will materialize.
+
+Read more.
+
+🎲 Warsh's odds, according to prediction markets(Polymarket)
+
+Warsh's broad Republican support means he will succeed Jerome Powell as Fed chair.
+
+The big question is, however, when.
+
+With futures markets largely representing the Fed as a whole since the chair alone doesn't set rates, we're keeping an eye on prediction markets, which show only a 1-in-3 chance of confirmation before Powell's term is up.
+
+(Disclosure: Yahoo Finance has a partnership with Polymarket.)
+
+🍎 7 big challenges for Apple's new CEO Apple's vice president of Hardware Engineering John Ternus speaks during Apple's Worldwide Developer Conference in San Jose, California on June 3, 2019. (BRITTANY HOSEA-SMALL/AFP via Getty Images)·BRITTANY HOSEA-SMALL via Getty Images
+
+Investors are thinking hard about John Ternus, Apple's incoming CEO. Both about who he is and what his promotion means, but also what lies ahead of him and the company.
+
+Our Executive Editor Brian Sozzi wrote a list of seven key challenges:
+
+1. Make Apple AI relevant.
+
+Ternus will get a head start on this from Cook, but he needs to build on it and be unafraid to ink other partnerships. Apple and Google (GOOG) recently entered a multiyear partnership to integrate a custom version of the Gemini AI model as the new foundation for Siri and Apple Intelligence. This collaboration is worth an estimated $1 billion annually.
+
+2. Set Apple up for life after the iPhone.
+
+OpenAI officially acquired Jony Ive’s AI hardware startup, io Products, Inc., in May 2025 for approximately $6.5 billion to form its internal devices division. Despite recent shifts in focus, OpenAI (OPAI.PVT) is still expected to release its first piece of hardware with an eye toward challenging the iPhone this year. Ternus has to use his extensive hardware knowledge to think about what life after the iPhone looks like — and it needs to be more than the foldable device rumored to debut later this year.
+
+3. Reset the size of the Apple workforce in the age of AI, like others in Big Tech.
+
+Big Tech players from Oracle (ORCL) to Amazon (AMZN) to Meta (META) are firing people en masse amid pushes to adopt AI workflows. As is customary with a new CEO, Ternus may want to use his new position to resize Apple's workforce and reallocate those savings to growth investments or shareholder-friendly actions. Doing so would give Ternus an early win with shareholders and Wall Street, even though the headlines wouldn't look good. Apple is estimated to have 80,000 workers in the US and more than 160,000 globally.
+
+4. Decide if Apple wants to put more gas on content ambitions to challenge Amazon and Netflix — or pull back.
+
+Apple has spent an estimated $25 billion to $30 billion on original content for Apple TV+ since its 2019 debut. That's a lot of money for not a lot of hits, other than, say, The Morning Show with Jennifer Aniston and Reese Witherspoon and the F1 movie with Brad Pitt. Ternus has to figure out if Apple wants to go all in on content like Netflix (NFLX) and Amazon (AMZN).
+
+Read the rest.
+
+🎢 Goldman Sachs sees a rough time ahead for consumers — but a good time for stocksA grocery store worker places ground beef in the meat display in Dallas, Wednesday, April 15, 2026. (AP Photo/LM Otero)·ASSOCIATED PRESS
+
+As a Goldman Sachs strategist warned that consumers may be facing a tough few months ahead, another projected stocks ripping higher to the end of the year.
+
+Ben Snider wrote that the recent highs were a hint of what's to come, projecting that the S&P 500 will rise 7% to year's end, finishing at 7,600.
+
+This would be in line with many of the price targets we saw at the end of last year.
+
+On the other side of the house, Goldman's Ronnie Walker noted that the expectation of a solid year of consumer spending has had a stick thrown into its spokes. Now, the strategist wrote, ""we expect weak real consumption growth over the coming month"" as higher gas prices do their damage.
+
+The big question we have: Will we see Main Street and Wall Street converge — or will we see the wealthy top of the K-shaped economy save corporate America's bacon once again?
+
+Read more.
+
+🗣️ Quote of the day
+
+""We can’t say it enough, but Apple cannot watch the AI era from the sidelines as this fourth Industrial Revolution takes hold.""
+
+— Wedbush's Dan Ives, on John Ternus's path ahead
+
+📸 Yes, that's who you think it is Former NFL player Larry Fitzgerald Jr. (L) looks on as Kevin Warsh, President Trump's nominee for Chair of the Federal Reserve, testifies during his Senate Committee on Banking, Housing, and Urban Affairs confirmation hearing in the Dirksen Senate Office Building on April 21, 2026 in Washington, D.C. (Andrew Harnik/Getty Images)·Andrew Harnik via Getty Images
+
+The sports and finance social media universes were somewhat thrown by the sight of NFL Hall of Famer Larry Fitzgerald, the former Arizona Cardinal wide receiver, sitting behind Kevin Warsh.
+
+Apparently, they're friends.
+
+💼 Some good labor market news
+
+Yesterday, we wrote about poor labor market sentiment from the New York Fed. Low satisfaction with pay, but little appetite to seek new jobs — something that we've also been seeing in the quit rate.
+
+But some surprising survey data came in countering that narrative, or at least part of it.
+
+ADP data showed that worker sentiment actually went up in April, reversing seven straight months of declines largely thanks to the healthcare industry.
+
+This doesn't refute the bad sentiment narrative, but rather provides an update since this is April data — not the delayed versions we've seen from the JOLTS data or the New York Fed's.
+
+We'll be looking at the April versions of those releases to see if ADP's trend gets any confirmation.
+
+Read more.
+
+⚛️ One last cool (very hot) thingBob Mumgaard, co-founder and CEO of Commonwealth Fusion Systems, speaks during a Siemens news conference at the annual Consumer Electronics Show in Las Vegas, Nevada, on January 6, 2026. (Photo by Caroline Brehman / AFP via Getty Images)·CAROLINE BREHMAN via Getty Images
+
+Of the two most famous nuclear reactions, only one has made our lightbulbs illuminate.
+
+Nuclear fission needs substantial quantities of uranium, which is expensive to mine and dangerous, has been successfully harnessed for years.
+
+But fusion, which powers the sun, has yet to be used for anything but bombs.
+
+Commercial viability of fusion, which releases energy when hydrogen isotopes collide under heat and pressure, has long been a clean-energy dream since it's potentially much safer without nuclear waste.
+
+Commonwealth Fusion ‌Systems CEO Bob Mumgaard announced that the company's demonstration fusion machine will start in 2027. If and when that works, the company will start the first commercial plant in Virginia.
+
+Read more.
+
+🗓️ Earnings and economic calendar
+
+Wednesday
+
+Economic data: MBA mortgage applications, week ended April 17 (+1.8% previously) Earnings calendar: Tesla (TSLA), Lam Research (LRCX), GE Vernova (GEV), Philip Morris (PM), IBM (IBM), Texas Instruments (TXN), AT&T (T), Boeing (BA), Verity Holdings (VRT), CME Group (CME), ServiceNow (NOW), Boston Scientific (BSX), Moody's Corporation (MCO), CSX Corporation (CSX), Kinder Morgan (KMI), Elevance Health (ELV), TE Connectivity (TEL), United Rentals (URI), Westinghouse (WAB), Waste Connections (WCN), Las Vegas Sands Corp. (LVS), Otis Worldwide Corporation (OTIS), Raymond James Financial (RJF)
+
+Thursday
+
+Economic data: Chicago Fed national activity index, March (-0.11 previously); Initial jobless claims, week ended April 18 (+210,000 expected, +207,000 previously); Continuing claims, week ended April 11 (1.82 million previously); S&P Global US manufacturing PMI, April preliminary reading (52.8 expected, 52.3 previously); S&P Global US services PMI, April preliminary reading (50 expected, 49.8 previously); S&P Global US composite PMI, April preliminary reading (50.3 previously); Kansas City Fed manufacturing activity, April (11 previously) Earnings calendar: Intel (INTC), American Express (AXP), SAP (SAP), Thermo Fisher Scientific (TMO), NextEra Energy (NEE), Gilead Sciences (GILD), Blackstone (BX), Southern Copper (SCCO), Union Pacific (UNP), Honeywell International (HON), Lockheed Martin (LMT), Newmont (NEM), Sanofi (SNY), Comcast (CMCSA), Freeport-McMoran (FCX), Vale S.A. (VALE), Digital Realty Trust (DLR), Baker Hughes (BKR), Infosys (INFY), Nasdaq, Inc (NDAQ), CBRE Group (CBRE)
+
+Friday
+
+Economic data: University of Michigan sentiment, April final reading (48.3 expected, 47.6 previously); U. Mich. current conditions, April final reading (50.1 previously); U. Mich. expectations, April final reading (46.1 previously); U. Mich. 1-year inflation, April final reading (+4.8% previously); U. Mich. 5-10 year inflation, April final reading (+3.4% previously); Kansas City Fed services activity, April (15 previously) Earnings calendar: Procter & Gamble (PG), HCA Healthcare (HCA), Eni S.p.A. (E), SLB (SLB), Norfolk Southern (NSC), Charter Communications (CHTR), Nomura Holdings (NMR), Flagstar Bank (FLG)
+
+Ethan Wolff-Mann is a Senior Editor at Yahoo Finance, running newsletters. Follow him on X @ewolffmann.
+
+Click here for in-depth analysis of the latest stock market news and events moving stock prices
+
+Read the latest financial and business news from Yahoo Finance
+
+View Comments",https://finance.yahoo.com/markets/article/morning-brief-ceasefire-extended-100000849.html,"['1AAPL.MI', 'AAPL.BA', 'AAPL.MX', 'AAPL.US', 'AMZN.US', 'APC.DU', 'APC.F', 'APC.HA', 'APC.HM', 'APC.MU', 'APC8.F', 'AXP.US', 'BKR.US', 'BSX.US', 'CBRE.US', 'CHTR.US', 'CL.COMM', 'CMCSA.US', 'CME.US', 'CSX.US', 'DJI.INDX', 'DLR.US', 'ELV.US', 'FCX.US', 'FLG.US', 'GEV.US', 'GILD.US', 'GOOG.US', 'GSPC.INDX', 'HCA.US', 'HON.US', 'IBM.US', 'INFY.US', 'INTC.US', 'IXIC.INDX', 'KMI.US', 'LMT.US', 'LRCX.US', 'LVS.US', 'MCO.US', 'META.US', 'NDAQ.US', 'NEE.US', 'NEM.US', 'NFLX.US', 'NMR.US', 'NOW.US', 'NSC.US', 'ORCL.US', 'OTIS.US']","['BIG-TECH', 'EARNINGS', 'FED', 'LABOR-MARKET', 'QUARTERLY RESULTS', 'SHAREHOLDER']",0.998,0.043,0.876,0.081,,positive,0.3863182067871094,0.2645958662033081,0.34908583760261536,0.12172234058380127,0.023809523809523808,0.0,0.010989899,0.2539717,0.0,0.4024246754467856,0.05004131308257239

@@ -82,6 +82,27 @@ PIPELINE_CONFIG = {
             "08Jul": {"from": "2026-07-01", "to": "2026-07-08"},
         },
     },
+    "NMR": {
+        "company_name": "Nomura Holdings",
+        "aliases": {"NMR", "Nomura"},
+        "weeks": {
+            "01May": {"from": "2026-04-22", "to": "2026-05-01"},
+        },
+    },
+    "AAPL": {
+        "company_name": "Apple",
+        "aliases": {"AAPL", "Apple"},
+        "weeks": {
+            "10Jun": {"from": "2026-06-01", "to": "2026-06-10"},
+        },
+    },
+    "ASML": {
+        "company_name": "ASML Holding",
+        "aliases": {"ASML"},
+        "weeks": {
+            "22Apr": {"from": "2026-04-13", "to": "2026-04-22"},
+        },
+    },
 }
 
 ACTIVE_TICKER = "SFTBY"
